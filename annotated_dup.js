@@ -1,17 +1,17 @@
 var annotated_dup =
 [
-    [ "AudioSystem", "namespaceAudioSystem.html", [
-      [ "SoundBuilder", "classAudioSystem_1_1SoundBuilder.html", null ],
-      [ "SoundData", "classAudioSystem_1_1SoundData.html", null ],
-      [ "SoundEmitter", "classAudioSystem_1_1SoundEmitter.html", null ],
-      [ "SoundManager", "classAudioSystem_1_1SoundManager.html", null ]
-    ] ],
     [ "MatrixUtils", "namespaceMatrixUtils.html", [
       [ "Attributes", "namespaceMatrixUtils_1_1Attributes.html", [
         [ "ClassSelectorAttribute", "classMatrixUtils_1_1Attributes_1_1ClassSelectorAttribute.html", null ],
         [ "ReadOnlyAttribute", "classMatrixUtils_1_1Attributes_1_1ReadOnlyAttribute.html", null ],
         [ "RequiredFieldAttribute", "classMatrixUtils_1_1Attributes_1_1RequiredFieldAttribute.html", null ],
         [ "ShowIfAttribute", "classMatrixUtils_1_1Attributes_1_1ShowIfAttribute.html", null ]
+      ] ],
+      [ "AudioSystem", "namespaceMatrixUtils_1_1AudioSystem.html", [
+        [ "SoundBuilder", "classMatrixUtils_1_1AudioSystem_1_1SoundBuilder.html", null ],
+        [ "SoundData", "classMatrixUtils_1_1AudioSystem_1_1SoundData.html", null ],
+        [ "SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],
+        [ "SoundManager", "classMatrixUtils_1_1AudioSystem_1_1SoundManager.html", null ]
       ] ],
       [ "DependencyInjection", "namespaceMatrixUtils_1_1DependencyInjection.html", [
         [ "IDependencyProvider", "interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html", null ],
@@ -33,6 +33,9 @@ var annotated_dup =
       [ "Logging", "namespaceMatrixUtils_1_1Logging.html", [
         [ "CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO" ]
       ] ],
+      [ "ShaderHelpers", "namespaceMatrixUtils_1_1ShaderHelpers.html", [
+        [ "NormalizedPositionAsUV0ZW", "classMatrixUtils_1_1ShaderHelpers_1_1NormalizedPositionAsUV0ZW.html", null ]
+      ] ],
       [ "Timers", "namespaceMatrixUtils_1_1Timers.html", [
         [ "CountdownTimer", "classMatrixUtils_1_1Timers_1_1CountdownTimer.html", "classMatrixUtils_1_1Timers_1_1CountdownTimer" ],
         [ "FrequencyTimer", "classMatrixUtils_1_1Timers_1_1FrequencyTimer.html", null ],
@@ -41,13 +44,14 @@ var annotated_dup =
         [ "StopwatchTimer", "classMatrixUtils_1_1Timers_1_1StopwatchTimer.html", null ],
         [ "Timer", "classMatrixUtils_1_1Timers_1_1Timer.html", null ]
       ] ],
+      [ "VFXSystem", "namespaceMatrixUtils_1_1VFXSystem.html", [
+        [ "VFXBuilder", "classMatrixUtils_1_1VFXSystem_1_1VFXBuilder.html", null ],
+        [ "VFXData", "classMatrixUtils_1_1VFXSystem_1_1VFXData.html", null ],
+        [ "VFXEmitter", "classMatrixUtils_1_1VFXSystem_1_1VFXEmitter.html", null ],
+        [ "VFXManager", "classMatrixUtils_1_1VFXSystem_1_1VFXManager.html", "classMatrixUtils_1_1VFXSystem_1_1VFXManager" ]
+      ] ],
       [ "ClampVector2", "classMatrixUtils_1_1ClampVector2.html", "classMatrixUtils_1_1ClampVector2" ],
       [ "OffsetVector2", "classMatrixUtils_1_1OffsetVector2.html", "classMatrixUtils_1_1OffsetVector2" ]
-    ] ],
-    [ "ShaderGraph", "namespaceShaderGraph.html", [
-      [ "Helpers", "namespaceShaderGraph_1_1Helpers.html", [
-        [ "NormalizedPositionAsUV0ZW", "classShaderGraph_1_1Helpers_1_1NormalizedPositionAsUV0ZW.html", null ]
-      ] ]
     ] ],
     [ "System", "namespaceSystem.html", [
       [ "Runtime", "namespaceSystem_1_1Runtime.html", [
@@ -55,12 +59,6 @@ var annotated_dup =
           [ "IsExternalInit", "classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html", null ]
         ] ]
       ] ]
-    ] ],
-    [ "VFXSystem", "namespaceVFXSystem.html", [
-      [ "VFXBuilder", "classVFXSystem_1_1VFXBuilder.html", null ],
-      [ "VFXData", "classVFXSystem_1_1VFXData.html", null ],
-      [ "VFXEmitter", "classVFXSystem_1_1VFXEmitter.html", null ],
-      [ "VFXManager", "classVFXSystem_1_1VFXManager.html", "classVFXSystem_1_1VFXManager" ]
     ] ],
     [ "AnimationCurveVFXProperty", "classAnimationCurveVFXProperty.html", null ],
     [ "AspectRatioElement", "classAspectRatioElement.html", "classAspectRatioElement" ],
@@ -84,6 +82,7 @@ var annotated_dup =
     [ "Optional", "structOptional.html", null ],
     [ "PersistentService", "classPersistentService.html", "classPersistentService" ],
     [ "PersistentSingleton", "classPersistentSingleton.html", "classPersistentSingleton" ],
+    [ "PlayerController", "classPlayerController.html", null ],
     [ "RegulatorSingleton", "classRegulatorSingleton.html", "classRegulatorSingleton" ],
     [ "RequireInterfaceAttribute", "classRequireInterfaceAttribute.html", null ],
     [ "RoutineQueue", "classRoutineQueue.html", "classRoutineQueue" ],

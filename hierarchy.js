@@ -4,7 +4,7 @@ var hierarchy =
       [ "MatrixUtils.DependencyInjection.ProvideAttribute", "classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html", null ]
     ] ],
     [ "BaseMeshEffect", null, [
-      [ "ShaderGraph.Helpers.NormalizedPositionAsUV0ZW", "classShaderGraph_1_1Helpers_1_1NormalizedPositionAsUV0ZW.html", null ]
+      [ "MatrixUtils.ShaderHelpers.NormalizedPositionAsUV0ZW", "classMatrixUtils_1_1ShaderHelpers_1_1NormalizedPositionAsUV0ZW.html", null ]
     ] ],
     [ "MatrixUtils.GenericDatatypes.CoroutineWithData< T >", "classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
@@ -59,25 +59,26 @@ var hierarchy =
     ] ],
     [ "MatrixUtils.Logging.CustomLogger_SO.LogSettings", "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html", null ],
     [ "MonoBehaviour", null, [
-      [ "AudioSystem.SoundEmitter", "classAudioSystem_1_1SoundEmitter.html", null ],
       [ "BuoyantBody", "classBuoyantBody.html", null ],
       [ "DelegateExtensions", "classDelegateExtensions.html", null ],
       [ "GenericInstance", "classGenericInstance.html", null ],
+      [ "MatrixUtils.AudioSystem.SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
       [ "MatrixUtils.GenericDatatypes.Singleton< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html", null ],
+      [ "MatrixUtils.VFXSystem.VFXEmitter", "classMatrixUtils_1_1VFXSystem_1_1VFXEmitter.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
+      [ "PlayerController", "classPlayerController.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
-      [ "VFXSystem.VFXEmitter", "classVFXSystem_1_1VFXEmitter.html", null ],
       [ "tester", "classtester.html", null ]
     ] ],
     [ "MatrixUtils.GenericDatatypes.Observer< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Observer.html", null ],
     [ "PersistentSingleton< SoundManager >", "classPersistentSingleton.html", [
-      [ "AudioSystem.SoundManager", "classAudioSystem_1_1SoundManager.html", null ]
+      [ "MatrixUtils.AudioSystem.SoundManager", "classMatrixUtils_1_1AudioSystem_1_1SoundManager.html", null ]
     ] ],
     [ "PersistentSingleton< VFXManager >", "classPersistentSingleton.html", [
-      [ "VFXSystem.VFXManager", "classVFXSystem_1_1VFXManager.html", null ]
+      [ "MatrixUtils.VFXSystem.VFXManager", "classMatrixUtils_1_1VFXSystem_1_1VFXManager.html", null ]
     ] ],
     [ "PropertyAttribute", null, [
       [ "MatrixUtils.Attributes.ClassSelectorAttribute", "classMatrixUtils_1_1Attributes_1_1ClassSelectorAttribute.html", null ],
@@ -92,10 +93,10 @@ var hierarchy =
     [ "ScriptableObject", null, [
       [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ]
     ] ],
-    [ "SerializableDictionary< VisualEffectAsset, VFXSystem.VFXManager.VFXPoolData >", "classSerializableDictionary.html", null ],
+    [ "SerializableDictionary< VisualEffectAsset, MatrixUtils.VFXSystem.VFXManager.VFXPoolData >", "classSerializableDictionary.html", null ],
     [ "SerializableKeyValuePair< TKey, TValue >", "structSerializableKeyValuePair.html", null ],
-    [ "AudioSystem.SoundBuilder", "classAudioSystem_1_1SoundBuilder.html", null ],
-    [ "AudioSystem.SoundData", "classAudioSystem_1_1SoundData.html", null ],
+    [ "MatrixUtils.AudioSystem.SoundBuilder", "classMatrixUtils_1_1AudioSystem_1_1SoundBuilder.html", null ],
+    [ "MatrixUtils.AudioSystem.SoundData", "classMatrixUtils_1_1AudioSystem_1_1SoundData.html", null ],
     [ "MatrixUtils.Timers.Timer< CountdownTimer >", "classMatrixUtils_1_1Timers_1_1Timer.html", [
       [ "MatrixUtils.Timers.CountdownTimer", "classMatrixUtils_1_1Timers_1_1CountdownTimer.html", null ]
     ] ],
@@ -113,9 +114,9 @@ var hierarchy =
     [ "VisualElement.UxmlTraits", null, [
       [ "AspectRatioElement.UxmlTraits", "classAspectRatioElement_1_1UxmlTraits.html", null ]
     ] ],
-    [ "VFXSystem.VFXBuilder", "classVFXSystem_1_1VFXBuilder.html", null ],
-    [ "VFXSystem.VFXData", "classVFXSystem_1_1VFXData.html", null ],
-    [ "VFXSystem.VFXManager.VFXPoolData", "classVFXSystem_1_1VFXManager_1_1VFXPoolData.html", null ],
+    [ "MatrixUtils.VFXSystem.VFXBuilder", "classMatrixUtils_1_1VFXSystem_1_1VFXBuilder.html", null ],
+    [ "MatrixUtils.VFXSystem.VFXData", "classMatrixUtils_1_1VFXSystem_1_1VFXData.html", null ],
+    [ "MatrixUtils.VFXSystem.VFXManager.VFXPoolData", "classMatrixUtils_1_1VFXSystem_1_1VFXManager_1_1VFXPoolData.html", null ],
     [ "VFXProperty", "classVFXProperty.html", [
       [ "AnimationCurveVFXProperty", "classAnimationCurveVFXProperty.html", null ],
       [ "BoolVFXProperty", "classBoolVFXProperty.html", null ],
