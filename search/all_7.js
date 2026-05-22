@@ -18,5 +18,6 @@ var searchData=
   ['intvfxproperty_15',['IntVFXProperty',['../classIntVFXProperty.html',1,'']]],
   ['invoke_16',['invoke',['../classSerializedMethod.html#aa6f7a9066d0a654cd648d12814349fb8',1,'SerializedMethod.Invoke()'],['../classSerializedMethod.html#aa1a25506aa327971e0082d0a932864cc',1,'SerializedMethod.Invoke(object[] parameters)']]],
   ['isexternalinit_17',['IsExternalInit',['../classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html',1,'System::Runtime::CompilerServices']]],
-  ['itimer_18',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]]
+  ['ispawner_18',['ISpawner',['../interfaceISpawner.html',1,'']]],
+  ['itimer_19',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]]
 ];

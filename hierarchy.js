@@ -9,6 +9,9 @@ var hierarchy =
     [ "MatrixUtils.GenericDatatypes.CoroutineWithData< T >", "classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
+    [ "Editor", null, [
+      [ "BuoyantBodyEditor", "classBuoyantBodyEditor.html", null ]
+    ] ],
     [ "MatrixUtils.DependencyInjection.IDependencyProvider", "interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html", [
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ]
@@ -54,6 +57,7 @@ var hierarchy =
       [ "SerializableHashSet< T >", "classSerializableHashSet.html", null ]
     ] ],
     [ "System.Runtime.CompilerServices.IsExternalInit", "classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html", null ],
+    [ "ISpawner< in T >", "interfaceISpawner.html", null ],
     [ "MatrixUtils.Timers.ITimer", "interfaceMatrixUtils_1_1Timers_1_1ITimer.html", [
       [ "MatrixUtils.Timers.Timer< T >", "classMatrixUtils_1_1Timers_1_1Timer.html", null ]
     ] ],
@@ -68,7 +72,7 @@ var hierarchy =
       [ "MatrixUtils.VFXSystem.VFXEmitter", "classMatrixUtils_1_1VFXSystem_1_1VFXEmitter.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
-      [ "PlayerController", "classPlayerController.html", null ],
+      [ "PlayerMovement", "classPlayerMovement.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
       [ "tester", "classtester.html", null ]

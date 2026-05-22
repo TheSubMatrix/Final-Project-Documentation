@@ -13,5 +13,6 @@ var searchData=
   ['intervaltimer_10',['IntervalTimer',['../classMatrixUtils_1_1Timers_1_1IntervalTimer.html',1,'MatrixUtils::Timers']]],
   ['intvfxproperty_11',['IntVFXProperty',['../classIntVFXProperty.html',1,'']]],
   ['isexternalinit_12',['IsExternalInit',['../classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html',1,'System::Runtime::CompilerServices']]],
-  ['itimer_13',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]]
+  ['ispawner_13',['ISpawner',['../interfaceISpawner.html',1,'']]],
+  ['itimer_14',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]]
 ];
