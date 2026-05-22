@@ -1,0 +1,142 @@
+var hierarchy =
+[
+    [ "Attribute", null, [
+      [ "MatrixUtils.DependencyInjection.ProvideAttribute", "classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html", null ]
+    ] ],
+    [ "BaseMeshEffect", null, [
+      [ "ShaderGraph.Helpers.NormalizedPositionAsUV0ZW", "classShaderGraph_1_1Helpers_1_1NormalizedPositionAsUV0ZW.html", null ]
+    ] ],
+    [ "MatrixUtils.GenericDatatypes.CoroutineWithData< T >", "classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html", null ],
+    [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
+    [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
+    [ "MatrixUtils.DependencyInjection.IDependencyProvider", "interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html", [
+      [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
+      [ "PersistentService< TInterface >", "classPersistentService.html", null ]
+    ] ],
+    [ "IDictionary", null, [
+      [ "SerializableDictionary< TKey, TValue >", "classSerializableDictionary.html", null ]
+    ] ],
+    [ "IDisposable", null, [
+      [ "MatrixUtils.Timers.Timer< T >", "classMatrixUtils_1_1Timers_1_1Timer.html", null ]
+    ] ],
+    [ "IEnumerable", null, [
+      [ "Optional< T >", "structOptional.html", null ]
+    ] ],
+    [ "IEquatable", null, [
+      [ "SerializableGuid", "structSerializableGuid.html", null ]
+    ] ],
+    [ "MatrixUtils.EventBus.IEvent", "interfaceMatrixUtils_1_1EventBus_1_1IEvent.html", null ],
+    [ "MatrixUtils.EventBus.IEventBinding< T >", "interfaceMatrixUtils_1_1EventBus_1_1IEventBinding.html", [
+      [ "MatrixUtils.EventBus.EventBinding< T >", "classMatrixUtils_1_1EventBus_1_1EventBinding.html", null ]
+    ] ],
+    [ "IInjector", "interfaceIInjector.html", [
+      [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ]
+    ] ],
+    [ "InputProcessor", null, [
+      [ "MatrixUtils.ClampVector2", "classMatrixUtils_1_1ClampVector2.html", null ],
+      [ "MatrixUtils.OffsetVector2", "classMatrixUtils_1_1OffsetVector2.html", null ]
+    ] ],
+    [ "CalculateObjectVelocity.InputProperties", "classCalculateObjectVelocity_1_1InputProperties.html", null ],
+    [ "InterfaceArgs", "structInterfaceArgs.html", null ],
+    [ "InterfaceReference< TInterface, Object >", "classInterfaceReference.html", [
+      [ "InterfaceReference< TInterface >", "classInterfaceReference.html", null ]
+    ] ],
+    [ "ISerializationCallbackReceiver", null, [
+      [ "MatrixUtils.GenericDatatypes.SerializableHashSet< T >", "classMatrixUtils_1_1GenericDatatypes_1_1SerializableHashSet.html", null ],
+      [ "SerializableDictionary< TKey, TValue >", "classSerializableDictionary.html", null ],
+      [ "SerializableGrid< T >", "classSerializableGrid.html", null ],
+      [ "SerializableHashSet< T >", "classSerializableHashSet.html", null ],
+      [ "SerializableRegex", "classSerializableRegex.html", null ],
+      [ "SerializableType", "classSerializableType.html", null ],
+      [ "SerializedMethod< TReturn >", "classSerializedMethod.html", null ]
+    ] ],
+    [ "ISet", null, [
+      [ "SerializableHashSet< T >", "classSerializableHashSet.html", null ]
+    ] ],
+    [ "System.Runtime.CompilerServices.IsExternalInit", "classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html", null ],
+    [ "MatrixUtils.Timers.ITimer", "interfaceMatrixUtils_1_1Timers_1_1ITimer.html", [
+      [ "MatrixUtils.Timers.Timer< T >", "classMatrixUtils_1_1Timers_1_1Timer.html", null ]
+    ] ],
+    [ "MatrixUtils.Logging.CustomLogger_SO.LogSettings", "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html", null ],
+    [ "MonoBehaviour", null, [
+      [ "AudioSystem.SoundEmitter", "classAudioSystem_1_1SoundEmitter.html", null ],
+      [ "BuoyantBody", "classBuoyantBody.html", null ],
+      [ "DelegateExtensions", "classDelegateExtensions.html", null ],
+      [ "GenericInstance", "classGenericInstance.html", null ],
+      [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
+      [ "MatrixUtils.GenericDatatypes.Singleton< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html", null ],
+      [ "PersistentService< TInterface >", "classPersistentService.html", null ],
+      [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
+      [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
+      [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
+      [ "VFXSystem.VFXEmitter", "classVFXSystem_1_1VFXEmitter.html", null ],
+      [ "tester", "classtester.html", null ]
+    ] ],
+    [ "MatrixUtils.GenericDatatypes.Observer< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Observer.html", null ],
+    [ "PersistentSingleton< SoundManager >", "classPersistentSingleton.html", [
+      [ "AudioSystem.SoundManager", "classAudioSystem_1_1SoundManager.html", null ]
+    ] ],
+    [ "PersistentSingleton< VFXManager >", "classPersistentSingleton.html", [
+      [ "VFXSystem.VFXManager", "classVFXSystem_1_1VFXManager.html", null ]
+    ] ],
+    [ "PropertyAttribute", null, [
+      [ "MatrixUtils.Attributes.ClassSelectorAttribute", "classMatrixUtils_1_1Attributes_1_1ClassSelectorAttribute.html", null ],
+      [ "MatrixUtils.Attributes.ReadOnlyAttribute", "classMatrixUtils_1_1Attributes_1_1ReadOnlyAttribute.html", null ],
+      [ "MatrixUtils.Attributes.RequiredFieldAttribute", "classMatrixUtils_1_1Attributes_1_1RequiredFieldAttribute.html", null ],
+      [ "MatrixUtils.Attributes.ShowIfAttribute", "classMatrixUtils_1_1Attributes_1_1ShowIfAttribute.html", null ],
+      [ "MatrixUtils.DependencyInjection.InjectAttribute", "classMatrixUtils_1_1DependencyInjection_1_1InjectAttribute.html", null ],
+      [ "RequireInterfaceAttribute", "classRequireInterfaceAttribute.html", null ],
+      [ "TypeFilterAttribute", "classTypeFilterAttribute.html", null ]
+    ] ],
+    [ "RoutineQueue", "classRoutineQueue.html", null ],
+    [ "ScriptableObject", null, [
+      [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ]
+    ] ],
+    [ "SerializableDictionary< VisualEffectAsset, VFXSystem.VFXManager.VFXPoolData >", "classSerializableDictionary.html", null ],
+    [ "SerializableKeyValuePair< TKey, TValue >", "structSerializableKeyValuePair.html", null ],
+    [ "AudioSystem.SoundBuilder", "classAudioSystem_1_1SoundBuilder.html", null ],
+    [ "AudioSystem.SoundData", "classAudioSystem_1_1SoundData.html", null ],
+    [ "MatrixUtils.Timers.Timer< CountdownTimer >", "classMatrixUtils_1_1Timers_1_1Timer.html", [
+      [ "MatrixUtils.Timers.CountdownTimer", "classMatrixUtils_1_1Timers_1_1CountdownTimer.html", null ]
+    ] ],
+    [ "MatrixUtils.Timers.Timer< FrequencyTimer >", "classMatrixUtils_1_1Timers_1_1Timer.html", [
+      [ "MatrixUtils.Timers.FrequencyTimer", "classMatrixUtils_1_1Timers_1_1FrequencyTimer.html", null ]
+    ] ],
+    [ "MatrixUtils.Timers.Timer< IntervalTimer >", "classMatrixUtils_1_1Timers_1_1Timer.html", [
+      [ "MatrixUtils.Timers.IntervalTimer", "classMatrixUtils_1_1Timers_1_1IntervalTimer.html", null ]
+    ] ],
+    [ "MatrixUtils.Timers.Timer< StopwatchTimer >", "classMatrixUtils_1_1Timers_1_1Timer.html", [
+      [ "MatrixUtils.Timers.StopwatchTimer", "classMatrixUtils_1_1Timers_1_1StopwatchTimer.html", null ]
+    ] ],
+    [ "UnityEventFromInputAction", "classUnityEventFromInputAction.html", null ],
+    [ "AspectRatioElement.UxmlFactory", "classAspectRatioElement_1_1UxmlFactory.html", null ],
+    [ "VisualElement.UxmlTraits", null, [
+      [ "AspectRatioElement.UxmlTraits", "classAspectRatioElement_1_1UxmlTraits.html", null ]
+    ] ],
+    [ "VFXSystem.VFXBuilder", "classVFXSystem_1_1VFXBuilder.html", null ],
+    [ "VFXSystem.VFXData", "classVFXSystem_1_1VFXData.html", null ],
+    [ "VFXSystem.VFXManager.VFXPoolData", "classVFXSystem_1_1VFXManager_1_1VFXPoolData.html", null ],
+    [ "VFXProperty", "classVFXProperty.html", [
+      [ "AnimationCurveVFXProperty", "classAnimationCurveVFXProperty.html", null ],
+      [ "BoolVFXProperty", "classBoolVFXProperty.html", null ],
+      [ "ColorVFXProperty", "classColorVFXProperty.html", null ],
+      [ "FloatVFXProperty", "classFloatVFXProperty.html", null ],
+      [ "GradientVFXProperty", "classGradientVFXProperty.html", null ],
+      [ "GraphicsBufferVFXProperty", "classGraphicsBufferVFXProperty.html", null ],
+      [ "IntVFXProperty", "classIntVFXProperty.html", null ],
+      [ "Matrix4x4VFXProperty", "classMatrix4x4VFXProperty.html", null ],
+      [ "MeshVFXProperty", "classMeshVFXProperty.html", null ],
+      [ "SkinnedMeshRendererVFXProperty", "classSkinnedMeshRendererVFXProperty.html", null ],
+      [ "TextureVFXProperty", "classTextureVFXProperty.html", null ],
+      [ "UIntVFXProperty", "classUIntVFXProperty.html", null ],
+      [ "Vector2VFXProperty", "classVector2VFXProperty.html", null ],
+      [ "Vector3VFXProperty", "classVector3VFXProperty.html", null ],
+      [ "Vector4VFXProperty", "classVector4VFXProperty.html", null ]
+    ] ],
+    [ "VFXSpawnerCallbacks", null, [
+      [ "CalculateObjectVelocity", "classCalculateObjectVelocity.html", null ]
+    ] ],
+    [ "VisualElement", null, [
+      [ "AspectRatioElement", "classAspectRatioElement.html", null ]
+    ] ]
+];
