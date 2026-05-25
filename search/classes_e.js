@@ -13,9 +13,10 @@ var searchData=
   ['showifattribute_10',['ShowIfAttribute',['../classMatrixUtils_1_1Attributes_1_1ShowIfAttribute.html',1,'MatrixUtils::Attributes']]],
   ['singleton_11',['Singleton',['../classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html',1,'MatrixUtils::GenericDatatypes']]],
   ['skinnedmeshrenderervfxproperty_12',['SkinnedMeshRendererVFXProperty',['../classSkinnedMeshRendererVFXProperty.html',1,'']]],
-  ['soundbuilder_13',['SoundBuilder',['../classMatrixUtils_1_1AudioSystem_1_1SoundBuilder.html',1,'MatrixUtils::AudioSystem']]],
-  ['sounddata_14',['SoundData',['../classMatrixUtils_1_1AudioSystem_1_1SoundData.html',1,'MatrixUtils::AudioSystem']]],
-  ['soundemitter_15',['SoundEmitter',['../classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html',1,'MatrixUtils::AudioSystem']]],
-  ['soundmanager_16',['SoundManager',['../classMatrixUtils_1_1AudioSystem_1_1SoundManager.html',1,'MatrixUtils::AudioSystem']]],
-  ['stopwatchtimer_17',['StopwatchTimer',['../classMatrixUtils_1_1Timers_1_1StopwatchTimer.html',1,'MatrixUtils::Timers']]]
+  ['so_5fwaterpathingterrain_13',['SO_WaterPathingTerrain',['../classSO__WaterPathingTerrain.html',1,'']]],
+  ['soundbuilder_14',['SoundBuilder',['../classMatrixUtils_1_1AudioSystem_1_1SoundBuilder.html',1,'MatrixUtils::AudioSystem']]],
+  ['sounddata_15',['SoundData',['../classMatrixUtils_1_1AudioSystem_1_1SoundData.html',1,'MatrixUtils::AudioSystem']]],
+  ['soundemitter_16',['SoundEmitter',['../classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html',1,'MatrixUtils::AudioSystem']]],
+  ['soundmanager_17',['SoundManager',['../classMatrixUtils_1_1AudioSystem_1_1SoundManager.html',1,'MatrixUtils::AudioSystem']]],
+  ['stopwatchtimer_18',['StopwatchTimer',['../classMatrixUtils_1_1Timers_1_1StopwatchTimer.html',1,'MatrixUtils::Timers']]]
 ];

@@ -95,7 +95,8 @@ var hierarchy =
     ] ],
     [ "RoutineQueue", "classRoutineQueue.html", null ],
     [ "ScriptableObject", null, [
-      [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ]
+      [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ],
+      [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ]
     ] ],
     [ "SerializableDictionary< VisualEffectAsset, MatrixUtils.VFXSystem.VFXManager.VFXPoolData >", "classSerializableDictionary.html", null ],
     [ "SerializableKeyValuePair< TKey, TValue >", "structSerializableKeyValuePair.html", null ],
