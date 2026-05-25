@@ -99,6 +99,7 @@ var annotated_dup =
     [ "SerializedMethod", "classSerializedMethod.html", "classSerializedMethod" ],
     [ "SkinnedMeshRendererVFXProperty", "classSkinnedMeshRendererVFXProperty.html", null ],
     [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ],
+    [ "TerrainSpawner", "classTerrainSpawner.html", null ],
     [ "tester", "classtester.html", null ],
     [ "TextureVFXProperty", "classTextureVFXProperty.html", null ],
     [ "TypeFilterAttribute", "classTypeFilterAttribute.html", null ],
