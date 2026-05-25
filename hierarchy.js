@@ -75,6 +75,7 @@ var hierarchy =
       [ "PlayerMovement", "classPlayerMovement.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
+      [ "TerrainCleanup", "classTerrainCleanup.html", null ],
       [ "TerrainSpawner", "classTerrainSpawner.html", null ],
       [ "tester", "classtester.html", null ]
     ] ],
