@@ -98,6 +98,7 @@ var annotated_dup =
     [ "SerializableRegex", "classSerializableRegex.html", null ],
     [ "SerializableType", "classSerializableType.html", null ],
     [ "SerializedMethod", "classSerializedMethod.html", "classSerializedMethod" ],
+    [ "ShipMovement", "classShipMovement.html", null ],
     [ "SkinnedMeshRendererVFXProperty", "classSkinnedMeshRendererVFXProperty.html", null ],
     [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ],
     [ "TerrainCleanup", "classTerrainCleanup.html", null ],

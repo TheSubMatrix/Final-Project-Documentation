@@ -46,7 +46,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"namespaceMatrixUtils_1_1ShaderHelpers.html"
+"namespaceMatrixUtils_1_1LowLevel.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
