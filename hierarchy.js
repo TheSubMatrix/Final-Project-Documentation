@@ -35,6 +35,7 @@ var hierarchy =
     [ "IInjector", "interfaceIInjector.html", [
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ]
     ] ],
+    [ "IInteractable", "interfaceIInteractable.html", null ],
     [ "InputProcessor", null, [
       [ "MatrixUtils.ClampVector2", "classMatrixUtils_1_1ClampVector2.html", null ],
       [ "MatrixUtils.OffsetVector2", "classMatrixUtils_1_1OffsetVector2.html", null ]

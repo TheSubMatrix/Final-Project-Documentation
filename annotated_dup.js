@@ -75,6 +75,7 @@ var annotated_dup =
     [ "GradientVFXProperty", "classGradientVFXProperty.html", null ],
     [ "GraphicsBufferVFXProperty", "classGraphicsBufferVFXProperty.html", null ],
     [ "IInjector", "interfaceIInjector.html", null ],
+    [ "IInteractable", "interfaceIInteractable.html", null ],
     [ "InterfaceArgs", "structInterfaceArgs.html", null ],
     [ "InterfaceReference", "classInterfaceReference.html", null ],
     [ "IntVFXProperty", "classIntVFXProperty.html", null ],
