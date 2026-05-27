@@ -104,6 +104,7 @@ var annotated_dup =
     [ "SkinnedMeshRendererVFXProperty", "classSkinnedMeshRendererVFXProperty.html", null ],
     [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ],
     [ "TerrainCleanup", "classTerrainCleanup.html", null ],
+    [ "TerrainOptions", "classTerrainOptions.html", null ],
     [ "TerrainSelector", "classTerrainSelector.html", null ],
     [ "TerrainSpawner", "classTerrainSpawner.html", null ],
     [ "tester", "classtester.html", null ],

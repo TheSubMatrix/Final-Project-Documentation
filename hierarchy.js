@@ -109,6 +109,7 @@ var hierarchy =
     [ "SerializableKeyValuePair< TKey, TValue >", "structSerializableKeyValuePair.html", null ],
     [ "MatrixUtils.AudioSystem.SoundBuilder", "classMatrixUtils_1_1AudioSystem_1_1SoundBuilder.html", null ],
     [ "MatrixUtils.AudioSystem.SoundData", "classMatrixUtils_1_1AudioSystem_1_1SoundData.html", null ],
+    [ "TerrainOptions", "classTerrainOptions.html", null ],
     [ "TerrainSelector", "classTerrainSelector.html", null ],
     [ "MatrixUtils.Timers.Timer< CountdownTimer >", "classMatrixUtils_1_1Timers_1_1Timer.html", [
       [ "MatrixUtils.Timers.CountdownTimer", "classMatrixUtils_1_1Timers_1_1CountdownTimer.html", null ]
