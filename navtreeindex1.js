@@ -1,5 +1,7 @@
 var NAVTREEINDEX1 =
 {
+"namespaceMatrixUtils_1_1GenericDatatypes.html":[0,0,0,5],
+"namespaceMatrixUtils_1_1Logging.html":[0,0,0,6],
 "namespaceMatrixUtils_1_1LowLevel.html":[0,0,0,7],
 "namespaceMatrixUtils_1_1ShaderHelpers.html":[0,0,0,8],
 "namespaceMatrixUtils_1_1Timers.html":[0,0,0,9],
@@ -18,7 +20,7 @@ var NAVTREEINDEX1 =
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a5cdbcea8ce9ac3fd258e9b0c7777a4fb":[0,0,0,6,0,0,0],
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a686a24f1f91925ca4aa1c813dd05a9d7":[1,0,0,5,0,0,2],
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a686a24f1f91925ca4aa1c813dd05a9d7":[0,0,0,6,0,0,2],
-"structOptional.html":[1,0,24],
-"structSerializableGuid.html":[1,0,34],
-"structSerializableKeyValuePair.html":[1,0,36]
+"structOptional.html":[1,0,25],
+"structSerializableGuid.html":[1,0,36],
+"structSerializableKeyValuePair.html":[1,0,38]
 };
