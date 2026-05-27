@@ -101,15 +101,30 @@ Inheritance diagram for PlayerController:</div>
  <div class="center">
   <img src="classPlayerController.png" usemap="#PlayerController_map" alt=""/>
   <map id="PlayerController_map" name="PlayerController_map">
-<area href="interfaceIPlayerController.html" alt="IPlayerController" shape="rect" coords="118,0,226,24"/>
+<area href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ..." alt="IPlayerController" shape="rect" coords="118,0,226,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aae5561944cc1d4c40be9c70718f03e9b" id="r_aae5561944cc1d4c40be9c70718f03e9b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerController.html#aae5561944cc1d4c40be9c70718f03e9b">ChangeControlledEntity</a> (<a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a> controllable)</td></tr>
+<tr class="memdesc:aae5561944cc1d4c40be9c70718f03e9b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Changes the controlled <a class="el" href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque...">IPlayerControllable</a> to the one specified.<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">controllable</td><td>The <a class="el" href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque...">IPlayerControllable</a> we want to have control over</td></tr>
+  </table>
+  </dd>
+</dl>
+  <br /></td></tr>
 <tr class="separator:aae5561944cc1d4c40be9c70718f03e9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae48596ab2d61220fee50bd53e6a258e8" id="r_ae48596ab2d61220fee50bd53e6a258e8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerController.html#ae48596ab2d61220fee50bd53e6a258e8">ChangeInputActions</a> (InputActionAsset actions)</td></tr>
+<tr class="memdesc:ae48596ab2d61220fee50bd53e6a258e8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Changes the InputActionAsset used by the controlled object.<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">actions</td><td>The InputActionAsset we want to swap to</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>A bool indicating a successful map swap</dd></dl>
+  <br /></td></tr>
 <tr class="separator:ae48596ab2d61220fee50bd53e6a258e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
@@ -129,7 +144,15 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="interfaceIPlayerController.html">IPlayerController</a>.</p>
+<p>Changes the controlled <a class="el" href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque...">IPlayerControllable</a> to the one specified.<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">controllable</td><td>The <a class="el" href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque...">IPlayerControllable</a> we want to have control over</td></tr>
+  </table>
+  </dd>
+</dl>
+ </p>
+
+<p>Implements <a class="el" href="interfaceIPlayerController.html#a289ce1ce046c4640f6dd3b425b5e275d">IPlayerController</a>.</p>
 
 </div>
 </div>
@@ -149,7 +172,16 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="interfaceIPlayerController.html">IPlayerController</a>.</p>
+<p>Changes the InputActionAsset used by the controlled object.<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">actions</td><td>The InputActionAsset we want to swap to</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>A bool indicating a successful map swap</dd></dl>
+ </p>
+
+<p>Implements <a class="el" href="interfaceIPlayerController.html#a4f66688f77e281e139dbfa98b92b62fb">IPlayerController</a>.</p>
 
 </div>
 </div>
