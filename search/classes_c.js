@@ -4,7 +4,8 @@ var searchData=
   ['persistentsingleton_1',['PersistentSingleton',['../classPersistentSingleton.html',1,'']]],
   ['persistentsingleton_3c_20soundmanager_20_3e_2',['PersistentSingleton&lt; SoundManager &gt;',['../classPersistentSingleton.html',1,'']]],
   ['persistentsingleton_3c_20vfxmanager_20_3e_3',['PersistentSingleton&lt; VFXManager &gt;',['../classPersistentSingleton.html',1,'']]],
-  ['playerinteraction_4',['PlayerInteraction',['../classPlayerInteraction.html',1,'']]],
-  ['playermovement_5',['PlayerMovement',['../classPlayerMovement.html',1,'']]],
-  ['provideattribute_6',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
+  ['playercontroller_4',['PlayerController',['../classPlayerController.html',1,'']]],
+  ['playerinteraction_5',['PlayerInteraction',['../classPlayerInteraction.html',1,'']]],
+  ['playermovement_6',['PlayerMovement',['../classPlayerMovement.html',1,'']]],
+  ['provideattribute_7',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
 ];

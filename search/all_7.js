@@ -14,11 +14,14 @@ var searchData=
   ['instance_11',['Instance',['../classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html#a5574ce0f1a317e16a08c27a026f0c6fe',1,'MatrixUtils::GenericDatatypes::Singleton']]],
   ['interfaceargs_12',['InterfaceArgs',['../structInterfaceArgs.html',1,'']]],
   ['interfacereference_13',['InterfaceReference',['../classInterfaceReference.html',1,'']]],
-  ['interfacereference_3c_20tinterface_2c_20object_20_3e_14',['InterfaceReference&lt; TInterface, Object &gt;',['../classInterfaceReference.html',1,'']]],
-  ['intervaltimer_15',['IntervalTimer',['../classMatrixUtils_1_1Timers_1_1IntervalTimer.html',1,'MatrixUtils::Timers']]],
-  ['intvfxproperty_16',['IntVFXProperty',['../classIntVFXProperty.html',1,'']]],
-  ['invoke_17',['invoke',['../classSerializedMethod.html#aa6f7a9066d0a654cd648d12814349fb8',1,'SerializedMethod.Invoke()'],['../classSerializedMethod.html#aa1a25506aa327971e0082d0a932864cc',1,'SerializedMethod.Invoke(object[] parameters)']]],
-  ['isexternalinit_18',['IsExternalInit',['../classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html',1,'System::Runtime::CompilerServices']]],
-  ['ispawner_19',['ISpawner',['../interfaceISpawner.html',1,'']]],
-  ['itimer_20',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]]
+  ['interfacereference_3c_20iplayercontrollable_20_3e_14',['InterfaceReference&lt; IPlayerControllable &gt;',['../classInterfaceReference.html',1,'']]],
+  ['interfacereference_3c_20tinterface_2c_20object_20_3e_15',['InterfaceReference&lt; TInterface, Object &gt;',['../classInterfaceReference.html',1,'']]],
+  ['intervaltimer_16',['IntervalTimer',['../classMatrixUtils_1_1Timers_1_1IntervalTimer.html',1,'MatrixUtils::Timers']]],
+  ['intvfxproperty_17',['IntVFXProperty',['../classIntVFXProperty.html',1,'']]],
+  ['invoke_18',['invoke',['../classSerializedMethod.html#aa6f7a9066d0a654cd648d12814349fb8',1,'SerializedMethod.Invoke()'],['../classSerializedMethod.html#aa1a25506aa327971e0082d0a932864cc',1,'SerializedMethod.Invoke(object[] parameters)']]],
+  ['iplayercontrollable_19',['IPlayerControllable',['../interfaceIPlayerControllable.html',1,'']]],
+  ['iplayercontroller_20',['IPlayerController',['../interfaceIPlayerController.html',1,'']]],
+  ['isexternalinit_21',['IsExternalInit',['../classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html',1,'System::Runtime::CompilerServices']]],
+  ['ispawner_22',['ISpawner',['../interfaceISpawner.html',1,'']]],
+  ['itimer_23',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]]
 ];

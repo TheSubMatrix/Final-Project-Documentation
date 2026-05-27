@@ -42,8 +42,15 @@ var hierarchy =
     ] ],
     [ "CalculateObjectVelocity.InputProperties", "classCalculateObjectVelocity_1_1InputProperties.html", null ],
     [ "InterfaceArgs", "structInterfaceArgs.html", null ],
+    [ "InterfaceReference< IPlayerControllable >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< TInterface, Object >", "classInterfaceReference.html", [
       [ "InterfaceReference< TInterface >", "classInterfaceReference.html", null ]
+    ] ],
+    [ "IPlayerControllable", "interfaceIPlayerControllable.html", [
+      [ "PlayerMovement", "classPlayerMovement.html", null ]
+    ] ],
+    [ "IPlayerController", "interfaceIPlayerController.html", [
+      [ "PlayerController", "classPlayerController.html", null ]
     ] ],
     [ "ISerializationCallbackReceiver", null, [
       [ "MatrixUtils.GenericDatatypes.SerializableHashSet< T >", "classMatrixUtils_1_1GenericDatatypes_1_1SerializableHashSet.html", null ],
@@ -74,6 +81,7 @@ var hierarchy =
       [ "MatrixUtils.VFXSystem.VFXEmitter", "classMatrixUtils_1_1VFXSystem_1_1VFXEmitter.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
+      [ "PlayerController", "classPlayerController.html", null ],
       [ "PlayerInteraction", "classPlayerInteraction.html", null ],
       [ "PlayerMovement", "classPlayerMovement.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],

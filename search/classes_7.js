@@ -10,10 +10,13 @@ var searchData=
   ['inputproperties_7',['InputProperties',['../classCalculateObjectVelocity_1_1InputProperties.html',1,'CalculateObjectVelocity']]],
   ['interfaceargs_8',['InterfaceArgs',['../structInterfaceArgs.html',1,'']]],
   ['interfacereference_9',['InterfaceReference',['../classInterfaceReference.html',1,'']]],
-  ['interfacereference_3c_20tinterface_2c_20object_20_3e_10',['InterfaceReference&lt; TInterface, Object &gt;',['../classInterfaceReference.html',1,'']]],
-  ['intervaltimer_11',['IntervalTimer',['../classMatrixUtils_1_1Timers_1_1IntervalTimer.html',1,'MatrixUtils::Timers']]],
-  ['intvfxproperty_12',['IntVFXProperty',['../classIntVFXProperty.html',1,'']]],
-  ['isexternalinit_13',['IsExternalInit',['../classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html',1,'System::Runtime::CompilerServices']]],
-  ['ispawner_14',['ISpawner',['../interfaceISpawner.html',1,'']]],
-  ['itimer_15',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]]
+  ['interfacereference_3c_20iplayercontrollable_20_3e_10',['InterfaceReference&lt; IPlayerControllable &gt;',['../classInterfaceReference.html',1,'']]],
+  ['interfacereference_3c_20tinterface_2c_20object_20_3e_11',['InterfaceReference&lt; TInterface, Object &gt;',['../classInterfaceReference.html',1,'']]],
+  ['intervaltimer_12',['IntervalTimer',['../classMatrixUtils_1_1Timers_1_1IntervalTimer.html',1,'MatrixUtils::Timers']]],
+  ['intvfxproperty_13',['IntVFXProperty',['../classIntVFXProperty.html',1,'']]],
+  ['iplayercontrollable_14',['IPlayerControllable',['../interfaceIPlayerControllable.html',1,'']]],
+  ['iplayercontroller_15',['IPlayerController',['../interfaceIPlayerController.html',1,'']]],
+  ['isexternalinit_16',['IsExternalInit',['../classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html',1,'System::Runtime::CompilerServices']]],
+  ['ispawner_17',['ISpawner',['../interfaceISpawner.html',1,'']]],
+  ['itimer_18',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]]
 ];
