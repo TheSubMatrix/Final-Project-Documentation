@@ -82,7 +82,7 @@ var hierarchy =
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
       [ "PlayerController", "classPlayerController.html", null ],
-      [ "PlayerInteraction", "classPlayerInteraction.html", null ],
+      [ "PlayerInteractions", "classPlayerInteractions.html", null ],
       [ "PlayerMovement", "classPlayerMovement.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],

@@ -186,7 +186,7 @@ var NAVTREEINDEX0 =
 "classPlayerController.html":[1,0,30],
 "classPlayerController.html#aae5561944cc1d4c40be9c70718f03e9b":[1,0,30,0],
 "classPlayerController.html#ae48596ab2d61220fee50bd53e6a258e8":[1,0,30,1],
-"classPlayerInteraction.html":[1,0,31],
+"classPlayerInteractions.html":[1,0,31],
 "classPlayerMovement.html":[1,0,32],
 "classPlayerMovement.html#aab40bf673a7e03628225531fdca42bef":[1,0,32,1],
 "classPlayerMovement.html#adb46e3f8064ae90229a4366c7277f437":[1,0,32,0],

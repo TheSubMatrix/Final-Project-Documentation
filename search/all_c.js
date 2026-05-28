@@ -6,7 +6,7 @@ var searchData=
   ['persistentsingleton_3c_20soundmanager_20_3e_3',['PersistentSingleton&lt; SoundManager &gt;',['../classPersistentSingleton.html',1,'']]],
   ['persistentsingleton_3c_20vfxmanager_20_3e_4',['PersistentSingleton&lt; VFXManager &gt;',['../classPersistentSingleton.html',1,'']]],
   ['playercontroller_5',['PlayerController',['../classPlayerController.html',1,'']]],
-  ['playerinteraction_6',['PlayerInteraction',['../classPlayerInteraction.html',1,'']]],
+  ['playerinteractions_6',['PlayerInteractions',['../classPlayerInteractions.html',1,'']]],
   ['playermovement_7',['PlayerMovement',['../classPlayerMovement.html',1,'']]],
   ['process_8',['process',['../classMatrixUtils_1_1OffsetVector2.html#a4d8748a68fe6987e307f539740825127',1,'MatrixUtils.OffsetVector2.Process()'],['../classMatrixUtils_1_1ClampVector2.html#a2e05152d8b6bffa72ced1ffcb86ba493',1,'MatrixUtils.ClampVector2.Process()']]],
   ['provideattribute_9',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]

@@ -89,7 +89,7 @@ var annotated_dup =
     [ "PersistentService", "classPersistentService.html", "classPersistentService" ],
     [ "PersistentSingleton", "classPersistentSingleton.html", "classPersistentSingleton" ],
     [ "PlayerController", "classPlayerController.html", "classPlayerController" ],
-    [ "PlayerInteraction", "classPlayerInteraction.html", null ],
+    [ "PlayerInteractions", "classPlayerInteractions.html", null ],
     [ "PlayerMovement", "classPlayerMovement.html", "classPlayerMovement" ],
     [ "RegulatorSingleton", "classRegulatorSingleton.html", "classRegulatorSingleton" ],
     [ "RequireInterfaceAttribute", "classRequireInterfaceAttribute.html", null ],
