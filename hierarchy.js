@@ -36,6 +36,7 @@ var hierarchy =
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ]
     ] ],
     [ "IInteractable", "interfaceIInteractable.html", [
+      [ "FishingManager", "classFishingManager.html", null ],
       [ "SimpleInteractable", "classSimpleInteractable.html", null ]
     ] ],
     [ "IInteractor", "interfaceIInteractor.html", [
@@ -79,6 +80,7 @@ var hierarchy =
     [ "MonoBehaviour", null, [
       [ "BuoyantBody", "classBuoyantBody.html", null ],
       [ "DelegateExtensions", "classDelegateExtensions.html", null ],
+      [ "FishingManager", "classFishingManager.html", null ],
       [ "GenericInstance", "classGenericInstance.html", null ],
       [ "LevelManager", "classLevelManager.html", null ],
       [ "MatrixUtils.AudioSystem.SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],

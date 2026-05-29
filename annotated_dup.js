@@ -70,6 +70,7 @@ var annotated_dup =
     [ "DelegateExtensions", "classDelegateExtensions.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
+    [ "FishingManager", "classFishingManager.html", "classFishingManager" ],
     [ "FloatVFXProperty", "classFloatVFXProperty.html", null ],
     [ "GenericInstance", "classGenericInstance.html", null ],
     [ "GradientVFXProperty", "classGradientVFXProperty.html", null ],
