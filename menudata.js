@@ -67,4 +67,5 @@ var menudata={children:[
 {text:"w",url:"functions_func.html#index_w"}]},
 {text:"Variables",url:"functions_vars.html"},
 {text:"Enumerations",url:"functions_enum.html"},
-{text:"Properties",url:"functions_prop.html"}]}]}]}
+{text:"Properties",url:"functions_prop.html"},
+{text:"Events",url:"functions_evnt.html"}]}]}]}

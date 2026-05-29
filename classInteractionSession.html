@@ -92,6 +92,7 @@ $(document).ready(function(){initNavTree('classInteractionSession.html',''); ini
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#properties">Properties</a> &#124;
+<a href="#events">Events</a> &#124;
 <a href="classInteractionSession-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">InteractionSession Class Reference</div></div>
 </div><!--header-->
@@ -105,9 +106,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:adb8ae3d1e1810a3a4adfb5c25bcfd593" id="r_adb8ae3d1e1810a3a4adfb5c25bcfd593"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classInteractionSession.html#adb8ae3d1e1810a3a4adfb5c25bcfd593">InteractionSession</a> (<a class="el" href="interfaceIInteractor.html">IInteractor</a> interactor, <a class="el" href="interfaceIInteractable.html">IInteractable</a> target)</td></tr>
 <tr class="memdesc:adb8ae3d1e1810a3a4adfb5c25bcfd593"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a new <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a>  <br /></td></tr>
 <tr class="separator:adb8ae3d1e1810a3a4adfb5c25bcfd593"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6754b268684ea4cf8999a66d0b6dae67" id="r_a6754b268684ea4cf8999a66d0b6dae67"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classInteractionSession.html#a6754b268684ea4cf8999a66d0b6dae67">TransferTo</a> (<a class="el" href="interfaceIInteractor.html">IInteractor</a> newInteractor)</td></tr>
-<tr class="memdesc:a6754b268684ea4cf8999a66d0b6dae67"><td class="mdescLeft">&#160;</td><td class="mdescRight">Transfers the interaction session to a new <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>  <br /></td></tr>
-<tr class="separator:a6754b268684ea4cf8999a66d0b6dae67"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f8838c0118580bd28906c161c2fbcbe" id="r_a1f8838c0118580bd28906c161c2fbcbe"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classInteractionSession.html#a1f8838c0118580bd28906c161c2fbcbe">TransferTo</a> (<a class="el" href="interfaceIInteractor.html">IInteractor</a> newInteractor)</td></tr>
+<tr class="memdesc:a1f8838c0118580bd28906c161c2fbcbe"><td class="mdescLeft">&#160;</td><td class="mdescRight">Transfers the interaction session to a new <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>  <br /></td></tr>
+<tr class="separator:a1f8838c0118580bd28906c161c2fbcbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1839efd6fd5cdcc47217266a4889e39b" id="r_a1839efd6fd5cdcc47217266a4889e39b"><td class="memItemLeft" align="right" valign="top"><a id="a1839efd6fd5cdcc47217266a4889e39b" name="a1839efd6fd5cdcc47217266a4889e39b"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>End</b> ()</td></tr>
 <tr class="memdesc:a1839efd6fd5cdcc47217266a4889e39b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ends the <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> <br /></td></tr>
@@ -127,6 +128,17 @@ Properties</h2></td></tr>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsActive</b><code> [get]</code></td></tr>
 <tr class="memdesc:a6d3fd4743e121a79aae444832d55cb3f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Whether the interaction session is still active. <br /></td></tr>
 <tr class="separator:a6d3fd4743e121a79aae444832d55cb3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="events" name="events"></a>
+Events</h2></td></tr>
+<tr class="memitem:ab9aba2eda402a614262c6c31fbabc626" id="r_ab9aba2eda402a614262c6c31fbabc626"><td class="memItemLeft" align="right" valign="top"><a id="ab9aba2eda402a614262c6c31fbabc626" name="ab9aba2eda402a614262c6c31fbabc626"></a>
+Action&#160;</td><td class="memItemRight" valign="bottom"><b>OnEnded</b></td></tr>
+<tr class="memdesc:ab9aba2eda402a614262c6c31fbabc626"><td class="mdescLeft">&#160;</td><td class="mdescRight">Invoked when the <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> ends. <br /></td></tr>
+<tr class="separator:ab9aba2eda402a614262c6c31fbabc626"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a029f1495079992b8bd70ef3dd315656d" id="r_a029f1495079992b8bd70ef3dd315656d"><td class="memItemLeft" align="right" valign="top"><a id="a029f1495079992b8bd70ef3dd315656d" name="a029f1495079992b8bd70ef3dd315656d"></a>
+Action&lt; <a class="el" href="interfaceIInteractor.html">IInteractor</a>, <a class="el" href="interfaceIInteractor.html">IInteractor</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>OnTransferred</b></td></tr>
+<tr class="memdesc:a029f1495079992b8bd70ef3dd315656d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Invoked when the <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> is transferred to a new <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>. First parameter is the old <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>, second parameter is the new <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> <br /></td></tr>
+<tr class="separator:a029f1495079992b8bd70ef3dd315656d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Represents an ongoing interaction between an <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> and an <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a> </p>
@@ -169,14 +181,14 @@ bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsActive</b><code> [g
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a6754b268684ea4cf8999a66d0b6dae67" name="a6754b268684ea4cf8999a66d0b6dae67"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6754b268684ea4cf8999a66d0b6dae67">&#9670;&#160;</a></span>TransferTo()</h2>
+<a id="a1f8838c0118580bd28906c161c2fbcbe" name="a1f8838c0118580bd28906c161c2fbcbe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1f8838c0118580bd28906c161c2fbcbe">&#9670;&#160;</a></span>TransferTo()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void InteractionSession.TransferTo </td>
+          <td class="memname">bool InteractionSession.TransferTo </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="interfaceIInteractor.html">IInteractor</a>&#160;</td>
           <td class="paramname"><em>newInteractor</em></td><td>)</td>

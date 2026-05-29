@@ -118,23 +118,23 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a5dcdda3052e78203eadc01f236eb972a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the current <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> if the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> is interacting with a <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a><dl class="section return"><dt>Returns</dt><dd>The current <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a></dd></dl>
   <br /></td></tr>
 <tr class="separator:a5dcdda3052e78203eadc01f236eb972a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a79744aa08f5a22dc64a0b4b9d5e24c79" id="r_a79744aa08f5a22dc64a0b4b9d5e24c79"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerInteractor.html#a79744aa08f5a22dc64a0b4b9d5e24c79">RequestSessionTransfer</a> (<a class="el" href="classInteractionSession.html">InteractionSession</a> session)</td></tr>
-<tr class="memdesc:a79744aa08f5a22dc64a0b4b9d5e24c79"><td class="mdescLeft">&#160;</td><td class="mdescRight">Requests the <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> to be transferred to this <a class="el" href="classPlayerInteractor.html" title="Handles interactions with IInteractable by the player.">PlayerInteractor</a><dl class="params"><dt>Parameters</dt><dd>
+<tr class="memitem:a437caf7bb4327231274c96f3cb857eed" id="r_a437caf7bb4327231274c96f3cb857eed"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerInteractor.html#a437caf7bb4327231274c96f3cb857eed">RequestSessionTransfer</a> (<a class="el" href="classInteractionSession.html">InteractionSession</a> session)</td></tr>
+<tr class="memdesc:a437caf7bb4327231274c96f3cb857eed"><td class="mdescLeft">&#160;</td><td class="mdescRight">Requests the <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> to be transferred to this <a class="el" href="classPlayerInteractor.html" title="Handles interactions with IInteractable by the player.">PlayerInteractor</a><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">session</td><td>The <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> to request the transfer of</td></tr>
   </table>
   </dd>
 </dl>
   <br /></td></tr>
-<tr class="separator:a79744aa08f5a22dc64a0b4b9d5e24c79"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6e5378d2111f392ddb2bde1bdbd79de1" id="r_a6e5378d2111f392ddb2bde1bdbd79de1"><td class="memItemLeft" align="right" valign="top"><a id="a6e5378d2111f392ddb2bde1bdbd79de1" name="a6e5378d2111f392ddb2bde1bdbd79de1"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>OnInteraction</b> ()</td></tr>
-<tr class="memdesc:a6e5378d2111f392ddb2bde1bdbd79de1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempts to begin an interaction with the nearest <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a> in the m_interactionRange <br /></td></tr>
-<tr class="separator:a6e5378d2111f392ddb2bde1bdbd79de1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a839661f236aa52adedc392853b4c616b" id="r_a839661f236aa52adedc392853b4c616b"><td class="memItemLeft" align="right" valign="top"><a id="a839661f236aa52adedc392853b4c616b" name="a839661f236aa52adedc392853b4c616b"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>OnInteractionEnd</b> ()</td></tr>
-<tr class="memdesc:a839661f236aa52adedc392853b4c616b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ends the active <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> handled by this <a class="el" href="classPlayerInteractor.html" title="Handles interactions with IInteractable by the player.">PlayerInteractor</a> <br /></td></tr>
-<tr class="separator:a839661f236aa52adedc392853b4c616b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a437caf7bb4327231274c96f3cb857eed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c03d915e93e598bc16e92a91820cd6a" id="r_a8c03d915e93e598bc16e92a91820cd6a"><td class="memItemLeft" align="right" valign="top"><a id="a8c03d915e93e598bc16e92a91820cd6a" name="a8c03d915e93e598bc16e92a91820cd6a"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnInteractionButtonPressed</b> (InputAction.CallbackContext context)</td></tr>
+<tr class="memdesc:a8c03d915e93e598bc16e92a91820cd6a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempts to begin an interaction with the nearest <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a> in the m_interactionRange <br /></td></tr>
+<tr class="separator:a8c03d915e93e598bc16e92a91820cd6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeddc2c8a28be6a01f8e1cbc449018e42" id="r_aeddc2c8a28be6a01f8e1cbc449018e42"><td class="memItemLeft" align="right" valign="top"><a id="aeddc2c8a28be6a01f8e1cbc449018e42" name="aeddc2c8a28be6a01f8e1cbc449018e42"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>EndActiveInteraction</b> ()</td></tr>
+<tr class="memdesc:aeddc2c8a28be6a01f8e1cbc449018e42"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ends the current <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> if one exists. <br /></td></tr>
+<tr class="separator:aeddc2c8a28be6a01f8e1cbc449018e42"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Handles interactions with <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a> by the player. </p>
@@ -183,14 +183,14 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>OnInteractionEnd</b> 
 
 </div>
 </div>
-<a id="a79744aa08f5a22dc64a0b4b9d5e24c79" name="a79744aa08f5a22dc64a0b4b9d5e24c79"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a79744aa08f5a22dc64a0b4b9d5e24c79">&#9670;&#160;</a></span>RequestSessionTransfer()</h2>
+<a id="a437caf7bb4327231274c96f3cb857eed" name="a437caf7bb4327231274c96f3cb857eed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a437caf7bb4327231274c96f3cb857eed">&#9670;&#160;</a></span>RequestSessionTransfer()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void PlayerInteractor.RequestSessionTransfer </td>
+          <td class="memname">bool PlayerInteractor.RequestSessionTransfer </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="classInteractionSession.html">InteractionSession</a>&#160;</td>
           <td class="paramname"><em>session</em></td><td>)</td>
@@ -207,7 +207,7 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>OnInteractionEnd</b> 
 </dl>
  </p>
 
-<p>Implements <a class="el" href="interfaceIInteractor.html#a6db10fb41fc18ab3eab172ea62106b94">IInteractor</a>.</p>
+<p>Implements <a class="el" href="interfaceIInteractor.html#aef5cdfb10c31771cc3dcd8bd3a5bcf90">IInteractor</a>.</p>
 
 </div>
 </div>

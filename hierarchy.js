@@ -35,7 +35,9 @@ var hierarchy =
     [ "IInjector", "interfaceIInjector.html", [
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ]
     ] ],
-    [ "IInteractable", "interfaceIInteractable.html", null ],
+    [ "IInteractable", "interfaceIInteractable.html", [
+      [ "SimpleInteractable", "classSimpleInteractable.html", null ]
+    ] ],
     [ "IInteractor", "interfaceIInteractor.html", [
       [ "PlayerInteractor", "classPlayerInteractor.html", null ]
     ] ],
@@ -92,6 +94,7 @@ var hierarchy =
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
       [ "ShipMovement", "classShipMovement.html", null ],
+      [ "SimpleInteractable", "classSimpleInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
       [ "TerrainSpawner", "classTerrainSpawner.html", null ],
       [ "tester", "classtester.html", null ]
