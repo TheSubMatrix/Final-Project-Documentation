@@ -36,11 +36,15 @@ var hierarchy =
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ]
     ] ],
     [ "IInteractable", "interfaceIInteractable.html", null ],
+    [ "IInteractor", "interfaceIInteractor.html", [
+      [ "PlayerInteractor", "classPlayerInteractor.html", null ]
+    ] ],
     [ "InputProcessor", null, [
       [ "MatrixUtils.ClampVector2", "classMatrixUtils_1_1ClampVector2.html", null ],
       [ "MatrixUtils.OffsetVector2", "classMatrixUtils_1_1OffsetVector2.html", null ]
     ] ],
     [ "CalculateObjectVelocity.InputProperties", "classCalculateObjectVelocity_1_1InputProperties.html", null ],
+    [ "InteractionSession", "classInteractionSession.html", null ],
     [ "InterfaceArgs", "structInterfaceArgs.html", null ],
     [ "InterfaceReference< IPlayerControllable >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< TInterface, Object >", "classInterfaceReference.html", [
@@ -83,6 +87,7 @@ var hierarchy =
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
       [ "PlayerController", "classPlayerController.html", null ],
       [ "PlayerInteractions", "classPlayerInteractions.html", null ],
+      [ "PlayerInteractor", "classPlayerInteractor.html", null ],
       [ "PlayerMovement", "classPlayerMovement.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],

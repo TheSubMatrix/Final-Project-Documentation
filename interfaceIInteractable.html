@@ -95,13 +95,75 @@ $(document).ready(function(){initNavTree('interfaceIInteractable.html',''); init
   <div class="headertitle"><div class="title">IInteractable Interface Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>Represents an object that can be interacted with by an <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>  
+ <a href="interfaceIInteractable.html#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a62ba23686750252d45e3186031590937" id="r_a62ba23686750252d45e3186031590937"><td class="memItemLeft" align="right" valign="top"><a id="a62ba23686750252d45e3186031590937" name="a62ba23686750252d45e3186031590937"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>Interact</b> (GameObject interactor)</td></tr>
-<tr class="separator:a62ba23686750252d45e3186031590937"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f376f4157a8320c8d644b34c941a3a4" id="r_a2f376f4157a8320c8d644b34c941a3a4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classInteractionSession.html">InteractionSession</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIInteractable.html#a2f376f4157a8320c8d644b34c941a3a4">BeginInteraction</a> (<a class="el" href="interfaceIInteractor.html">IInteractor</a> interactor)</td></tr>
+<tr class="memdesc:a2f376f4157a8320c8d644b34c941a3a4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>  <br /></td></tr>
+<tr class="separator:a2f376f4157a8320c8d644b34c941a3a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5f94e6258f3eccfd891f7e416746fab6" id="r_a5f94e6258f3eccfd891f7e416746fab6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIInteractable.html#a5f94e6258f3eccfd891f7e416746fab6">EndInteraction</a> (<a class="el" href="classInteractionSession.html">InteractionSession</a> session)</td></tr>
+<tr class="memdesc:a5f94e6258f3eccfd891f7e416746fab6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ends an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>  <br /></td></tr>
+<tr class="separator:a5f94e6258f3eccfd891f7e416746fab6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Represents an object that can be interacted with by an <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a2f376f4157a8320c8d644b34c941a3a4" name="a2f376f4157a8320c8d644b34c941a3a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2f376f4157a8320c8d644b34c941a3a4">&#9670;&#160;</a></span>BeginInteraction()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classInteractionSession.html">InteractionSession</a> IInteractable.BeginInteraction </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="interfaceIInteractor.html">IInteractor</a>&#160;</td>
+          <td class="paramname"><em>interactor</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">interactor</td><td>The <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> to begin the interaction with</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>An <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> representing the current state of the interaction</dd></dl>
+
+</div>
+</div>
+<a id="a5f94e6258f3eccfd891f7e416746fab6" name="a5f94e6258f3eccfd891f7e416746fab6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5f94e6258f3eccfd891f7e416746fab6">&#9670;&#160;</a></span>EndInteraction()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void IInteractable.EndInteraction </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classInteractionSession.html">InteractionSession</a>&#160;</td>
+          <td class="paramname"><em>session</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Ends an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">session</td><td>The <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> to end</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <hr/>The documentation for this interface was generated from the following file:<ul>
 <li>Assets/Scripts/Oh Ship Core/Interfaces/<b>IInteractable.cs</b></li>
 </ul>
