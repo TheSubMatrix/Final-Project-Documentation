@@ -1,18 +1,9 @@
 var searchData=
 [
-  ['matrix4x4vfxproperty_0',['Matrix4x4VFXProperty',['../classMatrix4x4VFXProperty.html',1,'']]],
-  ['matrixutils_1',['MatrixUtils',['../namespaceMatrixUtils.html',1,'']]],
-  ['matrixutils_3a_3aattributes_2',['Attributes',['../namespaceMatrixUtils_1_1Attributes.html',1,'MatrixUtils']]],
-  ['matrixutils_3a_3aaudiosystem_3',['AudioSystem',['../namespaceMatrixUtils_1_1AudioSystem.html',1,'MatrixUtils']]],
-  ['matrixutils_3a_3adependencyinjection_4',['DependencyInjection',['../namespaceMatrixUtils_1_1DependencyInjection.html',1,'MatrixUtils']]],
-  ['matrixutils_3a_3aeventbus_5',['EventBus',['../namespaceMatrixUtils_1_1EventBus.html',1,'MatrixUtils']]],
-  ['matrixutils_3a_3aextensions_6',['Extensions',['../namespaceMatrixUtils_1_1Extensions.html',1,'MatrixUtils']]],
-  ['matrixutils_3a_3agenericdatatypes_7',['GenericDatatypes',['../namespaceMatrixUtils_1_1GenericDatatypes.html',1,'MatrixUtils']]],
-  ['matrixutils_3a_3alogging_8',['Logging',['../namespaceMatrixUtils_1_1Logging.html',1,'MatrixUtils']]],
-  ['matrixutils_3a_3alowlevel_9',['LowLevel',['../namespaceMatrixUtils_1_1LowLevel.html',1,'MatrixUtils']]],
-  ['matrixutils_3a_3ashaderhelpers_10',['ShaderHelpers',['../namespaceMatrixUtils_1_1ShaderHelpers.html',1,'MatrixUtils']]],
-  ['matrixutils_3a_3atimers_11',['Timers',['../namespaceMatrixUtils_1_1Timers.html',1,'MatrixUtils']]],
-  ['matrixutils_3a_3avfxsystem_12',['VFXSystem',['../namespaceMatrixUtils_1_1VFXSystem.html',1,'MatrixUtils']]],
-  ['meshvfxproperty_13',['MeshVFXProperty',['../classMeshVFXProperty.html',1,'']]],
-  ['methodname_14',['MethodName',['../classSerializedMethod.html#ad3af35b8770c1f11838b16b4596a6019',1,'SerializedMethod']]]
+  ['levelmanager_0',['LevelManager',['../classLevelManager.html',1,'']]],
+  ['log_1',['log',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html#af79915eaf87e7b9407402553bf1a1bed',1,'MatrixUtils.Logging.CustomLogger_SO.Log(object message)'],['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html#a4c4f69632de15127d3e97e2b47e9ea43',1,'MatrixUtils.Logging.CustomLogger_SO.Log(object message, UnityEngine.Object sender=null, LogCategory category=LogCategory.Default)']]],
+  ['logcategory_2',['LogCategory',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html#a28aba0ff3f068e1d90275bd329a154bf',1,'MatrixUtils::Logging::CustomLogger_SO']]],
+  ['logerrortofile_3',['LogErrorToFile',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html#a3e7cfb5e7d6283ab1a3a090f9f88e502',1,'MatrixUtils::Logging::CustomLogger_SO']]],
+  ['loglevel_4',['LogLevel',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html#a9a9b146eb14052a3191f87e1b4fba871',1,'MatrixUtils::Logging::CustomLogger_SO']]],
+  ['logsettings_5',['logsettings',['../structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html',1,'MatrixUtils.Logging.CustomLogger_SO.LogSettings'],['../structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a5cdbcea8ce9ac3fd258e9b0c7777a4fb',1,'MatrixUtils.Logging.CustomLogger_SO.LogSettings.LogSettings()']]]
 ];

@@ -1,12 +1,11 @@
 var searchData=
 [
-  ['vector2vfxproperty_0',['Vector2VFXProperty',['../classVector2VFXProperty.html',1,'']]],
-  ['vector3vfxproperty_1',['Vector3VFXProperty',['../classVector3VFXProperty.html',1,'']]],
-  ['vector4vfxproperty_2',['Vector4VFXProperty',['../classVector4VFXProperty.html',1,'']]],
-  ['vfxbuilder_3',['VFXBuilder',['../classMatrixUtils_1_1VFXSystem_1_1VFXBuilder.html',1,'MatrixUtils::VFXSystem']]],
-  ['vfxdata_4',['VFXData',['../classMatrixUtils_1_1VFXSystem_1_1VFXData.html',1,'MatrixUtils::VFXSystem']]],
-  ['vfxemitter_5',['VFXEmitter',['../classMatrixUtils_1_1VFXSystem_1_1VFXEmitter.html',1,'MatrixUtils::VFXSystem']]],
-  ['vfxmanager_6',['VFXManager',['../classMatrixUtils_1_1VFXSystem_1_1VFXManager.html',1,'MatrixUtils::VFXSystem']]],
-  ['vfxpooldata_7',['VFXPoolData',['../classMatrixUtils_1_1VFXSystem_1_1VFXManager_1_1VFXPoolData.html',1,'MatrixUtils::VFXSystem::VFXManager']]],
-  ['vfxproperty_8',['VFXProperty',['../classVFXProperty.html',1,'']]]
+  ['uintvfxproperty_0',['UIntVFXProperty',['../classUIntVFXProperty.html',1,'']]],
+  ['unityeventfrominputaction_1',['unityeventfrominputaction',['../classUnityEventFromInputAction.html',1,'UnityEventFromInputAction'],['../classUnityEventFromInputAction.html#a59aa5da80223a2ba4da88a6bc5858a54',1,'UnityEventFromInputAction.UnityEventFromInputAction()'],['../classUnityEventFromInputAction.html#a955adf806d2f8404ffca7728c4190b01',1,'UnityEventFromInputAction.UnityEventFromInputAction(UnityEvent @event)']]],
+  ['unregister_2',['Unregister',['../classStatBlock.html#a97790858fe625a24b45425557bc370bb',1,'StatBlock']]],
+  ['update_3',['update',['../classSimpleStatModifier.html#afa990e58a579dc3eb819938819202016',1,'SimpleStatModifier.Update()'],['../classStatModifier.html#a1a531ac7ade7ca2cfea648fbe78304b6',1,'StatModifier.Update()']]],
+  ['updaterawstat_4',['UpdateRawStat',['../classStatBlock.html#a09740136e3d5906b3e08670f48ce8c20',1,'StatBlock']]],
+  ['updatestats_5',['UpdateStats',['../classStatBroker.html#a681408709449bca7def9097b7517d19f',1,'StatBroker']]],
+  ['uxmlfactory_6',['UxmlFactory',['../classAspectRatioElement_1_1UxmlFactory.html',1,'AspectRatioElement']]],
+  ['uxmltraits_7',['UxmlTraits',['../classAspectRatioElement_1_1UxmlTraits.html',1,'AspectRatioElement']]]
 ];

@@ -97,40 +97,128 @@ $(document).ready(function(){initNavTree('classStatModifier.html',''); initResiz
   <div class="headertitle"><div class="title">StatModifier Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>Represents a modification to a stat in a <a class="el" href="classStatBlock.html" title="A container for stats that can have a StatModifier applied to them.">StatBlock</a>. Primarily handled by the <a class="el" href="classStatBroker.html" title="Manages the application of stat modifiers to any stat. Perform a StatQuery to get the current value o...">StatBroker</a>.  
+ <a href="classStatModifier.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for StatModifier:</div>
 <div class="dyncontent">
  <div class="center">
   <img src="classStatModifier.png" usemap="#StatModifier_map" alt=""/>
   <map id="StatModifier_map" name="StatModifier_map">
-<area href="classSimpleStatModifier.html" alt="SimpleStatModifier" shape="rect" coords="0,112,117,136"/>
+<area href="classSimpleStatModifier.html" title="A simple stat modifier that applies a function to the value of a stat via a passed in Func&lt;T,..." alt="SimpleStatModifier" shape="rect" coords="0,112,117,136"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a1a531ac7ade7ca2cfea648fbe78304b6" id="r_a1a531ac7ade7ca2cfea648fbe78304b6"><td class="memItemLeft" align="right" valign="top"><a id="a1a531ac7ade7ca2cfea648fbe78304b6" name="a1a531ac7ade7ca2cfea648fbe78304b6"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>Update</b> (float deltaTime)</td></tr>
+<tr class="memitem:a1a531ac7ade7ca2cfea648fbe78304b6" id="r_a1a531ac7ade7ca2cfea648fbe78304b6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classStatModifier.html#a1a531ac7ade7ca2cfea648fbe78304b6">Update</a> (float deltaTime)</td></tr>
+<tr class="memdesc:a1a531ac7ade7ca2cfea648fbe78304b6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Updates the <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a>  <br /></td></tr>
 <tr class="separator:a1a531ac7ade7ca2cfea648fbe78304b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae36b9b75c0d5935d9875886332ccd4e0" id="r_ae36b9b75c0d5935d9875886332ccd4e0"><td class="memItemLeft" align="right" valign="top"><a id="ae36b9b75c0d5935d9875886332ccd4e0" name="ae36b9b75c0d5935d9875886332ccd4e0"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>Handle</b> (object sender, <a class="el" href="classStatQuery.html">StatQuery</a> query)</td></tr>
+<tr class="memitem:ae36b9b75c0d5935d9875886332ccd4e0" id="r_ae36b9b75c0d5935d9875886332ccd4e0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classStatModifier.html#ae36b9b75c0d5935d9875886332ccd4e0">Handle</a> (object sender, <a class="el" href="classStatQuery.html">StatQuery</a> query)</td></tr>
+<tr class="memdesc:ae36b9b75c0d5935d9875886332ccd4e0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Handles any incoming <a class="el" href="classStatQuery.html" title="Represents a query for a specific stat from a StatBroker">StatQuery</a>  <br /></td></tr>
 <tr class="separator:ae36b9b75c0d5935d9875886332ccd4e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6b2e4aadd3d5b3657e4cb5d529869b7d" id="r_a6b2e4aadd3d5b3657e4cb5d529869b7d"><td class="memItemLeft" align="right" valign="top"><a id="a6b2e4aadd3d5b3657e4cb5d529869b7d" name="a6b2e4aadd3d5b3657e4cb5d529869b7d"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>Dispose</b> ()</td></tr>
+<tr class="memdesc:a6b2e4aadd3d5b3657e4cb5d529869b7d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Disposes of the <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a> <br /></td></tr>
 <tr class="separator:a6b2e4aadd3d5b3657e4cb5d529869b7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
 Properties</h2></td></tr>
 <tr class="memitem:a65a16d2794d8835f81b70e22d81a709c" id="r_a65a16d2794d8835f81b70e22d81a709c"><td class="memItemLeft" align="right" valign="top"><a id="a65a16d2794d8835f81b70e22d81a709c" name="a65a16d2794d8835f81b70e22d81a709c"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>MarkedForRemoval</b><code> [get]</code></td></tr>
+<tr class="memdesc:a65a16d2794d8835f81b70e22d81a709c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Whether the <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a> has been marked for removal during the next update cycle. <br /></td></tr>
 <tr class="separator:a65a16d2794d8835f81b70e22d81a709c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="events" name="events"></a>
 Events</h2></td></tr>
 <tr class="memitem:a71b8ed3bf58a3c3e4ad08172e2af19c6" id="r_a71b8ed3bf58a3c3e4ad08172e2af19c6"><td class="memItemLeft" align="right" valign="top"><a id="a71b8ed3bf58a3c3e4ad08172e2af19c6" name="a71b8ed3bf58a3c3e4ad08172e2af19c6"></a>
 Action&lt; <a class="el" href="classStatModifier.html">StatModifier</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>OnDisposed</b> = delegate { }</td></tr>
+<tr class="memdesc:a71b8ed3bf58a3c3e4ad08172e2af19c6"><td class="mdescLeft">&#160;</td><td class="mdescRight">A Action invoked when the <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a> is disposed. <br /></td></tr>
 <tr class="separator:a71b8ed3bf58a3c3e4ad08172e2af19c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Represents a modification to a stat in a <a class="el" href="classStatBlock.html" title="A container for stats that can have a StatModifier applied to them.">StatBlock</a>. Primarily handled by the <a class="el" href="classStatBroker.html" title="Manages the application of stat modifiers to any stat. Perform a StatQuery to get the current value o...">StatBroker</a>. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="ae36b9b75c0d5935d9875886332ccd4e0" name="ae36b9b75c0d5935d9875886332ccd4e0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae36b9b75c0d5935d9875886332ccd4e0">&#9670;&#160;</a></span>Handle()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void StatModifier.Handle </td>
+          <td>(</td>
+          <td class="paramtype">object&#160;</td>
+          <td class="paramname"><em>sender</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classStatQuery.html">StatQuery</a>&#160;</td>
+          <td class="paramname"><em>query</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">abstract</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Handles any incoming <a class="el" href="classStatQuery.html" title="Represents a query for a specific stat from a StatBroker">StatQuery</a> </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">sender</td><td>The object that made this <a class="el" href="classStatQuery.html" title="Represents a query for a specific stat from a StatBroker">StatQuery</a></td></tr>
+    <tr><td class="paramname">query</td><td>The <a class="el" href="classStatQuery.html" title="Represents a query for a specific stat from a StatBroker">StatQuery</a> to possibly apply a modification to</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a1a531ac7ade7ca2cfea648fbe78304b6" name="a1a531ac7ade7ca2cfea648fbe78304b6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a531ac7ade7ca2cfea648fbe78304b6">&#9670;&#160;</a></span>Update()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void StatModifier.Update </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>deltaTime</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">abstract</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Updates the <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a> </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">deltaTime</td><td>The time since the last update cycle</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <hr/>The documentation for this class was generated from the following file:<ul>
 <li>Assets/Scripts/Oh Ship Core/Status/<b>StatModifier.cs</b></li>
 </ul>

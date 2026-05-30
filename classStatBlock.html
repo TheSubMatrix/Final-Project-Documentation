@@ -96,25 +96,217 @@ $(document).ready(function(){initNavTree('classStatBlock.html',''); initResizabl
   <div class="headertitle"><div class="title">StatBlock Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>A container for stats that can have a <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a> applied to them.  
+ <a href="classStatBlock.html#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a82b87ead266c9490ad411f2c5e313297" id="r_a82b87ead266c9490ad411f2c5e313297"><td class="memItemLeft" align="right" valign="top"><a id="a82b87ead266c9490ad411f2c5e313297" name="a82b87ead266c9490ad411f2c5e313297"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>Register</b> (<a class="el" href="classStatData.html">StatData</a> stat, float value)</td></tr>
+<tr class="memitem:a82b87ead266c9490ad411f2c5e313297" id="r_a82b87ead266c9490ad411f2c5e313297"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classStatBlock.html#a82b87ead266c9490ad411f2c5e313297">Register</a> (<a class="el" href="classStatData.html">StatData</a> stat, float value)</td></tr>
+<tr class="memdesc:a82b87ead266c9490ad411f2c5e313297"><td class="mdescLeft">&#160;</td><td class="mdescRight">Registers a stat with the <a class="el" href="classStatBlock.html" title="A container for stats that can have a StatModifier applied to them.">StatBlock</a>.  <br /></td></tr>
 <tr class="separator:a82b87ead266c9490ad411f2c5e313297"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a97790858fe625a24b45425557bc370bb" id="r_a97790858fe625a24b45425557bc370bb"><td class="memItemLeft" align="right" valign="top"><a id="a97790858fe625a24b45425557bc370bb" name="a97790858fe625a24b45425557bc370bb"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>Unregister</b> (<a class="el" href="classStatData.html">StatData</a> stat)</td></tr>
+<tr class="memitem:a97790858fe625a24b45425557bc370bb" id="r_a97790858fe625a24b45425557bc370bb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classStatBlock.html#a97790858fe625a24b45425557bc370bb">Unregister</a> (<a class="el" href="classStatData.html">StatData</a> stat)</td></tr>
+<tr class="memdesc:a97790858fe625a24b45425557bc370bb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Unregisters a stat from the <a class="el" href="classStatBlock.html" title="A container for stats that can have a StatModifier applied to them.">StatBlock</a>.  <br /></td></tr>
 <tr class="separator:a97790858fe625a24b45425557bc370bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3dca9cacfe9705186d24502ca4686da0" id="r_a3dca9cacfe9705186d24502ca4686da0"><td class="memItemLeft" align="right" valign="top"><a id="a3dca9cacfe9705186d24502ca4686da0" name="a3dca9cacfe9705186d24502ca4686da0"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>TryGetStat</b> (<a class="el" href="classStatData.html">StatData</a> stat, out float value)</td></tr>
-<tr class="separator:a3dca9cacfe9705186d24502ca4686da0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeb2db1e018f71c826d4b18f82e21a940" id="r_aeb2db1e018f71c826d4b18f82e21a940"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classStatBlock.html#aeb2db1e018f71c826d4b18f82e21a940">TryGetRawStat</a> (<a class="el" href="classStatData.html">StatData</a> stat, out float value)</td></tr>
+<tr class="memdesc:aeb2db1e018f71c826d4b18f82e21a940"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempts to get the raw value of a stat without applying any <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a>s.  <br /></td></tr>
+<tr class="separator:aeb2db1e018f71c826d4b18f82e21a940"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a09740136e3d5906b3e08670f48ce8c20" id="r_a09740136e3d5906b3e08670f48ce8c20"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classStatBlock.html#a09740136e3d5906b3e08670f48ce8c20">UpdateRawStat</a> (<a class="el" href="classStatData.html">StatData</a> stat, float value)</td></tr>
+<tr class="memdesc:a09740136e3d5906b3e08670f48ce8c20"><td class="mdescLeft">&#160;</td><td class="mdescRight">Updates the raw value of a stat. This is the value that is modified by any applicable <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a>s.  <br /></td></tr>
+<tr class="separator:a09740136e3d5906b3e08670f48ce8c20"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afb780216e8774cbeca9c939a8e3ce6e5" id="r_afb780216e8774cbeca9c939a8e3ce6e5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classStatBlock.html#afb780216e8774cbeca9c939a8e3ce6e5">TryGetModifiedStat</a> (<a class="el" href="classStatData.html">StatData</a> stat, out float value)</td></tr>
+<tr class="memdesc:afb780216e8774cbeca9c939a8e3ce6e5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempts to get the value of a stat. This is the value that is modified by any applicable <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a>s.  <br /></td></tr>
+<tr class="separator:afb780216e8774cbeca9c939a8e3ce6e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
 Properties</h2></td></tr>
 <tr class="memitem:a6f37a2c5bc60e852b200bea443f06e08" id="r_a6f37a2c5bc60e852b200bea443f06e08"><td class="memItemLeft" align="right" valign="top"><a id="a6f37a2c5bc60e852b200bea443f06e08" name="a6f37a2c5bc60e852b200bea443f06e08"></a>
 <a class="el" href="classStatBroker.html">StatBroker</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Broker</b> = new()<code> [get]</code></td></tr>
+<tr class="memdesc:a6f37a2c5bc60e852b200bea443f06e08"><td class="mdescLeft">&#160;</td><td class="mdescRight">The <a class="el" href="classStatBroker.html" title="Manages the application of stat modifiers to any stat. Perform a StatQuery to get the current value o...">StatBroker</a> that manages the application of <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a>s to this <a class="el" href="classStatBlock.html" title="A container for stats that can have a StatModifier applied to them.">StatBlock</a>. <br /></td></tr>
 <tr class="separator:a6f37a2c5bc60e852b200bea443f06e08"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>A container for stats that can have a <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a> applied to them. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a82b87ead266c9490ad411f2c5e313297" name="a82b87ead266c9490ad411f2c5e313297"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a82b87ead266c9490ad411f2c5e313297">&#9670;&#160;</a></span>Register()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool StatBlock.Register </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classStatData.html">StatData</a>&#160;</td>
+          <td class="paramname"><em>stat</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Registers a stat with the <a class="el" href="classStatBlock.html" title="A container for stats that can have a StatModifier applied to them.">StatBlock</a>. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">stat</td><td>The <a class="el" href="classStatData.html" title="A unique identifier for a stat to be applied retrieved from a StatBlock and modified by a StatModifie...">StatData</a> of the stat we are creating in the <a class="el" href="classStatBlock.html" title="A container for stats that can have a StatModifier applied to them.">StatBlock</a></td></tr>
+    <tr><td class="paramname">value</td><td>The value of the stat to store</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>A bool indicating whether a <a class="el" href="classStatData.html" title="A unique identifier for a stat to be applied retrieved from a StatBlock and modified by a StatModifie...">StatData</a> with data was found in the <a class="el" href="classStatBlock.html" title="A container for stats that can have a StatModifier applied to them.">StatBlock</a></dd></dl>
+
+</div>
+</div>
+<a id="afb780216e8774cbeca9c939a8e3ce6e5" name="afb780216e8774cbeca9c939a8e3ce6e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afb780216e8774cbeca9c939a8e3ce6e5">&#9670;&#160;</a></span>TryGetModifiedStat()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool StatBlock.TryGetModifiedStat </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classStatData.html">StatData</a>&#160;</td>
+          <td class="paramname"><em>stat</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">out float&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Attempts to get the value of a stat. This is the value that is modified by any applicable <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a>s. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">stat</td><td>The <a class="el" href="classStatData.html" title="A unique identifier for a stat to be applied retrieved from a StatBlock and modified by a StatModifie...">StatData</a> to retrieve the value for</td></tr>
+    <tr><td class="paramname">value</td><td>The resulting value of the stat</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>A bool indicating whether the stat was found</dd></dl>
+
+</div>
+</div>
+<a id="aeb2db1e018f71c826d4b18f82e21a940" name="aeb2db1e018f71c826d4b18f82e21a940"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeb2db1e018f71c826d4b18f82e21a940">&#9670;&#160;</a></span>TryGetRawStat()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool StatBlock.TryGetRawStat </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classStatData.html">StatData</a>&#160;</td>
+          <td class="paramname"><em>stat</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">out float&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Attempts to get the raw value of a stat without applying any <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a>s. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">stat</td><td>The <a class="el" href="classStatData.html" title="A unique identifier for a stat to be applied retrieved from a StatBlock and modified by a StatModifie...">StatData</a> to retrieve a value for</td></tr>
+    <tr><td class="paramname">value</td><td>The resulting value of the stat</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>A bool indicating whether the <a class="el" href="classStatData.html" title="A unique identifier for a stat to be applied retrieved from a StatBlock and modified by a StatModifie...">StatData</a> was found in the <a class="el" href="classStatBlock.html" title="A container for stats that can have a StatModifier applied to them.">StatBlock</a></dd></dl>
+
+</div>
+</div>
+<a id="a97790858fe625a24b45425557bc370bb" name="a97790858fe625a24b45425557bc370bb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a97790858fe625a24b45425557bc370bb">&#9670;&#160;</a></span>Unregister()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool StatBlock.Unregister </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classStatData.html">StatData</a>&#160;</td>
+          <td class="paramname"><em>stat</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Unregisters a stat from the <a class="el" href="classStatBlock.html" title="A container for stats that can have a StatModifier applied to them.">StatBlock</a>. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">stat</td><td>The <a class="el" href="classStatData.html" title="A unique identifier for a stat to be applied retrieved from a StatBlock and modified by a StatModifie...">StatData</a> of the value to unregister</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>A bool indicating whether the removal was successful</dd></dl>
+
+</div>
+</div>
+<a id="a09740136e3d5906b3e08670f48ce8c20" name="a09740136e3d5906b3e08670f48ce8c20"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a09740136e3d5906b3e08670f48ce8c20">&#9670;&#160;</a></span>UpdateRawStat()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool StatBlock.UpdateRawStat </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classStatData.html">StatData</a>&#160;</td>
+          <td class="paramname"><em>stat</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Updates the raw value of a stat. This is the value that is modified by any applicable <a class="el" href="classStatModifier.html" title="Represents a modification to a stat in a StatBlock. Primarily handled by the StatBroker.">StatModifier</a>s. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">stat</td><td>The <a class="el" href="classStatData.html" title="A unique identifier for a stat to be applied retrieved from a StatBlock and modified by a StatModifie...">StatData</a> to modify the value of</td></tr>
+    <tr><td class="paramname">value</td><td>The new value of the data</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>A bool indicating whether the update was successful</dd></dl>
+
+</div>
+</div>
 <hr/>The documentation for this class was generated from the following file:<ul>
 <li>Assets/Scripts/Oh Ship Core/Status/<b>Stat Block.cs</b></li>
 </ul>

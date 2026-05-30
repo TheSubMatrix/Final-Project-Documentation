@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['requestsessiontransfer_0',['requestsessiontransfer',['../interfaceIInteractor.html#aef5cdfb10c31771cc3dcd8bd3a5bcf90',1,'IInteractor.RequestSessionTransfer()'],['../classPlayerInteractor.html#a437caf7bb4327231274c96f3cb857eed',1,'PlayerInteractor.RequestSessionTransfer()']]]
+  ['performstatquery_0',['PerformStatQuery',['../classStatBroker.html#a565321728d1ffe972b0ac672ffce104b',1,'StatBroker']]],
+  ['process_1',['process',['../classMatrixUtils_1_1OffsetVector2.html#a4d8748a68fe6987e307f539740825127',1,'MatrixUtils.OffsetVector2.Process()'],['../classMatrixUtils_1_1ClampVector2.html#a2e05152d8b6bffa72ced1ffcb86ba493',1,'MatrixUtils.ClampVector2.Process()']]]
 ];
