@@ -1,8 +1,14 @@
 var NAVTREEINDEX1 =
 {
-"classVector4VFXProperty.html":[1,0,64],
+"classUnityEventFromInputAction.html#a59aa5da80223a2ba4da88a6bc5858a54":[1,0,67,0],
+"classUnityEventFromInputAction.html#a955adf806d2f8404ffca7728c4190b01":[1,0,67,1],
+"classUnityEventFromInputAction.html#afb4c0758ad2363da2f5e71b99500bb5e":[1,0,67,2],
+"classVFXProperty.html":[1,0,71],
+"classVector2VFXProperty.html":[1,0,68],
+"classVector3VFXProperty.html":[1,0,69],
+"classVector4VFXProperty.html":[1,0,70],
 "classes.html":[1,1],
-"classtester.html":[1,0,57],
+"classtester.html":[1,0,63],
 "functions.html":[1,3,0],
 "functions_enum.html":[1,3,3],
 "functions_evnt.html":[1,3,5],

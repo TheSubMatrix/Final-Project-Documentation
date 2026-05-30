@@ -47,7 +47,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classVector4VFXProperty.html"
+"classUnityEventFromInputAction.html#a59aa5da80223a2ba4da88a6bc5858a54"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
