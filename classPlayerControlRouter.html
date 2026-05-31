@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Final Project: IPlayerControllable Interface Reference</title>
+<title>Final Project: PlayerControlRouter Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -63,7 +63,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('interfaceIPlayerControllable.html',''); initResizable(); });
+$(document).ready(function(){initNavTree('classPlayerControlRouter.html',''); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -91,48 +91,42 @@ $(document).ready(function(){initNavTree('interfaceIPlayerControllable.html','')
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="interfaceIPlayerControllable-members.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">IPlayerControllable Interface Reference</div></div>
+<a href="classPlayerControlRouter-members.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">PlayerControlRouter Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p>An interface for objects that can be controlled by a player. Handles what happens when a player requests control or releases it.  
- <a href="interfaceIPlayerControllable.html#details">More...</a></p>
 <div class="dynheader">
-Inheritance diagram for IPlayerControllable:</div>
+Inheritance diagram for PlayerControlRouter:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="interfaceIPlayerControllable.png" usemap="#IPlayerControllable_map" alt=""/>
-  <map id="IPlayerControllable_map" name="IPlayerControllable_map">
-<area href="classHelmInteractable.html" alt="HelmInteractable" shape="rect" coords="0,56,127,80"/>
-<area href="classPlayerControlRouter.html" alt="PlayerControlRouter" shape="rect" coords="137,56,264,80"/>
+  <img src="classPlayerControlRouter.png" usemap="#PlayerControlRouter_map" alt=""/>
+  <map id="PlayerControlRouter_map" name="PlayerControlRouter_map">
+<area href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque..." alt="IPlayerControllable" shape="rect" coords="137,0,264,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad3f46a0335b5fd82fc7f7f5d4e73b625" id="r_ad3f46a0335b5fd82fc7f7f5d4e73b625"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIPlayerControllable.html#ad3f46a0335b5fd82fc7f7f5d4e73b625">OnControlRequested</a> (<a class="el" href="interfaceIPlayerController.html">IPlayerController</a> player)</td></tr>
-<tr class="memdesc:ad3f46a0335b5fd82fc7f7f5d4e73b625"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when a player requests control of this object.  <br /></td></tr>
-<tr class="separator:ad3f46a0335b5fd82fc7f7f5d4e73b625"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa80f4fd84422c7ca1255f0ae6a748e27" id="r_aa80f4fd84422c7ca1255f0ae6a748e27"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIPlayerControllable.html#aa80f4fd84422c7ca1255f0ae6a748e27">OnControlReleased</a> ()</td></tr>
-<tr class="memdesc:aa80f4fd84422c7ca1255f0ae6a748e27"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when a player releases control of this object.  <br /></td></tr>
-<tr class="separator:aa80f4fd84422c7ca1255f0ae6a748e27"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89ae644bd4c6045e1556dd3037202a01" id="r_a89ae644bd4c6045e1556dd3037202a01"><td class="memItemLeft" align="right" valign="top"><a class="el" href="interfaceIPlayerController.html">IPlayerController</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIPlayerControllable.html#a89ae644bd4c6045e1556dd3037202a01">GetActivePlayerController</a> ()</td></tr>
-<tr class="memdesc:a89ae644bd4c6045e1556dd3037202a01"><td class="mdescLeft">&#160;</td><td class="mdescRight"><dl class="section return"><dt>Returns</dt><dd>The <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a> currently controlling this object</dd></dl>
- <br /></td></tr>
-<tr class="separator:a89ae644bd4c6045e1556dd3037202a01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2fc0fb58825edc78a2ecf3dd8cc98434" id="r_a2fc0fb58825edc78a2ecf3dd8cc98434"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerControlRouter.html#a2fc0fb58825edc78a2ecf3dd8cc98434">OnControlRequested</a> (<a class="el" href="interfaceIPlayerController.html">IPlayerController</a> player)</td></tr>
+<tr class="memdesc:a2fc0fb58825edc78a2ecf3dd8cc98434"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when a player requests control of this object.  <br /></td></tr>
+<tr class="separator:a2fc0fb58825edc78a2ecf3dd8cc98434"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a71d83c404bb2abc95bd2ad33cbaa4c8e" id="r_a71d83c404bb2abc95bd2ad33cbaa4c8e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerControlRouter.html#a71d83c404bb2abc95bd2ad33cbaa4c8e">OnControlReleased</a> ()</td></tr>
+<tr class="memdesc:a71d83c404bb2abc95bd2ad33cbaa4c8e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when a player releases control of this object.  <br /></td></tr>
+<tr class="separator:a71d83c404bb2abc95bd2ad33cbaa4c8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a20a960a5745c314d9d57fab4b35c246f" id="r_a20a960a5745c314d9d57fab4b35c246f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="interfaceIPlayerController.html">IPlayerController</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerControlRouter.html#a20a960a5745c314d9d57fab4b35c246f">GetActivePlayerController</a> ()</td></tr>
+<tr class="memdesc:a20a960a5745c314d9d57fab4b35c246f"><td class="mdescLeft">&#160;</td><td class="mdescRight"><dl class="section return"><dt>Returns</dt><dd>The <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a> currently controlling this object</dd></dl>
+  <br /></td></tr>
+<tr class="separator:a20a960a5745c314d9d57fab4b35c246f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>An interface for objects that can be controlled by a player. Handles what happens when a player requests control or releases it. </p>
-</div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a89ae644bd4c6045e1556dd3037202a01" name="a89ae644bd4c6045e1556dd3037202a01"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89ae644bd4c6045e1556dd3037202a01">&#9670;&#160;</a></span>GetActivePlayerController()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a20a960a5745c314d9d57fab4b35c246f" name="a20a960a5745c314d9d57fab4b35c246f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a20a960a5745c314d9d57fab4b35c246f">&#9670;&#160;</a></span>GetActivePlayerController()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="interfaceIPlayerController.html">IPlayerController</a> IPlayerControllable.GetActivePlayerController </td>
+          <td class="memname"><a class="el" href="interfaceIPlayerController.html">IPlayerController</a> PlayerControlRouter.GetActivePlayerController </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -141,20 +135,20 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p><dl class="section return"><dt>Returns</dt><dd>The <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a> currently controlling this object</dd></dl>
-</p>
+ </p>
 
-<p>Implemented in <a class="el" href="classPlayerControlRouter.html#a20a960a5745c314d9d57fab4b35c246f">PlayerControlRouter</a>, and <a class="el" href="classHelmInteractable.html#a172126f2337070420fd68054b8a6e397">HelmInteractable</a>.</p>
+<p>Implements <a class="el" href="interfaceIPlayerControllable.html#a89ae644bd4c6045e1556dd3037202a01">IPlayerControllable</a>.</p>
 
 </div>
 </div>
-<a id="aa80f4fd84422c7ca1255f0ae6a748e27" name="aa80f4fd84422c7ca1255f0ae6a748e27"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa80f4fd84422c7ca1255f0ae6a748e27">&#9670;&#160;</a></span>OnControlReleased()</h2>
+<a id="a71d83c404bb2abc95bd2ad33cbaa4c8e" name="a71d83c404bb2abc95bd2ad33cbaa4c8e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a71d83c404bb2abc95bd2ad33cbaa4c8e">&#9670;&#160;</a></span>OnControlReleased()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void IPlayerControllable.OnControlReleased </td>
+          <td class="memname">void PlayerControlRouter.OnControlReleased </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -164,18 +158,18 @@ Public Member Functions</h2></td></tr>
 
 <p>Called when a player releases control of this object. </p>
 
-<p>Implemented in <a class="el" href="classPlayerControlRouter.html#a71d83c404bb2abc95bd2ad33cbaa4c8e">PlayerControlRouter</a>, and <a class="el" href="classHelmInteractable.html#a4c71784e8127b09bd52f7f6111f897ea">HelmInteractable</a>.</p>
+<p>Implements <a class="el" href="interfaceIPlayerControllable.html#aa80f4fd84422c7ca1255f0ae6a748e27">IPlayerControllable</a>.</p>
 
 </div>
 </div>
-<a id="ad3f46a0335b5fd82fc7f7f5d4e73b625" name="ad3f46a0335b5fd82fc7f7f5d4e73b625"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad3f46a0335b5fd82fc7f7f5d4e73b625">&#9670;&#160;</a></span>OnControlRequested()</h2>
+<a id="a2fc0fb58825edc78a2ecf3dd8cc98434" name="a2fc0fb58825edc78a2ecf3dd8cc98434"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2fc0fb58825edc78a2ecf3dd8cc98434">&#9670;&#160;</a></span>OnControlRequested()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void IPlayerControllable.OnControlRequested </td>
+          <td class="memname">void PlayerControlRouter.OnControlRequested </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="interfaceIPlayerController.html">IPlayerController</a>&#160;</td>
           <td class="paramname"><em>player</em></td><td>)</td>
@@ -192,19 +186,19 @@ Public Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p>Implemented in <a class="el" href="classPlayerControlRouter.html#a2fc0fb58825edc78a2ecf3dd8cc98434">PlayerControlRouter</a>, and <a class="el" href="classHelmInteractable.html#a97764fb17d042dccac04722e0bbfb0f8">HelmInteractable</a>.</p>
+<p>Implements <a class="el" href="interfaceIPlayerControllable.html#ad3f46a0335b5fd82fc7f7f5d4e73b625">IPlayerControllable</a>.</p>
 
 </div>
 </div>
-<hr/>The documentation for this interface was generated from the following file:<ul>
-<li>Assets/Scripts/Oh Ship Core/Interfaces/<b>IPlayerControllable.cs</b></li>
+<hr/>The documentation for this class was generated from the following file:<ul>
+<li>Assets/Scripts/Oh Ship Core/Players/<b>Player Control Router.cs</b></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a></li>
+    <li class="navelem"><a class="el" href="classPlayerControlRouter.html">PlayerControlRouter</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>

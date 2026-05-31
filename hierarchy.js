@@ -41,6 +41,7 @@ var hierarchy =
     ] ],
     [ "IInteractable", "interfaceIInteractable.html", [
       [ "FishingManager", "classFishingManager.html", null ],
+      [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "SimpleInteractable", "classSimpleInteractable.html", null ]
     ] ],
     [ "IInteractor", "interfaceIInteractor.html", [
@@ -58,7 +59,8 @@ var hierarchy =
       [ "InterfaceReference< TInterface >", "classInterfaceReference.html", null ]
     ] ],
     [ "IPlayerControllable", "interfaceIPlayerControllable.html", [
-      [ "PlayerMovement", "classPlayerMovement.html", null ]
+      [ "HelmInteractable", "classHelmInteractable.html", null ],
+      [ "PlayerControlRouter", "classPlayerControlRouter.html", null ]
     ] ],
     [ "IPlayerController", "interfaceIPlayerController.html", [
       [ "PlayerController", "classPlayerController.html", null ]
@@ -86,6 +88,7 @@ var hierarchy =
       [ "DelegateExtensions", "classDelegateExtensions.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "GenericInstance", "classGenericInstance.html", null ],
+      [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "LevelManager", "classLevelManager.html", null ],
       [ "MatrixUtils.AudioSystem.SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
@@ -93,6 +96,7 @@ var hierarchy =
       [ "MatrixUtils.VFXSystem.VFXEmitter", "classMatrixUtils_1_1VFXSystem_1_1VFXEmitter.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
+      [ "PlayerControlRouter", "classPlayerControlRouter.html", null ],
       [ "PlayerController", "classPlayerController.html", null ],
       [ "PlayerInteractions", "classPlayerInteractions.html", null ],
       [ "PlayerInteractor", "classPlayerInteractor.html", null ],

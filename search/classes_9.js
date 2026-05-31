@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['matrix4x4vfxproperty_0',['Matrix4x4VFXProperty',['../classMatrix4x4VFXProperty.html',1,'']]],
-  ['meshvfxproperty_1',['MeshVFXProperty',['../classMeshVFXProperty.html',1,'']]]
+  ['levelmanager_0',['LevelManager',['../classLevelManager.html',1,'']]],
+  ['logsettings_1',['LogSettings',['../structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html',1,'MatrixUtils::Logging::CustomLogger_SO']]]
 ];

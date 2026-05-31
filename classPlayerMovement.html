@@ -102,83 +102,21 @@ $(document).ready(function(){initNavTree('classPlayerMovement.html',''); initRes
 Inheritance diagram for PlayerMovement:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="classPlayerMovement.png" usemap="#PlayerMovement_map" alt=""/>
-  <map id="PlayerMovement_map" name="PlayerMovement_map">
-<area href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque..." alt="IPlayerControllable" shape="rect" coords="130,0,250,24"/>
-  </map>
-</div></div>
+  <img src="classPlayerMovement.png" alt=""/>
+ </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ac47d5324673ba430bea3486b7b4cea1d" id="r_ac47d5324673ba430bea3486b7b4cea1d"><td class="memItemLeft" align="right" valign="top"><a id="ac47d5324673ba430bea3486b7b4cea1d" name="ac47d5324673ba430bea3486b7b4cea1d"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>OnLookInputChanged</b> (InputAction.CallbackContext context)</td></tr>
-<tr class="separator:ac47d5324673ba430bea3486b7b4cea1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aab40bf673a7e03628225531fdca42bef" id="r_aab40bf673a7e03628225531fdca42bef"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerMovement.html#aab40bf673a7e03628225531fdca42bef">OnControlRequested</a> (<a class="el" href="interfaceIPlayerController.html">IPlayerController</a> player)</td></tr>
-<tr class="memdesc:aab40bf673a7e03628225531fdca42bef"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when a player requests control of this object.<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">player</td><td>The <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a> requesting control of this object</td></tr>
-  </table>
-  </dd>
-</dl>
-  <br /></td></tr>
-<tr class="separator:aab40bf673a7e03628225531fdca42bef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adb46e3f8064ae90229a4366c7277f437" id="r_adb46e3f8064ae90229a4366c7277f437"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerMovement.html#adb46e3f8064ae90229a4366c7277f437">OnControlReleased</a> ()</td></tr>
-<tr class="memdesc:adb46e3f8064ae90229a4366c7277f437"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when a player releases control of this object.  <br /></td></tr>
-<tr class="separator:adb46e3f8064ae90229a4366c7277f437"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7e6cf1e003fbc0751f772ea7a5c933e" id="r_af7e6cf1e003fbc0751f772ea7a5c933e"><td class="memItemLeft" align="right" valign="top"><a id="af7e6cf1e003fbc0751f772ea7a5c933e" name="af7e6cf1e003fbc0751f772ea7a5c933e"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnMovementInputChanged</b> (Vector2 input)</td></tr>
+<tr class="separator:af7e6cf1e003fbc0751f772ea7a5c933e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a108dbcdc513833338413b9131ed0101a" id="r_a108dbcdc513833338413b9131ed0101a"><td class="memItemLeft" align="right" valign="top"><a id="a108dbcdc513833338413b9131ed0101a" name="a108dbcdc513833338413b9131ed0101a"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnLookInputChanged</b> (Vector2 input)</td></tr>
+<tr class="separator:a108dbcdc513833338413b9131ed0101a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Handle player movement through taking input from via <a class="el" href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque...">IPlayerControllable</a> from any <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a> </p>
-</div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="adb46e3f8064ae90229a4366c7277f437" name="adb46e3f8064ae90229a4366c7277f437"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adb46e3f8064ae90229a4366c7277f437">&#9670;&#160;</a></span>OnControlReleased()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void PlayerMovement.OnControlReleased </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Called when a player releases control of this object. </p>
-
-<p>Implements <a class="el" href="interfaceIPlayerControllable.html#aa80f4fd84422c7ca1255f0ae6a748e27">IPlayerControllable</a>.</p>
-
-</div>
-</div>
-<a id="aab40bf673a7e03628225531fdca42bef" name="aab40bf673a7e03628225531fdca42bef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aab40bf673a7e03628225531fdca42bef">&#9670;&#160;</a></span>OnControlRequested()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void PlayerMovement.OnControlRequested </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="interfaceIPlayerController.html">IPlayerController</a>&#160;</td>
-          <td class="paramname"><em>player</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Called when a player requests control of this object.<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">player</td><td>The <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a> requesting control of this object</td></tr>
-  </table>
-  </dd>
-</dl>
- </p>
-
-<p>Implements <a class="el" href="interfaceIPlayerControllable.html#ad3f46a0335b5fd82fc7f7f5d4e73b625">IPlayerControllable</a>.</p>
-
-</div>
-</div>
-<hr/>The documentation for this class was generated from the following file:<ul>
+</div><hr/>The documentation for this class was generated from the following file:<ul>
 <li>Assets/Scripts/Oh Ship Core/Players/<b>Player Movement.cs</b></li>
 </ul>
 </div><!-- contents -->

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['normalizedpositionasuv0zw_0',['NormalizedPositionAsUV0ZW',['../classMatrixUtils_1_1ShaderHelpers_1_1NormalizedPositionAsUV0ZW.html',1,'MatrixUtils::ShaderHelpers']]]
+  ['matrix4x4vfxproperty_0',['Matrix4x4VFXProperty',['../classMatrix4x4VFXProperty.html',1,'']]],
+  ['meshvfxproperty_1',['MeshVFXProperty',['../classMeshVFXProperty.html',1,'']]]
 ];

@@ -111,11 +111,11 @@ Inheritance diagram for PlayerInteractor:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a571416a0e43c59ec34c67b063eb50d79" id="r_a571416a0e43c59ec34c67b063eb50d79"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerInteractor.html#a571416a0e43c59ec34c67b063eb50d79">IsInteracting</a> ()</td></tr>
-<tr class="memdesc:a571416a0e43c59ec34c67b063eb50d79"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> is interacting with a <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a><dl class="section return"><dt>Returns</dt><dd>Whether the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> is interacting with a <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a></dd></dl>
+<tr class="memdesc:a571416a0e43c59ec34c67b063eb50d79"><td class="mdescLeft">&#160;</td><td class="mdescRight"><dl class="section return"><dt>Returns</dt><dd>Whether the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> is interacting with a <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a></dd></dl>
   <br /></td></tr>
 <tr class="separator:a571416a0e43c59ec34c67b063eb50d79"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5dcdda3052e78203eadc01f236eb972a" id="r_a5dcdda3052e78203eadc01f236eb972a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classInteractionSession.html">InteractionSession</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerInteractor.html#a5dcdda3052e78203eadc01f236eb972a">GetSession</a> ()</td></tr>
-<tr class="memdesc:a5dcdda3052e78203eadc01f236eb972a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the current <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> if the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> is interacting with a <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a><dl class="section return"><dt>Returns</dt><dd>The current <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a></dd></dl>
+<tr class="memdesc:a5dcdda3052e78203eadc01f236eb972a"><td class="mdescLeft">&#160;</td><td class="mdescRight"><dl class="section return"><dt>Returns</dt><dd>The current <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> if the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> is interacting with a <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a></dd></dl>
   <br /></td></tr>
 <tr class="separator:a5dcdda3052e78203eadc01f236eb972a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a437caf7bb4327231274c96f3cb857eed" id="r_a437caf7bb4327231274c96f3cb857eed"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerInteractor.html#a437caf7bb4327231274c96f3cb857eed">RequestSessionTransfer</a> (<a class="el" href="classInteractionSession.html">InteractionSession</a> session)</td></tr>
@@ -128,10 +128,14 @@ Public Member Functions</h2></td></tr>
 <dl class="section return"><dt>Returns</dt><dd>True if the session transfer was successful</dd></dl>
   <br /></td></tr>
 <tr class="separator:a437caf7bb4327231274c96f3cb857eed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8c03d915e93e598bc16e92a91820cd6a" id="r_a8c03d915e93e598bc16e92a91820cd6a"><td class="memItemLeft" align="right" valign="top"><a id="a8c03d915e93e598bc16e92a91820cd6a" name="a8c03d915e93e598bc16e92a91820cd6a"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>OnInteractionButtonPressed</b> (InputAction.CallbackContext context)</td></tr>
-<tr class="memdesc:a8c03d915e93e598bc16e92a91820cd6a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempts to begin an interaction with the nearest <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a> in the m_interactionRange <br /></td></tr>
-<tr class="separator:a8c03d915e93e598bc16e92a91820cd6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b24e2ce738734f43144ca01ec669344" id="r_a5b24e2ce738734f43144ca01ec669344"><td class="memItemLeft" align="right" valign="top">GameObject&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerInteractor.html#a5b24e2ce738734f43144ca01ec669344">GetAssociatedGameObject</a> ()</td></tr>
+<tr class="memdesc:a5b24e2ce738734f43144ca01ec669344"><td class="mdescLeft">&#160;</td><td class="mdescRight"><dl class="section return"><dt>Returns</dt><dd>The GameObject associated with this <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a></dd></dl>
+  <br /></td></tr>
+<tr class="separator:a5b24e2ce738734f43144ca01ec669344"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae29c8661262296bef121bd489f6b6f9a" id="r_ae29c8661262296bef121bd489f6b6f9a"><td class="memItemLeft" align="right" valign="top"><a id="ae29c8661262296bef121bd489f6b6f9a" name="ae29c8661262296bef121bd489f6b6f9a"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnInteractionButtonPressed</b> ()</td></tr>
+<tr class="memdesc:ae29c8661262296bef121bd489f6b6f9a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempts to begin an interaction with the nearest <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a> in the m_interactionRange <br /></td></tr>
+<tr class="separator:ae29c8661262296bef121bd489f6b6f9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeddc2c8a28be6a01f8e1cbc449018e42" id="r_aeddc2c8a28be6a01f8e1cbc449018e42"><td class="memItemLeft" align="right" valign="top"><a id="aeddc2c8a28be6a01f8e1cbc449018e42" name="aeddc2c8a28be6a01f8e1cbc449018e42"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>EndActiveInteraction</b> ()</td></tr>
 <tr class="memdesc:aeddc2c8a28be6a01f8e1cbc449018e42"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ends the current <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> if one exists. <br /></td></tr>
@@ -140,6 +144,28 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>EndActiveInteraction<
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Handles interactions with <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a> by the player. </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a5b24e2ce738734f43144ca01ec669344" name="a5b24e2ce738734f43144ca01ec669344"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b24e2ce738734f43144ca01ec669344">&#9670;&#160;</a></span>GetAssociatedGameObject()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">GameObject PlayerInteractor.GetAssociatedGameObject </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p><dl class="section return"><dt>Returns</dt><dd>The GameObject associated with this <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a></dd></dl>
+ </p>
+
+<p>Implements <a class="el" href="interfaceIInteractor.html#a9050f5a17e991e8aa8c1fe6ea9b280d1">IInteractor</a>.</p>
+
+</div>
+</div>
 <a id="a5dcdda3052e78203eadc01f236eb972a" name="a5dcdda3052e78203eadc01f236eb972a"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5dcdda3052e78203eadc01f236eb972a">&#9670;&#160;</a></span>GetSession()</h2>
 
@@ -155,7 +181,7 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>EndActiveInteraction<
       </table>
 </div><div class="memdoc">
 
-<p>Returns the current <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> if the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> is interacting with a <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a><dl class="section return"><dt>Returns</dt><dd>The current <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a></dd></dl>
+<p><dl class="section return"><dt>Returns</dt><dd>The current <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> if the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> is interacting with a <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a></dd></dl>
  </p>
 
 <p>Implements <a class="el" href="interfaceIInteractor.html#acea3632c30903f59bf244104399be11d">IInteractor</a>.</p>
@@ -177,7 +203,7 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>EndActiveInteraction<
       </table>
 </div><div class="memdoc">
 
-<p>Returns true if the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> is interacting with a <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a><dl class="section return"><dt>Returns</dt><dd>Whether the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> is interacting with a <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a></dd></dl>
+<p><dl class="section return"><dt>Returns</dt><dd>Whether the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> is interacting with a <a class="el" href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor">IInteractable</a></dd></dl>
  </p>
 
 <p>Implements <a class="el" href="interfaceIInteractor.html#add40295f5b68f9cc154d01b688f6dbe6">IInteractor</a>.</p>

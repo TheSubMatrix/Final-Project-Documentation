@@ -1,8 +1,13 @@
 var searchData=
 [
-  ['readonlyattribute_0',['ReadOnlyAttribute',['../classMatrixUtils_1_1Attributes_1_1ReadOnlyAttribute.html',1,'MatrixUtils::Attributes']]],
-  ['regulatorsingleton_1',['RegulatorSingleton',['../classRegulatorSingleton.html',1,'']]],
-  ['requiredfieldattribute_2',['RequiredFieldAttribute',['../classMatrixUtils_1_1Attributes_1_1RequiredFieldAttribute.html',1,'MatrixUtils::Attributes']]],
-  ['requireinterfaceattribute_3',['RequireInterfaceAttribute',['../classRequireInterfaceAttribute.html',1,'']]],
-  ['routinequeue_4',['RoutineQueue',['../classRoutineQueue.html',1,'']]]
+  ['persistentservice_0',['PersistentService',['../classPersistentService.html',1,'']]],
+  ['persistentsingleton_1',['PersistentSingleton',['../classPersistentSingleton.html',1,'']]],
+  ['persistentsingleton_3c_20soundmanager_20_3e_2',['PersistentSingleton&lt; SoundManager &gt;',['../classPersistentSingleton.html',1,'']]],
+  ['persistentsingleton_3c_20vfxmanager_20_3e_3',['PersistentSingleton&lt; VFXManager &gt;',['../classPersistentSingleton.html',1,'']]],
+  ['playercontroller_4',['PlayerController',['../classPlayerController.html',1,'']]],
+  ['playercontrolrouter_5',['PlayerControlRouter',['../classPlayerControlRouter.html',1,'']]],
+  ['playerinteractions_6',['PlayerInteractions',['../classPlayerInteractions.html',1,'']]],
+  ['playerinteractor_7',['PlayerInteractor',['../classPlayerInteractor.html',1,'']]],
+  ['playermovement_8',['PlayerMovement',['../classPlayerMovement.html',1,'']]],
+  ['provideattribute_9',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
 ];
