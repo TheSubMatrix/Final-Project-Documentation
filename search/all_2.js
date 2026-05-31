@@ -2,8 +2,8 @@ var searchData=
 [
   ['calculateobjectvelocity_0',['CalculateObjectVelocity',['../classCalculateObjectVelocity.html',1,'']]],
   ['category_1',['Category',['../structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a57ac8cde937052d0caae5a5abd907773',1,'MatrixUtils::Logging::CustomLogger_SO::LogSettings']]],
-  ['changecontrolledentity_2',['changecontrolledentity',['../classPlayerController.html#aae5561944cc1d4c40be9c70718f03e9b',1,'PlayerController.ChangeControlledEntity()'],['../interfaceIPlayerController.html#a289ce1ce046c4640f6dd3b425b5e275d',1,'IPlayerController.ChangeControlledEntity()']]],
-  ['changeinputactions_3',['changeinputactions',['../classPlayerController.html#ae48596ab2d61220fee50bd53e6a258e8',1,'PlayerController.ChangeInputActions()'],['../interfaceIPlayerController.html#a4f66688f77e281e139dbfa98b92b62fb',1,'IPlayerController.ChangeInputActions()']]],
+  ['changecontrolledentity_2',['changecontrolledentity',['../interfaceIPlayerController.html#a289ce1ce046c4640f6dd3b425b5e275d',1,'IPlayerController.ChangeControlledEntity()'],['../classPlayerController.html#aae5561944cc1d4c40be9c70718f03e9b',1,'PlayerController.ChangeControlledEntity(IPlayerControllable controllable)']]],
+  ['changeinputactionmap_3',['ChangeInputActionMap',['../classPlayerController.html#a6ad0f4c70e031fbab4ae2302942b3bff',1,'PlayerController']]],
   ['clampvector2_4',['ClampVector2',['../classMatrixUtils_1_1ClampVector2.html',1,'MatrixUtils']]],
   ['classselectorattribute_5',['ClassSelectorAttribute',['../classMatrixUtils_1_1Attributes_1_1ClassSelectorAttribute.html',1,'MatrixUtils::Attributes']]],
   ['colortext_6',['ColorText',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html#afcc163c6a43af1a25055a4799861019f',1,'MatrixUtils::Logging::CustomLogger_SO']]],
