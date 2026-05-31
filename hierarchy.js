@@ -128,6 +128,7 @@ var hierarchy =
     [ "RoutineQueue", "classRoutineQueue.html", null ],
     [ "ScriptableObject", null, [
       [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ],
+      [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],
       [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ],
       [ "StatData", "classStatData.html", null ]
     ] ],
@@ -139,6 +140,7 @@ var hierarchy =
     [ "StatBlock", "classStatBlock.html", null ],
     [ "StatBroker", "classStatBroker.html", null ],
     [ "StatQuery", "classStatQuery.html", null ],
+    [ "TerrainEnvironmentSwaper", "classTerrainEnvironmentSwaper.html", null ],
     [ "TerrainOptions", "classTerrainOptions.html", null ],
     [ "TerrainSelector", "classTerrainSelector.html", null ],
     [ "MatrixUtils.Timers.Timer< CountdownTimer >", "classMatrixUtils_1_1Timers_1_1Timer.html", [
