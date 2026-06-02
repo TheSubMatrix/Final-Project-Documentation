@@ -62,6 +62,7 @@ var annotated_dup =
     ] ],
     [ "AnimationCurveVFXProperty", "classAnimationCurveVFXProperty.html", null ],
     [ "AspectRatioElement", "classAspectRatioElement.html", "classAspectRatioElement" ],
+    [ "BoatCoordinate", "classBoatCoordinate.html", null ],
     [ "BoolVFXProperty", "classBoolVFXProperty.html", null ],
     [ "BuoyantBody", "classBuoyantBody.html", null ],
     [ "BuoyantBodyEditor", "classBuoyantBodyEditor.html", null ],
