@@ -114,7 +114,11 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a289ce1ce046c4640f6dd3b425b5e275d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Changes the controlled <a class="el" href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque...">IPlayerControllable</a> to the one specified.  <br /></td></tr>
 <tr class="separator:a289ce1ce046c4640f6dd3b425b5e275d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4169c05d7d936a11ec6b5da8b2899379" id="r_a4169c05d7d936a11ec6b5da8b2899379"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIPlayerController.html#a4169c05d7d936a11ec6b5da8b2899379">ChangeInputActionMap</a> (string actions, out InputActionMap newMap)</td></tr>
+<tr class="memdesc:a4169c05d7d936a11ec6b5da8b2899379"><td class="mdescLeft">&#160;</td><td class="mdescRight">Changes the InputActionMap used by the controlled <a class="el" href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque...">IPlayerControllable</a> to the one specified.  <br /></td></tr>
 <tr class="separator:a4169c05d7d936a11ec6b5da8b2899379"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79d1b713f815901680afe8fe4947de70" id="r_a79d1b713f815901680afe8fe4947de70"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIPlayerController.html#a79d1b713f815901680afe8fe4947de70">GetCurrentInputActionMap</a> (out InputActionMap currentMap)</td></tr>
+<tr class="memdesc:a79d1b713f815901680afe8fe4947de70"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the current InputActionMap used by the controlling <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a>  <br /></td></tr>
+<tr class="separator:a79d1b713f815901680afe8fe4947de70"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Represents a player's control of an object. Allows the player to request control of an object and to change the InputActionAsset used by the object. </p>
@@ -173,7 +177,46 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Changes the InputActionMap used by the controlled <a class="el" href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque...">IPlayerControllable</a> to the one specified. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">actions</td><td>The name of the InputActionMap to change to</td></tr>
+    <tr><td class="paramname">newMap</td><td>The new InputActionMap that was swapped to. Meant so the caller can subscribe events to the map for their control scheme</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Whether the action map change was successful</dd></dl>
+
 <p>Implemented in <a class="el" href="classPlayerController.html#a6ad0f4c70e031fbab4ae2302942b3bff">PlayerController</a>.</p>
+
+</div>
+</div>
+<a id="a79d1b713f815901680afe8fe4947de70" name="a79d1b713f815901680afe8fe4947de70"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79d1b713f815901680afe8fe4947de70">&#9670;&#160;</a></span>GetCurrentInputActionMap()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool IPlayerController.GetCurrentInputActionMap </td>
+          <td>(</td>
+          <td class="paramtype">out InputActionMap&#160;</td>
+          <td class="paramname"><em>currentMap</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Gets the current InputActionMap used by the controlling <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a> </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">currentMap</td><td>The current map used by the <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Whether the result is valid</dd></dl>
+
+<p>Implemented in <a class="el" href="classPlayerController.html#a1908c8481a17cb24076e0b84e7d5698b">PlayerController</a>.</p>
 
 </div>
 </div>

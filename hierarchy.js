@@ -42,7 +42,8 @@ var hierarchy =
     [ "IInteractable", "interfaceIInteractable.html", [
       [ "FishingManager", "classFishingManager.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
-      [ "SimpleInteractable", "classSimpleInteractable.html", null ]
+      [ "SimpleInteractable", "classSimpleInteractable.html", null ],
+      [ "SteamPressureInteractable", "classSteamPressureInteractable.html", null ]
     ] ],
     [ "IInteractor", "interfaceIInteractor.html", [
       [ "PlayerInteractor", "classPlayerInteractor.html", null ]
@@ -106,6 +107,7 @@ var hierarchy =
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
       [ "ShipMovement", "classShipMovement.html", null ],
       [ "SimpleInteractable", "classSimpleInteractable.html", null ],
+      [ "SteamPressureInteractable", "classSteamPressureInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
       [ "TerrainSpawner", "classTerrainSpawner.html", null ],
       [ "tester", "classtester.html", null ]

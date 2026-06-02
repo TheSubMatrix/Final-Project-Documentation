@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Final Project: IInteractable Interface Reference</title>
+<title>Final Project: SteamPressureInteractable Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -63,7 +63,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('interfaceIInteractable.html',''); initResizable(); });
+$(document).ready(function(){initNavTree('classSteamPressureInteractable.html',''); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -91,43 +91,47 @@ $(document).ready(function(){initNavTree('interfaceIInteractable.html',''); init
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="interfaceIInteractable-members.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">IInteractable Interface Reference</div></div>
+<a href="classSteamPressureInteractable-members.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">SteamPressureInteractable Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Represents an object that can be interacted with by an <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>  
- <a href="interfaceIInteractable.html#details">More...</a></p>
+<p>An interactable that allows the player to adjust the pressure of the steam engine in the ship.  
+ <a href="classSteamPressureInteractable.html#details">More...</a></p>
 <div class="dynheader">
-Inheritance diagram for IInteractable:</div>
+Inheritance diagram for SteamPressureInteractable:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="interfaceIInteractable.png" usemap="#IInteractable_map" alt=""/>
-  <map id="IInteractable_map" name="IInteractable_map">
-<area href="classFishingManager.html" alt="FishingManager" shape="rect" coords="0,56,163,80"/>
-<area href="classHelmInteractable.html" alt="HelmInteractable" shape="rect" coords="173,56,336,80"/>
-<area href="classSimpleInteractable.html" alt="SimpleInteractable" shape="rect" coords="346,56,509,80"/>
-<area href="classSteamPressureInteractable.html" title="An interactable that allows the player to adjust the pressure of the steam engine in the ship." alt="SteamPressureInteractable" shape="rect" coords="519,56,682,80"/>
+  <img src="classSteamPressureInteractable.png" usemap="#SteamPressureInteractable_map" alt=""/>
+  <map id="SteamPressureInteractable_map" name="SteamPressureInteractable_map">
+<area href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor" alt="IInteractable" shape="rect" coords="173,0,336,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a2f376f4157a8320c8d644b34c941a3a4" id="r_a2f376f4157a8320c8d644b34c941a3a4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classInteractionSession.html">InteractionSession</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIInteractable.html#a2f376f4157a8320c8d644b34c941a3a4">BeginInteraction</a> (<a class="el" href="interfaceIInteractor.html">IInteractor</a> interactor)</td></tr>
-<tr class="memdesc:a2f376f4157a8320c8d644b34c941a3a4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>  <br /></td></tr>
-<tr class="separator:a2f376f4157a8320c8d644b34c941a3a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a388050389d984fdd4b585ee26bc909f9" id="r_a388050389d984fdd4b585ee26bc909f9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classInteractionSession.html">InteractionSession</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteamPressureInteractable.html#a388050389d984fdd4b585ee26bc909f9">BeginInteraction</a> (<a class="el" href="interfaceIInteractor.html">IInteractor</a> interactor)</td></tr>
+<tr class="memdesc:a388050389d984fdd4b585ee26bc909f9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">interactor</td><td>The <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> to begin the interaction with</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>An <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> representing the current state of the interaction</dd></dl>
+  <br /></td></tr>
+<tr class="separator:a388050389d984fdd4b585ee26bc909f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Represents an object that can be interacted with by an <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> </p>
+<div class="textblock"><p>An interactable that allows the player to adjust the pressure of the steam engine in the ship. </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a2f376f4157a8320c8d644b34c941a3a4" name="a2f376f4157a8320c8d644b34c941a3a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2f376f4157a8320c8d644b34c941a3a4">&#9670;&#160;</a></span>BeginInteraction()</h2>
+<a id="a388050389d984fdd4b585ee26bc909f9" name="a388050389d984fdd4b585ee26bc909f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a388050389d984fdd4b585ee26bc909f9">&#9670;&#160;</a></span>BeginInteraction()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classInteractionSession.html">InteractionSession</a> IInteractable.BeginInteraction </td>
+          <td class="memname"><a class="el" href="classInteractionSession.html">InteractionSession</a> SteamPressureInteractable.BeginInteraction </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="interfaceIInteractor.html">IInteractor</a>&#160;</td>
           <td class="paramname"><em>interactor</em></td><td>)</td>
@@ -136,28 +140,28 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> </p>
-<dl class="params"><dt>Parameters</dt><dd>
+<p>Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">interactor</td><td>The <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> to begin the interaction with</td></tr>
   </table>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>An <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> representing the current state of the interaction</dd></dl>
+ </p>
 
-<p>Implemented in <a class="el" href="classFishingManager.html#a105ef8d38b3d0881b5ebb20b7dd4952e">FishingManager</a>, <a class="el" href="classHelmInteractable.html#adc8df0ee424d9fc8694bab4127b081dd">HelmInteractable</a>, <a class="el" href="classSimpleInteractable.html#a1f7af3d1f89186c87d72e5f83dbdcb18">SimpleInteractable</a>, and <a class="el" href="classSteamPressureInteractable.html#a388050389d984fdd4b585ee26bc909f9">SteamPressureInteractable</a>.</p>
+<p>Implements <a class="el" href="interfaceIInteractable.html#a2f376f4157a8320c8d644b34c941a3a4">IInteractable</a>.</p>
 
 </div>
 </div>
-<hr/>The documentation for this interface was generated from the following file:<ul>
-<li>Assets/Scripts/Oh Ship Core/Interfaces/<b>IInteractable.cs</b></li>
+<hr/>The documentation for this class was generated from the following file:<ul>
+<li>Assets/Scripts/Oh Ship Core/Ship/<b>Steam Pressure Interactable.cs</b></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="interfaceIInteractable.html">IInteractable</a></li>
+    <li class="navelem"><a class="el" href="classSteamPressureInteractable.html">SteamPressureInteractable</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
