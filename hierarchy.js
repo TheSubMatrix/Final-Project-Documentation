@@ -90,6 +90,7 @@ var hierarchy =
       [ "BuoyantBody", "classBuoyantBody.html", null ],
       [ "DelegateExtensions", "classDelegateExtensions.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
+      [ "FishingUI", "classFishingUI.html", null ],
       [ "GenericInstance", "classGenericInstance.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "LevelManager", "classLevelManager.html", null ],
