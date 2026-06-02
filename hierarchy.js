@@ -43,7 +43,7 @@ var hierarchy =
       [ "FishingManager", "classFishingManager.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "SimpleInteractable", "classSimpleInteractable.html", null ],
-      [ "SteamPressureInteractable", "classSteamPressureInteractable.html", null ]
+      [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ]
     ] ],
     [ "IInteractor", "interfaceIInteractor.html", [
       [ "PlayerInteractor", "classPlayerInteractor.html", null ]
@@ -61,7 +61,8 @@ var hierarchy =
     ] ],
     [ "IPlayerControllable", "interfaceIPlayerControllable.html", [
       [ "HelmInteractable", "classHelmInteractable.html", null ],
-      [ "PlayerControlRouter", "classPlayerControlRouter.html", null ]
+      [ "PlayerControlRouter", "classPlayerControlRouter.html", null ],
+      [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ]
     ] ],
     [ "IPlayerController", "interfaceIPlayerController.html", [
       [ "PlayerController", "classPlayerController.html", null ]
@@ -107,7 +108,8 @@ var hierarchy =
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
       [ "ShipMovement", "classShipMovement.html", null ],
       [ "SimpleInteractable", "classSimpleInteractable.html", null ],
-      [ "SteamPressureInteractable", "classSteamPressureInteractable.html", null ],
+      [ "SteamPressureSystem", "classSteamPressureSystem.html", null ],
+      [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
       [ "TerrainSpawner", "classTerrainSpawner.html", null ],
       [ "tester", "classtester.html", null ]
