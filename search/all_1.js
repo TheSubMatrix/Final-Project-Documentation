@@ -4,6 +4,5 @@ var searchData=
   ['boatcoordinate_1',['BoatCoordinate',['../classBoatCoordinate.html',1,'']]],
   ['boolvfxproperty_2',['BoolVFXProperty',['../classBoolVFXProperty.html',1,'']]],
   ['broker_3',['Broker',['../classStatBlock.html#a6f37a2c5bc60e852b200bea443f06e08',1,'StatBlock']]],
-  ['buoyantbody_4',['BuoyantBody',['../classBuoyantBody.html',1,'']]],
-  ['buoyantbodyeditor_5',['BuoyantBodyEditor',['../classBuoyantBodyEditor.html',1,'']]]
+  ['buoyantbody_4',['BuoyantBody',['../classBuoyantBody.html',1,'']]]
 ];

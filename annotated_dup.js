@@ -65,7 +65,6 @@ var annotated_dup =
     [ "BoatCoordinate", "classBoatCoordinate.html", null ],
     [ "BoolVFXProperty", "classBoolVFXProperty.html", null ],
     [ "BuoyantBody", "classBuoyantBody.html", null ],
-    [ "BuoyantBodyEditor", "classBuoyantBodyEditor.html", null ],
     [ "CalculateObjectVelocity", "classCalculateObjectVelocity.html", "classCalculateObjectVelocity" ],
     [ "ColorVFXProperty", "classColorVFXProperty.html", null ],
     [ "DelegateExtensions", "classDelegateExtensions.html", null ],

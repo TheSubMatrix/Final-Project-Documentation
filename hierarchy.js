@@ -9,9 +9,6 @@ var hierarchy =
     [ "MatrixUtils.GenericDatatypes.CoroutineWithData< T >", "classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
-    [ "Editor", null, [
-      [ "BuoyantBodyEditor", "classBuoyantBodyEditor.html", null ]
-    ] ],
     [ "MatrixUtils.DependencyInjection.IDependencyProvider", "interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html", [
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ]
