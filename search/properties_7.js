@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['result_0',['Result',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html#a20fe738c8fc8a0d3232587b2393fa3ea',1,'MatrixUtils::GenericDatatypes::CoroutineWithData']]]
+  ['target_0',['target',['../classSerializedMethod.html#ad8c4969dd0567a5689e43308997ff618',1,'SerializedMethod.Target'],['../classInteractionSession.html#a473aa0fed4ccfdf1c606c9d87accf623',1,'InteractionSession.Target']]]
 ];

@@ -53,6 +53,7 @@ var hierarchy =
     [ "InteractionSession", "classInteractionSession.html", null ],
     [ "InterfaceArgs", "structInterfaceArgs.html", null ],
     [ "InterfaceReference< IPlayerControllable >", "classInterfaceReference.html", null ],
+    [ "InterfaceReference< IPlayerControllable, MonoBehaviour >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< TInterface, Object >", "classInterfaceReference.html", [
       [ "InterfaceReference< TInterface >", "classInterfaceReference.html", null ]
     ] ],
@@ -88,7 +89,6 @@ var hierarchy =
       [ "DelegateExtensions", "classDelegateExtensions.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "FishingUI", "classFishingUI.html", null ],
-      [ "GenericInstance", "classGenericInstance.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "LevelManager", "classLevelManager.html", null ],
       [ "MatrixUtils.AudioSystem.SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],
@@ -102,6 +102,7 @@ var hierarchy =
       [ "PlayerInteractions", "classPlayerInteractions.html", null ],
       [ "PlayerInteractor", "classPlayerInteractor.html", null ],
       [ "PlayerMovement", "classPlayerMovement.html", null ],
+      [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
       [ "ShipMovement", "classShipMovement.html", null ],
@@ -140,7 +141,6 @@ var hierarchy =
     [ "SerializableKeyValuePair< TKey, TValue >", "structSerializableKeyValuePair.html", null ],
     [ "MatrixUtils.AudioSystem.SoundBuilder", "classMatrixUtils_1_1AudioSystem_1_1SoundBuilder.html", null ],
     [ "MatrixUtils.AudioSystem.SoundData", "classMatrixUtils_1_1AudioSystem_1_1SoundData.html", null ],
-    [ "StatBlock", "classStatBlock.html", null ],
     [ "StatBroker", "classStatBroker.html", null ],
     [ "StatQuery", "classStatQuery.html", null ],
     [ "TerrainEnvironmentSwaper", "classTerrainEnvironmentSwaper.html", null ],

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['name_0',['Name',['../classStatData.html#a30d54fc0bbda1b6da6b2f61d5f45ef8c',1,'StatData']]]
+  ['parameters_0',['Parameters',['../classSerializedMethod.html#a97a7c3b2273f8d2d919e3a96981e62a6',1,'SerializedMethod']]]
 ];

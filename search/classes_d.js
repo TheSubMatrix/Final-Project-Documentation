@@ -9,5 +9,6 @@ var searchData=
   ['playerinteractions_6',['PlayerInteractions',['../classPlayerInteractions.html',1,'']]],
   ['playerinteractor_7',['PlayerInteractor',['../classPlayerInteractor.html',1,'']]],
   ['playermovement_8',['PlayerMovement',['../classPlayerMovement.html',1,'']]],
-  ['provideattribute_9',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
+  ['playerspawnmanager_9',['PlayerSpawnManager',['../classPlayerSpawnManager.html',1,'']]],
+  ['provideattribute_10',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
 ];

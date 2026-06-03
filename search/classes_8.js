@@ -13,12 +13,13 @@ var searchData=
   ['interfaceargs_10',['InterfaceArgs',['../structInterfaceArgs.html',1,'']]],
   ['interfacereference_11',['InterfaceReference',['../classInterfaceReference.html',1,'']]],
   ['interfacereference_3c_20iplayercontrollable_20_3e_12',['InterfaceReference&lt; IPlayerControllable &gt;',['../classInterfaceReference.html',1,'']]],
-  ['interfacereference_3c_20tinterface_2c_20object_20_3e_13',['InterfaceReference&lt; TInterface, Object &gt;',['../classInterfaceReference.html',1,'']]],
-  ['intervaltimer_14',['IntervalTimer',['../classMatrixUtils_1_1Timers_1_1IntervalTimer.html',1,'MatrixUtils::Timers']]],
-  ['intvfxproperty_15',['IntVFXProperty',['../classIntVFXProperty.html',1,'']]],
-  ['iplayercontrollable_16',['IPlayerControllable',['../interfaceIPlayerControllable.html',1,'']]],
-  ['iplayercontroller_17',['IPlayerController',['../interfaceIPlayerController.html',1,'']]],
-  ['isexternalinit_18',['IsExternalInit',['../classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html',1,'System::Runtime::CompilerServices']]],
-  ['ispawner_19',['ISpawner',['../interfaceISpawner.html',1,'']]],
-  ['itimer_20',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]]
+  ['interfacereference_3c_20iplayercontrollable_2c_20monobehaviour_20_3e_13',['InterfaceReference&lt; IPlayerControllable, MonoBehaviour &gt;',['../classInterfaceReference.html',1,'']]],
+  ['interfacereference_3c_20tinterface_2c_20object_20_3e_14',['InterfaceReference&lt; TInterface, Object &gt;',['../classInterfaceReference.html',1,'']]],
+  ['intervaltimer_15',['IntervalTimer',['../classMatrixUtils_1_1Timers_1_1IntervalTimer.html',1,'MatrixUtils::Timers']]],
+  ['intvfxproperty_16',['IntVFXProperty',['../classIntVFXProperty.html',1,'']]],
+  ['iplayercontrollable_17',['IPlayerControllable',['../interfaceIPlayerControllable.html',1,'']]],
+  ['iplayercontroller_18',['IPlayerController',['../interfaceIPlayerController.html',1,'']]],
+  ['isexternalinit_19',['IsExternalInit',['../classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html',1,'System::Runtime::CompilerServices']]],
+  ['ispawner_20',['ISpawner',['../interfaceISpawner.html',1,'']]],
+  ['itimer_21',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]]
 ];
