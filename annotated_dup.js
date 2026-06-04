@@ -67,6 +67,7 @@ var annotated_dup =
     [ "BuoyantBody", "classBuoyantBody.html", null ],
     [ "CalculateObjectVelocity", "classCalculateObjectVelocity.html", "classCalculateObjectVelocity" ],
     [ "ColorVFXProperty", "classColorVFXProperty.html", null ],
+    [ "CookFish", "classCookFish.html", null ],
     [ "DelegateExtensions", "classDelegateExtensions.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],

@@ -9,9 +9,10 @@ var searchData=
   ['colortext_6',['ColorText',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html#afcc163c6a43af1a25055a4799861019f',1,'MatrixUtils::Logging::CustomLogger_SO']]],
   ['colorvfxproperty_7',['ColorVFXProperty',['../classColorVFXProperty.html',1,'']]],
   ['contains_8',['Contains',['../classMatrixUtils_1_1GenericDatatypes_1_1SerializableHashSet.html#ae66ff81ff112df62267e448e3994d38b',1,'MatrixUtils::GenericDatatypes::SerializableHashSet']]],
-  ['coroutine_9',['coroutine',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html#a6be77fc672119c20c1bf5b3ac169b5ec',1,'MatrixUtils::GenericDatatypes::CoroutineWithData']]],
-  ['coroutinewithdata_10',['coroutinewithdata',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html',1,'MatrixUtils.GenericDatatypes.CoroutineWithData&lt; T &gt;'],['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html#aed5ebfe89aaea210de2626d70d444124',1,'MatrixUtils.GenericDatatypes.CoroutineWithData.CoroutineWithData()']]],
-  ['countdowntimer_11',['CountdownTimer',['../classMatrixUtils_1_1Timers_1_1CountdownTimer.html',1,'MatrixUtils::Timers']]],
-  ['currentinteractor_12',['CurrentInteractor',['../classInteractionSession.html#ad4ddc87f2abfb9c6eb1423480cb62962',1,'InteractionSession']]],
-  ['customlogger_5fso_13',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
+  ['cookfish_9',['CookFish',['../classCookFish.html',1,'']]],
+  ['coroutine_10',['coroutine',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html#a6be77fc672119c20c1bf5b3ac169b5ec',1,'MatrixUtils::GenericDatatypes::CoroutineWithData']]],
+  ['coroutinewithdata_11',['coroutinewithdata',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html',1,'MatrixUtils.GenericDatatypes.CoroutineWithData&lt; T &gt;'],['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html#aed5ebfe89aaea210de2626d70d444124',1,'MatrixUtils.GenericDatatypes.CoroutineWithData.CoroutineWithData()']]],
+  ['countdowntimer_12',['CountdownTimer',['../classMatrixUtils_1_1Timers_1_1CountdownTimer.html',1,'MatrixUtils::Timers']]],
+  ['currentinteractor_13',['CurrentInteractor',['../classInteractionSession.html#ad4ddc87f2abfb9c6eb1423480cb62962',1,'InteractionSession']]],
+  ['customlogger_5fso_14',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
 ];

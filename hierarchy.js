@@ -86,6 +86,7 @@ var hierarchy =
     [ "MonoBehaviour", null, [
       [ "BoatCoordinate", "classBoatCoordinate.html", null ],
       [ "BuoyantBody", "classBuoyantBody.html", null ],
+      [ "CookFish", "classCookFish.html", null ],
       [ "DelegateExtensions", "classDelegateExtensions.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "FishingUI", "classFishingUI.html", null ],
