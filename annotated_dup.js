@@ -76,6 +76,7 @@ var annotated_dup =
     [ "FloatVFXProperty", "classFloatVFXProperty.html", null ],
     [ "GradientVFXProperty", "classGradientVFXProperty.html", null ],
     [ "GraphicsBufferVFXProperty", "classGraphicsBufferVFXProperty.html", null ],
+    [ "HatchInteractable", "classHatchInteractable.html", "classHatchInteractable" ],
     [ "HelmInteractable", "classHelmInteractable.html", "classHelmInteractable" ],
     [ "IInjector", "interfaceIInjector.html", null ],
     [ "IInteractable", "interfaceIInteractable.html", "interfaceIInteractable" ],

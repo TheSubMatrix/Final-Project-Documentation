@@ -38,6 +38,7 @@ var hierarchy =
     ] ],
     [ "IInteractable", "interfaceIInteractable.html", [
       [ "FishingManager", "classFishingManager.html", null ],
+      [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "SimpleInteractable", "classSimpleInteractable.html", null ],
       [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ]
@@ -90,6 +91,7 @@ var hierarchy =
       [ "DelegateExtensions", "classDelegateExtensions.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "FishingUI", "classFishingUI.html", null ],
+      [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "LevelManager", "classLevelManager.html", null ],
       [ "MatrixUtils.AudioSystem.SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],
