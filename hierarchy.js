@@ -9,6 +9,9 @@ var hierarchy =
     [ "MatrixUtils.GenericDatatypes.CoroutineWithData< T >", "classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
+    [ "IDamageable", "interfaceIDamageable.html", [
+      [ "ShipHealth", "classShipHealth.html", null ]
+    ] ],
     [ "MatrixUtils.DependencyInjection.IDependencyProvider", "interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html", [
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ]
@@ -40,6 +43,7 @@ var hierarchy =
       [ "FishingManager", "classFishingManager.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
+      [ "ShipHole", "classShipHole.html", null ],
       [ "SimpleInteractable", "classSimpleInteractable.html", null ],
       [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ]
     ] ],
@@ -108,6 +112,8 @@ var hierarchy =
       [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
+      [ "ShipHealth", "classShipHealth.html", null ],
+      [ "ShipHole", "classShipHole.html", null ],
       [ "ShipMovement", "classShipMovement.html", null ],
       [ "SimpleInteractable", "classSimpleInteractable.html", null ],
       [ "SteamPressureSystem", "classSteamPressureSystem.html", null ],
@@ -132,6 +138,8 @@ var hierarchy =
       [ "RequireInterfaceAttribute", "classRequireInterfaceAttribute.html", null ],
       [ "TypeFilterAttribute", "classTypeFilterAttribute.html", null ]
     ] ],
+    [ "RandomBag< T >", "structRandomBag.html", null ],
+    [ "RandomBag< Transform >", "structRandomBag.html", null ],
     [ "RoutineQueue", "classRoutineQueue.html", null ],
     [ "ScriptableObject", null, [
       [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ],
