@@ -63,6 +63,7 @@ var hierarchy =
       [ "InterfaceReference< TInterface >", "classInterfaceReference.html", null ]
     ] ],
     [ "IPlayerControllable", "interfaceIPlayerControllable.html", [
+      [ "FishingManager", "classFishingManager.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "PlayerControlRouter", "classPlayerControlRouter.html", null ],
       [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ]
