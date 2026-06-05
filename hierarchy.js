@@ -9,6 +9,8 @@ var hierarchy =
     [ "MatrixUtils.GenericDatatypes.CoroutineWithData< T >", "classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
+    [ "FishingMiniGame", "classFishingMiniGame.html", null ],
+    [ "FishingMiniGameData", "classFishingMiniGameData.html", null ],
     [ "IDamageable", "interfaceIDamageable.html", [
       [ "ShipHealth", "classShipHealth.html", null ]
     ] ],

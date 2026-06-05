@@ -72,6 +72,8 @@ var annotated_dup =
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
     [ "FishingManager", "classFishingManager.html", "classFishingManager" ],
+    [ "FishingMiniGame", "classFishingMiniGame.html", null ],
+    [ "FishingMiniGameData", "classFishingMiniGameData.html", null ],
     [ "FishingUI", "classFishingUI.html", null ],
     [ "FloatVFXProperty", "classFloatVFXProperty.html", null ],
     [ "GradientVFXProperty", "classGradientVFXProperty.html", null ],
