@@ -148,5 +148,6 @@ var annotated_dup =
     [ "Vector2VFXProperty", "classVector2VFXProperty.html", null ],
     [ "Vector3VFXProperty", "classVector3VFXProperty.html", null ],
     [ "Vector4VFXProperty", "classVector4VFXProperty.html", null ],
-    [ "VFXProperty", "classVFXProperty.html", null ]
+    [ "VFXProperty", "classVFXProperty.html", null ],
+    [ "WaterFillController", "classWaterFillController.html", null ]
 ];
