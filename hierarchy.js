@@ -102,6 +102,7 @@ var hierarchy =
       [ "FishingManager", "classFishingManager.html", null ],
       [ "FishingUI", "classFishingUI.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
+      [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "LevelManager", "classLevelManager.html", null ],
       [ "MatrixUtils.AudioSystem.SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],
