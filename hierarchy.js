@@ -9,6 +9,9 @@ var hierarchy =
     [ "MatrixUtils.GenericDatatypes.CoroutineWithData< T >", "classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
+    [ "Editor", null, [
+      [ "ShaderGraphExtension.ShaderGraphStencilInjector", "classShaderGraphExtension_1_1ShaderGraphStencilInjector.html", null ]
+    ] ],
     [ "FishingMiniGame", "classFishingMiniGame.html", null ],
     [ "FishingMiniGameData", "classFishingMiniGameData.html", null ],
     [ "IDamageable", "interfaceIDamageable.html", [
@@ -153,6 +156,9 @@ var hierarchy =
     [ "SerializableDictionary< string, GameObject >", "classSerializableDictionary.html", null ],
     [ "SerializableDictionary< VisualEffectAsset, MatrixUtils.VFXSystem.VFXManager.VFXPoolData >", "classSerializableDictionary.html", null ],
     [ "SerializableKeyValuePair< TKey, TValue >", "structSerializableKeyValuePair.html", null ],
+    [ "ShaderGUI", null, [
+      [ "ShaderGraphExtension.StencilShaderGUI", "classShaderGraphExtension_1_1StencilShaderGUI.html", null ]
+    ] ],
     [ "MatrixUtils.AudioSystem.SoundBuilder", "classMatrixUtils_1_1AudioSystem_1_1SoundBuilder.html", null ],
     [ "MatrixUtils.AudioSystem.SoundData", "classMatrixUtils_1_1AudioSystem_1_1SoundData.html", null ],
     [ "StatBroker", "classStatBroker.html", null ],

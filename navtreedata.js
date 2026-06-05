@@ -47,7 +47,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classShipHole.html#a4c7419049274d1e55f6f1d1cf4bde802"
+"classShaderGraphExtension_1_1StencilShaderGUI.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

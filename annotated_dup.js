@@ -53,6 +53,10 @@ var annotated_dup =
       [ "ClampVector2", "classMatrixUtils_1_1ClampVector2.html", "classMatrixUtils_1_1ClampVector2" ],
       [ "OffsetVector2", "classMatrixUtils_1_1OffsetVector2.html", "classMatrixUtils_1_1OffsetVector2" ]
     ] ],
+    [ "ShaderGraphExtension", "namespaceShaderGraphExtension.html", [
+      [ "ShaderGraphStencilInjector", "classShaderGraphExtension_1_1ShaderGraphStencilInjector.html", null ],
+      [ "StencilShaderGUI", "classShaderGraphExtension_1_1StencilShaderGUI.html", null ]
+    ] ],
     [ "System", "namespaceSystem.html", [
       [ "Runtime", "namespaceSystem_1_1Runtime.html", [
         [ "CompilerServices", "namespaceSystem_1_1Runtime_1_1CompilerServices.html", [
