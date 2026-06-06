@@ -49,7 +49,6 @@ var hierarchy =
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "ShipHole", "classShipHole.html", null ],
-      [ "SimpleInteractable", "classSimpleInteractable.html", null ],
       [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ]
     ] ],
     [ "IInteractor", "interfaceIInteractor.html", [
@@ -122,7 +121,7 @@ var hierarchy =
       [ "ShipHealth", "classShipHealth.html", null ],
       [ "ShipHole", "classShipHole.html", null ],
       [ "ShipMovement", "classShipMovement.html", null ],
-      [ "SimpleInteractable", "classSimpleInteractable.html", null ],
+      [ "ShipRadar", "classShipRadar.html", null ],
       [ "SteamPressureSystem", "classSteamPressureSystem.html", null ],
       [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],

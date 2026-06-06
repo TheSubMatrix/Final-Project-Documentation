@@ -124,7 +124,7 @@ var annotated_dup =
     [ "ShipHealth", "classShipHealth.html", "classShipHealth" ],
     [ "ShipHole", "classShipHole.html", "classShipHole" ],
     [ "ShipMovement", "classShipMovement.html", null ],
-    [ "SimpleInteractable", "classSimpleInteractable.html", "classSimpleInteractable" ],
+    [ "ShipRadar", "classShipRadar.html", null ],
     [ "SimpleStatModifier", "classSimpleStatModifier.html", "classSimpleStatModifier" ],
     [ "SkinnedMeshRendererVFXProperty", "classSkinnedMeshRendererVFXProperty.html", null ],
     [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],
