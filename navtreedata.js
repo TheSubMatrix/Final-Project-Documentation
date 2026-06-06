@@ -47,7 +47,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classShaderGraphExtension_1_1StencilShaderGUI.html"
+"classSerializedMethod.html#ae8956adc4cfd26c580895c9bb2b39e9e"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

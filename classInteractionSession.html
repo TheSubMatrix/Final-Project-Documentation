@@ -103,6 +103,15 @@ $(document).ready(function(){initNavTree('classInteractionSession.html',''); ini
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
+<tr class="memitem:ae308a4f43cf01ee9d515ff6fff294c65" id="r_ae308a4f43cf01ee9d515ff6fff294c65"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classInteractionSession.html#ae308a4f43cf01ee9d515ff6fff294c65">Subscribe&lt; T &gt;</a> (Action&lt; T &gt; handler)</td></tr>
+<tr class="memdesc:ae308a4f43cf01ee9d515ff6fff294c65"><td class="mdescLeft">&#160;</td><td class="mdescRight">Subscribes a handler to an event on the event bus for this <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a>  <br /></td></tr>
+<tr class="separator:ae308a4f43cf01ee9d515ff6fff294c65"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af36df537da6d3d924913476972abf853" id="r_af36df537da6d3d924913476972abf853"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classInteractionSession.html#af36df537da6d3d924913476972abf853">Unsubscribe&lt; T &gt;</a> (Action&lt; T &gt; handler)</td></tr>
+<tr class="memdesc:af36df537da6d3d924913476972abf853"><td class="mdescLeft">&#160;</td><td class="mdescRight">Unsubscribes a handler from an event on the event bus for this <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a>  <br /></td></tr>
+<tr class="separator:af36df537da6d3d924913476972abf853"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5ce10503a42fac3d094637b7f2f36f2" id="r_aa5ce10503a42fac3d094637b7f2f36f2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classInteractionSession.html#aa5ce10503a42fac3d094637b7f2f36f2">Publish&lt; T &gt;</a> (T payload)</td></tr>
+<tr class="memdesc:aa5ce10503a42fac3d094637b7f2f36f2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Publishes an event on the event bus for this <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> to all subscribers.  <br /></td></tr>
+<tr class="separator:aa5ce10503a42fac3d094637b7f2f36f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adb8ae3d1e1810a3a4adfb5c25bcfd593" id="r_adb8ae3d1e1810a3a4adfb5c25bcfd593"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classInteractionSession.html#adb8ae3d1e1810a3a4adfb5c25bcfd593">InteractionSession</a> (<a class="el" href="interfaceIInteractor.html">IInteractor</a> interactor, <a class="el" href="interfaceIInteractable.html">IInteractable</a> target)</td></tr>
 <tr class="memdesc:adb8ae3d1e1810a3a4adfb5c25bcfd593"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a new <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a>  <br /></td></tr>
 <tr class="separator:adb8ae3d1e1810a3a4adfb5c25bcfd593"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -181,6 +190,70 @@ Action&lt; <a class="el" href="interfaceIInteractor.html">IInteractor</a>, <a cl
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="aa5ce10503a42fac3d094637b7f2f36f2" name="aa5ce10503a42fac3d094637b7f2f36f2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5ce10503a42fac3d094637b7f2f36f2">&#9670;&#160;</a></span>Publish&lt; T &gt;()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void InteractionSession.Publish&lt; T &gt; </td>
+          <td>(</td>
+          <td class="paramtype">T&#160;</td>
+          <td class="paramname"><em>payload</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Publishes an event on the event bus for this <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> to all subscribers. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">payload</td><td>The payload to invoke the event with</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">T</td><td>The Type that this action should invoke with</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="ae308a4f43cf01ee9d515ff6fff294c65" name="ae308a4f43cf01ee9d515ff6fff294c65"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae308a4f43cf01ee9d515ff6fff294c65">&#9670;&#160;</a></span>Subscribe&lt; T &gt;()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void InteractionSession.Subscribe&lt; T &gt; </td>
+          <td>(</td>
+          <td class="paramtype">Action&lt; T &gt;&#160;</td>
+          <td class="paramname"><em>handler</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Subscribes a handler to an event on the event bus for this <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">handler</td><td>The Action to add to the handler</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">T</td><td>The Type that this action returns</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <a id="a1f8838c0118580bd28906c161c2fbcbe" name="a1f8838c0118580bd28906c161c2fbcbe"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a1f8838c0118580bd28906c161c2fbcbe">&#9670;&#160;</a></span>TransferTo()</h2>
 
@@ -201,6 +274,38 @@ Action&lt; <a class="el" href="interfaceIInteractor.html">IInteractor</a>, <a cl
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">newInteractor</td><td>The <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> to transfer ownership to</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="af36df537da6d3d924913476972abf853" name="af36df537da6d3d924913476972abf853"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af36df537da6d3d924913476972abf853">&#9670;&#160;</a></span>Unsubscribe&lt; T &gt;()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void InteractionSession.Unsubscribe&lt; T &gt; </td>
+          <td>(</td>
+          <td class="paramtype">Action&lt; T &gt;&#160;</td>
+          <td class="paramname"><em>handler</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Unsubscribes a handler from an event on the event bus for this <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">handler</td><td>The Action to remove from the found handler</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">T</td><td>The Type that this action returns</td></tr>
   </table>
   </dd>
 </dl>
