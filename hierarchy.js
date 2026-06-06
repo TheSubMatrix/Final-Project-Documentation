@@ -92,6 +92,9 @@ var hierarchy =
     [ "MatrixUtils.Timers.ITimer", "interfaceMatrixUtils_1_1Timers_1_1ITimer.html", [
       [ "MatrixUtils.Timers.Timer< T >", "classMatrixUtils_1_1Timers_1_1Timer.html", null ]
     ] ],
+    [ "ITransitionHider", "interfaceITransitionHider.html", [
+      [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ]
+    ] ],
     [ "MatrixUtils.Logging.CustomLogger_SO.LogSettings", "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html", null ],
     [ "MonoBehaviour", null, [
       [ "BoatCoordinate", "classBoatCoordinate.html", null ],
@@ -116,6 +119,7 @@ var hierarchy =
       [ "PlayerInteractor", "classPlayerInteractor.html", null ],
       [ "PlayerMovement", "classPlayerMovement.html", null ],
       [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
+      [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
       [ "ShipHealth", "classShipHealth.html", null ],
