@@ -6,13 +6,14 @@ var searchData=
   ['changeinputactionmap_3',['changeinputactionmap',['../classPlayerController.html#a6ad0f4c70e031fbab4ae2302942b3bff',1,'PlayerController.ChangeInputActionMap()'],['../interfaceIPlayerController.html#a4169c05d7d936a11ec6b5da8b2899379',1,'IPlayerController.ChangeInputActionMap()']]],
   ['clampvector2_4',['ClampVector2',['../classMatrixUtils_1_1ClampVector2.html',1,'MatrixUtils']]],
   ['classselectorattribute_5',['ClassSelectorAttribute',['../classMatrixUtils_1_1Attributes_1_1ClassSelectorAttribute.html',1,'MatrixUtils::Attributes']]],
-  ['colortext_6',['ColorText',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html#afcc163c6a43af1a25055a4799861019f',1,'MatrixUtils::Logging::CustomLogger_SO']]],
-  ['colorvfxproperty_7',['ColorVFXProperty',['../classColorVFXProperty.html',1,'']]],
-  ['contains_8',['Contains',['../classMatrixUtils_1_1GenericDatatypes_1_1SerializableHashSet.html#ae66ff81ff112df62267e448e3994d38b',1,'MatrixUtils::GenericDatatypes::SerializableHashSet']]],
-  ['cookfish_9',['CookFish',['../classCookFish.html',1,'']]],
-  ['coroutine_10',['coroutine',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html#a6be77fc672119c20c1bf5b3ac169b5ec',1,'MatrixUtils::GenericDatatypes::CoroutineWithData']]],
-  ['coroutinewithdata_11',['coroutinewithdata',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html',1,'MatrixUtils.GenericDatatypes.CoroutineWithData&lt; T &gt;'],['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html#aed5ebfe89aaea210de2626d70d444124',1,'MatrixUtils.GenericDatatypes.CoroutineWithData.CoroutineWithData()']]],
-  ['countdowntimer_12',['CountdownTimer',['../classMatrixUtils_1_1Timers_1_1CountdownTimer.html',1,'MatrixUtils::Timers']]],
-  ['currentinteractor_13',['CurrentInteractor',['../classInteractionSession.html#ad4ddc87f2abfb9c6eb1423480cb62962',1,'InteractionSession']]],
-  ['customlogger_5fso_14',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
+  ['coalmanager_6',['CoalManager',['../classCoalManager.html',1,'']]],
+  ['colortext_7',['ColorText',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html#afcc163c6a43af1a25055a4799861019f',1,'MatrixUtils::Logging::CustomLogger_SO']]],
+  ['colorvfxproperty_8',['ColorVFXProperty',['../classColorVFXProperty.html',1,'']]],
+  ['contains_9',['Contains',['../classMatrixUtils_1_1GenericDatatypes_1_1SerializableHashSet.html#ae66ff81ff112df62267e448e3994d38b',1,'MatrixUtils::GenericDatatypes::SerializableHashSet']]],
+  ['cookfish_10',['CookFish',['../classCookFish.html',1,'']]],
+  ['coroutine_11',['coroutine',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html#a6be77fc672119c20c1bf5b3ac169b5ec',1,'MatrixUtils::GenericDatatypes::CoroutineWithData']]],
+  ['coroutinewithdata_12',['coroutinewithdata',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html',1,'MatrixUtils.GenericDatatypes.CoroutineWithData&lt; T &gt;'],['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html#aed5ebfe89aaea210de2626d70d444124',1,'MatrixUtils.GenericDatatypes.CoroutineWithData.CoroutineWithData()']]],
+  ['countdowntimer_13',['CountdownTimer',['../classMatrixUtils_1_1Timers_1_1CountdownTimer.html',1,'MatrixUtils::Timers']]],
+  ['currentinteractor_14',['CurrentInteractor',['../classInteractionSession.html#ad4ddc87f2abfb9c6eb1423480cb62962',1,'InteractionSession']]],
+  ['customlogger_5fso_15',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
 ];

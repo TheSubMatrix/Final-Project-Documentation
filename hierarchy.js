@@ -45,6 +45,7 @@ var hierarchy =
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ]
     ] ],
     [ "IInteractable", "interfaceIInteractable.html", [
+      [ "CoalManager", "classCoalManager.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
@@ -67,6 +68,7 @@ var hierarchy =
       [ "InterfaceReference< TInterface >", "classInterfaceReference.html", null ]
     ] ],
     [ "IPlayerControllable", "interfaceIPlayerControllable.html", [
+      [ "CoalManager", "classCoalManager.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "PlayerControlRouter", "classPlayerControlRouter.html", null ],
@@ -99,6 +101,7 @@ var hierarchy =
     [ "MonoBehaviour", null, [
       [ "BoatCoordinate", "classBoatCoordinate.html", null ],
       [ "BuoyantBody", "classBuoyantBody.html", null ],
+      [ "CoalManager", "classCoalManager.html", null ],
       [ "CookFish", "classCookFish.html", null ],
       [ "DelegateExtensions", "classDelegateExtensions.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
@@ -155,6 +158,7 @@ var hierarchy =
     [ "RoutineQueue", "classRoutineQueue.html", null ],
     [ "ScriptableObject", null, [
       [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ],
+      [ "SO_CoalData", "classSO__CoalData.html", null ],
       [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],
       [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ],
       [ "StatData", "classStatData.html", null ]
