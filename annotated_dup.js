@@ -98,6 +98,7 @@ var annotated_dup =
     [ "IPlayerController", "interfaceIPlayerController.html", "interfaceIPlayerController" ],
     [ "ISpawner", "interfaceISpawner.html", null ],
     [ "ITransitionHider", "interfaceITransitionHider.html", null ],
+    [ "IWorldPromptDisplay", "interfaceIWorldPromptDisplay.html", null ],
     [ "LevelManager", "classLevelManager.html", null ],
     [ "Matrix4x4VFXProperty", "classMatrix4x4VFXProperty.html", null ],
     [ "MeshVFXProperty", "classMeshVFXProperty.html", null ],

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Final Project: StoveInteractable Class Reference</title>
+<title>Final Project: IWorldPromptDisplay Interface Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -63,7 +63,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('classStoveInteractable.html',''); initResizable(); });
+$(document).ready(function(){initNavTree('interfaceIWorldPromptDisplay.html',''); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -91,65 +91,40 @@ $(document).ready(function(){initNavTree('classStoveInteractable.html',''); init
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="classStoveInteractable-members.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">StoveInteractable Class Reference</div></div>
+<a href="interfaceIWorldPromptDisplay-members.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">IWorldPromptDisplay Interface Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="dynheader">
-Inheritance diagram for StoveInteractable:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="classStoveInteractable.png" usemap="#StoveInteractable_map" alt=""/>
-  <map id="StoveInteractable_map" name="StoveInteractable_map">
-<area href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor" alt="IInteractable" shape="rect" coords="120,0,230,24"/>
-  </map>
-</div></div>
+
+<p>Represents an object that can display a prompt to the user. Used for things like notifying the player that an object is interactable.  
+ <a href="interfaceIWorldPromptDisplay.html#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a66fdab500b6f330b76ed3e5624d129bd" id="r_a66fdab500b6f330b76ed3e5624d129bd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classInteractionSession.html">InteractionSession</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classStoveInteractable.html#a66fdab500b6f330b76ed3e5624d129bd">BeginInteraction</a> (<a class="el" href="interfaceIInteractor.html">IInteractor</a> interactor)</td></tr>
-<tr class="memdesc:a66fdab500b6f330b76ed3e5624d129bd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>  <br /></td></tr>
-<tr class="separator:a66fdab500b6f330b76ed3e5624d129bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae73cf73c9abcf2f7078ce9dd30484b75" id="r_ae73cf73c9abcf2f7078ce9dd30484b75"><td class="memItemLeft" align="right" valign="top"><a id="ae73cf73c9abcf2f7078ce9dd30484b75" name="ae73cf73c9abcf2f7078ce9dd30484b75"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>ShowPrompt</b> (Action onPromptShown=null)</td></tr>
+<tr class="separator:ae73cf73c9abcf2f7078ce9dd30484b75"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a54f901f7352193996389c5a4ade0a852" id="r_a54f901f7352193996389c5a4ade0a852"><td class="memItemLeft" align="right" valign="top"><a id="a54f901f7352193996389c5a4ade0a852" name="a54f901f7352193996389c5a4ade0a852"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>HidePrompt</b> (Action onPromptHidden=null)</td></tr>
+<tr class="separator:a54f901f7352193996389c5a4ade0a852"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94ee79db40f8f96435707449111aa6ac" id="r_a94ee79db40f8f96435707449111aa6ac"><td class="memItemLeft" align="right" valign="top"><a id="a94ee79db40f8f96435707449111aa6ac" name="a94ee79db40f8f96435707449111aa6ac"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>EnablePrompt</b> ()</td></tr>
+<tr class="separator:a94ee79db40f8f96435707449111aa6ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9fa14ce83be8193baf71fcb83ad6747" id="r_ad9fa14ce83be8193baf71fcb83ad6747"><td class="memItemLeft" align="right" valign="top"><a id="ad9fa14ce83be8193baf71fcb83ad6747" name="ad9fa14ce83be8193baf71fcb83ad6747"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>DisablePrompt</b> ()</td></tr>
+<tr class="separator:ad9fa14ce83be8193baf71fcb83ad6747"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a66fdab500b6f330b76ed3e5624d129bd" name="a66fdab500b6f330b76ed3e5624d129bd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a66fdab500b6f330b76ed3e5624d129bd">&#9670;&#160;</a></span>BeginInteraction()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="classInteractionSession.html">InteractionSession</a> StoveInteractable.BeginInteraction </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="interfaceIInteractor.html">IInteractor</a>&#160;</td>
-          <td class="paramname"><em>interactor</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">interactor</td><td>The <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> to begin the interaction with</td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>An <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> representing the current state of the interaction</dd></dl>
-
-<p>Implements <a class="el" href="interfaceIInteractable.html#a2f376f4157a8320c8d644b34c941a3a4">IInteractable</a>.</p>
-
-</div>
-</div>
-<hr/>The documentation for this class was generated from the following file:<ul>
-<li>Assets/Scripts/Oh Ship Core/Fish/Cooking/<b>StoveInteractable.cs</b></li>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Represents an object that can display a prompt to the user. Used for things like notifying the player that an object is interactable. </p>
+</div><hr/>The documentation for this interface was generated from the following file:<ul>
+<li>Assets/Scripts/Oh Ship Core/Interfaces/<b>IWorldPromptDisplay.cs</b></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="classStoveInteractable.html">StoveInteractable</a></li>
+    <li class="navelem"><a class="el" href="interfaceIWorldPromptDisplay.html">IWorldPromptDisplay</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>

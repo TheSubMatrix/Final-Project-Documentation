@@ -23,7 +23,7 @@ var searchData=
   ['interfacereference_3c_20tinterface_2c_20object_20_3e_20',['InterfaceReference&lt; TInterface, Object &gt;',['../classInterfaceReference.html',1,'']]],
   ['intervaltimer_21',['IntervalTimer',['../classMatrixUtils_1_1Timers_1_1IntervalTimer.html',1,'MatrixUtils::Timers']]],
   ['intvfxproperty_22',['IntVFXProperty',['../classIntVFXProperty.html',1,'']]],
-  ['invoke_23',['invoke',['../classSerializedMethod.html#aa6f7a9066d0a654cd648d12814349fb8',1,'SerializedMethod.Invoke()'],['../classSerializedMethod.html#aa1a25506aa327971e0082d0a932864cc',1,'SerializedMethod.Invoke(object[] parameters)']]],
+  ['invoke_23',['invoke',['../classSerializedMethod.html#aa1a25506aa327971e0082d0a932864cc',1,'SerializedMethod.Invoke(object[] parameters)'],['../classSerializedMethod.html#aa6f7a9066d0a654cd648d12814349fb8',1,'SerializedMethod.Invoke()']]],
   ['iplayercontrollable_24',['IPlayerControllable',['../interfaceIPlayerControllable.html',1,'']]],
   ['iplayercontroller_25',['IPlayerController',['../interfaceIPlayerController.html',1,'']]],
   ['isactive_26',['IsActive',['../classInteractionSession.html#a6d3fd4743e121a79aae444832d55cb3f',1,'InteractionSession']]],
@@ -31,5 +31,6 @@ var searchData=
   ['isinteracting_28',['isinteracting',['../interfaceIInteractor.html#add40295f5b68f9cc154d01b688f6dbe6',1,'IInteractor.IsInteracting()'],['../classPlayerInteractor.html#a571416a0e43c59ec34c67b063eb50d79',1,'PlayerInteractor.IsInteracting()']]],
   ['ispawner_29',['ISpawner',['../interfaceISpawner.html',1,'']]],
   ['itimer_30',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]],
-  ['itransitionhider_31',['ITransitionHider',['../interfaceITransitionHider.html',1,'']]]
+  ['itransitionhider_31',['ITransitionHider',['../interfaceITransitionHider.html',1,'']]],
+  ['iworldpromptdisplay_32',['IWorldPromptDisplay',['../interfaceIWorldPromptDisplay.html',1,'']]]
 ];
