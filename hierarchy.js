@@ -78,6 +78,7 @@ var hierarchy =
     [ "IPlayerController", "interfaceIPlayerController.html", [
       [ "PlayerController", "classPlayerController.html", null ]
     ] ],
+    [ "IPromptProvider", "interfaceIPromptProvider.html", null ],
     [ "ISerializationCallbackReceiver", null, [
       [ "MatrixUtils.GenericDatatypes.SerializableHashSet< T >", "classMatrixUtils_1_1GenericDatatypes_1_1SerializableHashSet.html", null ],
       [ "SerializableDictionary< TKey, TValue >", "classSerializableDictionary.html", null ],
@@ -98,7 +99,6 @@ var hierarchy =
     [ "ITransitionHider", "interfaceITransitionHider.html", [
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ]
     ] ],
-    [ "IWorldPromptDisplay", "interfaceIWorldPromptDisplay.html", null ],
     [ "MatrixUtils.Logging.CustomLogger_SO.LogSettings", "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html", null ],
     [ "MonoBehaviour", null, [
       [ "BoatCoordinate", "classBoatCoordinate.html", null ],
@@ -125,6 +125,7 @@ var hierarchy =
       [ "PlayerMovement", "classPlayerMovement.html", null ],
       [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
+      [ "PromptDisplay", "classPromptDisplay.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
       [ "ShipHealth", "classShipHealth.html", null ],
@@ -147,6 +148,7 @@ var hierarchy =
     [ "PersistentSingleton< VFXManager >", "classPersistentSingleton.html", [
       [ "MatrixUtils.VFXSystem.VFXManager", "classMatrixUtils_1_1VFXSystem_1_1VFXManager.html", null ]
     ] ],
+    [ "PromptData", "classPromptData.html", null ],
     [ "PropertyAttribute", null, [
       [ "MatrixUtils.Attributes.ClassSelectorAttribute", "classMatrixUtils_1_1Attributes_1_1ClassSelectorAttribute.html", null ],
       [ "MatrixUtils.Attributes.ReadOnlyAttribute", "classMatrixUtils_1_1Attributes_1_1ReadOnlyAttribute.html", null ],
