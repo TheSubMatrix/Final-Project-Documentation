@@ -142,6 +142,7 @@ var annotated_dup =
     [ "StatModifier", "classStatModifier.html", "classStatModifier" ],
     [ "StatQuery", "classStatQuery.html", "classStatQuery" ],
     [ "Stats", "classStats.html", null ],
+    [ "StatusBarManager", "classStatusBarManager.html", null ],
     [ "SteamPressureSystem", "classSteamPressureSystem.html", null ],
     [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", "classSteamPressureValveInteractable" ],
     [ "StoveInteractable", "classStoveInteractable.html", "classStoveInteractable" ],

@@ -35,13 +35,14 @@ var searchData=
   ['statmodifier_32',['StatModifier',['../classStatModifier.html',1,'']]],
   ['statquery_33',['StatQuery',['../classStatQuery.html',1,'']]],
   ['stats_34',['Stats',['../classStats.html',1,'']]],
-  ['steampressuresystem_35',['SteamPressureSystem',['../classSteamPressureSystem.html',1,'']]],
-  ['steampressurevalveinteractable_36',['SteamPressureValveInteractable',['../classSteamPressureValveInteractable.html',1,'']]],
-  ['stencilshadergui_37',['StencilShaderGUI',['../classShaderGraphExtension_1_1StencilShaderGUI.html',1,'ShaderGraphExtension']]],
-  ['stopwatchtimer_38',['StopwatchTimer',['../classMatrixUtils_1_1Timers_1_1StopwatchTimer.html',1,'MatrixUtils::Timers']]],
-  ['stoveinteractable_39',['StoveInteractable',['../classStoveInteractable.html',1,'']]],
-  ['subscribe_3c_20t_20_3e_40',['Subscribe&lt; T &gt;',['../classInteractionSession.html#ae308a4f43cf01ee9d515ff6fff294c65',1,'InteractionSession']]],
-  ['system_41',['System',['../namespaceSystem.html',1,'']]],
-  ['system_3a_3aruntime_42',['Runtime',['../namespaceSystem_1_1Runtime.html',1,'System']]],
-  ['system_3a_3aruntime_3a_3acompilerservices_43',['CompilerServices',['../namespaceSystem_1_1Runtime_1_1CompilerServices.html',1,'System::Runtime']]]
+  ['statusbarmanager_35',['StatusBarManager',['../classStatusBarManager.html',1,'']]],
+  ['steampressuresystem_36',['SteamPressureSystem',['../classSteamPressureSystem.html',1,'']]],
+  ['steampressurevalveinteractable_37',['SteamPressureValveInteractable',['../classSteamPressureValveInteractable.html',1,'']]],
+  ['stencilshadergui_38',['StencilShaderGUI',['../classShaderGraphExtension_1_1StencilShaderGUI.html',1,'ShaderGraphExtension']]],
+  ['stopwatchtimer_39',['StopwatchTimer',['../classMatrixUtils_1_1Timers_1_1StopwatchTimer.html',1,'MatrixUtils::Timers']]],
+  ['stoveinteractable_40',['StoveInteractable',['../classStoveInteractable.html',1,'']]],
+  ['subscribe_3c_20t_20_3e_41',['Subscribe&lt; T &gt;',['../classInteractionSession.html#ae308a4f43cf01ee9d515ff6fff294c65',1,'InteractionSession']]],
+  ['system_42',['System',['../namespaceSystem.html',1,'']]],
+  ['system_3a_3aruntime_43',['Runtime',['../namespaceSystem_1_1Runtime.html',1,'System']]],
+  ['system_3a_3aruntime_3a_3acompilerservices_44',['CompilerServices',['../namespaceSystem_1_1Runtime_1_1CompilerServices.html',1,'System::Runtime']]]
 ];
