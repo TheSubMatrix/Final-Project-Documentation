@@ -91,6 +91,7 @@ var annotated_dup =
     [ "IInjector", "interfaceIInjector.html", null ],
     [ "IInteractable", "interfaceIInteractable.html", "interfaceIInteractable" ],
     [ "IInteractor", "interfaceIInteractor.html", "interfaceIInteractor" ],
+    [ "InputData", "classInputData.html", null ],
     [ "InteractionSession", "classInteractionSession.html", "classInteractionSession" ],
     [ "InterfaceArgs", "structInterfaceArgs.html", null ],
     [ "InterfaceReference", "classInterfaceReference.html", null ],

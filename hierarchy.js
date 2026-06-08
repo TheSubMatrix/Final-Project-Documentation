@@ -56,6 +56,7 @@ var hierarchy =
     [ "IInteractor", "interfaceIInteractor.html", [
       [ "PlayerInteractor", "classPlayerInteractor.html", null ]
     ] ],
+    [ "InputData", "classInputData.html", null ],
     [ "InputProcessor", null, [
       [ "MatrixUtils.ClampVector2", "classMatrixUtils_1_1ClampVector2.html", null ],
       [ "MatrixUtils.OffsetVector2", "classMatrixUtils_1_1OffsetVector2.html", null ]
