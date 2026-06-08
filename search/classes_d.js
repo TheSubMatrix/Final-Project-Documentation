@@ -8,10 +8,11 @@ var searchData=
   ['playercontrolrouter_5',['PlayerControlRouter',['../classPlayerControlRouter.html',1,'']]],
   ['playerinteractions_6',['PlayerInteractions',['../classPlayerInteractions.html',1,'']]],
   ['playerinteractor_7',['PlayerInteractor',['../classPlayerInteractor.html',1,'']]],
-  ['playermovement_8',['PlayerMovement',['../classPlayerMovement.html',1,'']]],
-  ['playerspawnmanager_9',['PlayerSpawnManager',['../classPlayerSpawnManager.html',1,'']]],
-  ['playertransitionhider_10',['PlayerTransitionHider',['../classPlayerTransitionHider.html',1,'']]],
-  ['promptdata_11',['PromptData',['../classPromptData.html',1,'']]],
-  ['promptdisplay_12',['PromptDisplay',['../classPromptDisplay.html',1,'']]],
-  ['provideattribute_13',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
+  ['playerlookraycaster_8',['PlayerLookRaycaster',['../classPlayerLookRaycaster.html',1,'']]],
+  ['playermovement_9',['PlayerMovement',['../classPlayerMovement.html',1,'']]],
+  ['playerspawnmanager_10',['PlayerSpawnManager',['../classPlayerSpawnManager.html',1,'']]],
+  ['playertransitionhider_11',['PlayerTransitionHider',['../classPlayerTransitionHider.html',1,'']]],
+  ['promptdata_12',['PromptData',['../classPromptData.html',1,'']]],
+  ['promptdisplay_13',['PromptDisplay',['../classPromptDisplay.html',1,'']]],
+  ['provideattribute_14',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
 ];

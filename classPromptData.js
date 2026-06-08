@@ -1,4 +1,4 @@
 var classPromptData =
 [
-    [ "Apply", "classPromptData.html#a4a32d722261ed7244f449b7a87ac00cc", null ]
+    [ "Apply", "classPromptData.html#aac2cf225b26d7a91394c8981b7beed28", null ]
 ];

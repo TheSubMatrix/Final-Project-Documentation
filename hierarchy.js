@@ -66,6 +66,7 @@ var hierarchy =
     [ "InterfaceArgs", "structInterfaceArgs.html", null ],
     [ "InterfaceReference< IPlayerControllable >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< IPlayerControllable, MonoBehaviour >", "classInterfaceReference.html", null ],
+    [ "InterfaceReference< IPromptDisplay >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< TInterface, Object >", "classInterfaceReference.html", [
       [ "InterfaceReference< TInterface >", "classInterfaceReference.html", null ]
     ] ],
@@ -79,7 +80,12 @@ var hierarchy =
     [ "IPlayerController", "interfaceIPlayerController.html", [
       [ "PlayerController", "classPlayerController.html", null ]
     ] ],
-    [ "IPromptProvider", "interfaceIPromptProvider.html", null ],
+    [ "IPromptDisplay", "interfaceIPromptDisplay.html", [
+      [ "PromptDisplay", "classPromptDisplay.html", null ]
+    ] ],
+    [ "IPromptProvider", "interfaceIPromptProvider.html", [
+      [ "HatchInteractable", "classHatchInteractable.html", null ]
+    ] ],
     [ "ISerializationCallbackReceiver", null, [
       [ "MatrixUtils.GenericDatatypes.SerializableHashSet< T >", "classMatrixUtils_1_1GenericDatatypes_1_1SerializableHashSet.html", null ],
       [ "SerializableDictionary< TKey, TValue >", "classSerializableDictionary.html", null ],
@@ -124,6 +130,7 @@ var hierarchy =
       [ "PlayerController", "classPlayerController.html", null ],
       [ "PlayerInteractions", "classPlayerInteractions.html", null ],
       [ "PlayerInteractor", "classPlayerInteractor.html", null ],
+      [ "PlayerLookRaycaster", "classPlayerLookRaycaster.html", null ],
       [ "PlayerMovement", "classPlayerMovement.html", null ],
       [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
