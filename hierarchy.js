@@ -178,6 +178,7 @@ var hierarchy =
     [ "MatrixUtils.AudioSystem.SoundData", "classMatrixUtils_1_1AudioSystem_1_1SoundData.html", null ],
     [ "StatBroker", "classStatBroker.html", null ],
     [ "StatQuery", "classStatQuery.html", null ],
+    [ "Stats", "classStats.html", null ],
     [ "TerrainEnvironmentSwaper", "classTerrainEnvironmentSwaper.html", null ],
     [ "TerrainOptions", "classTerrainOptions.html", null ],
     [ "TerrainSelector", "classTerrainSelector.html", null ],
