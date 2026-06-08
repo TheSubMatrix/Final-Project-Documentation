@@ -71,6 +71,7 @@ var annotated_dup =
     [ "BuoyantBody", "classBuoyantBody.html", null ],
     [ "CalculateObjectVelocity", "classCalculateObjectVelocity.html", "classCalculateObjectVelocity" ],
     [ "CoalManager", "classCoalManager.html", "classCoalManager" ],
+    [ "CoalUI", "classCoalUI.html", null ],
     [ "ColorVFXProperty", "classColorVFXProperty.html", null ],
     [ "CookFish", "classCookFish.html", null ],
     [ "DelegateExtensions", "classDelegateExtensions.html", null ],

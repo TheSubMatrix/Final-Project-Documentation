@@ -47,7 +47,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classSO__UsableTerrain.html"
+"classSO__CoalData.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

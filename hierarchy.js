@@ -104,6 +104,7 @@ var hierarchy =
       [ "BoatCoordinate", "classBoatCoordinate.html", null ],
       [ "BuoyantBody", "classBuoyantBody.html", null ],
       [ "CoalManager", "classCoalManager.html", null ],
+      [ "CoalUI", "classCoalUI.html", null ],
       [ "CookFish", "classCookFish.html", null ],
       [ "DelegateExtensions", "classDelegateExtensions.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
