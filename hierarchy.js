@@ -86,6 +86,9 @@ var hierarchy =
     [ "IPromptProvider", "interfaceIPromptProvider.html", [
       [ "HatchInteractable", "classHatchInteractable.html", null ]
     ] ],
+    [ "ISceneTransitioner", "interfaceISceneTransitioner.html", [
+      [ "SceneTransitionHandler", "classSceneTransitionHandler.html", null ]
+    ] ],
     [ "ISerializationCallbackReceiver", null, [
       [ "MatrixUtils.GenericDatatypes.SerializableHashSet< T >", "classMatrixUtils_1_1GenericDatatypes_1_1SerializableHashSet.html", null ],
       [ "SerializableDictionary< TKey, TValue >", "classSerializableDictionary.html", null ],
@@ -136,6 +139,7 @@ var hierarchy =
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
       [ "PromptDisplay", "classPromptDisplay.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
+      [ "SceneTransitionerProxy", "classSceneTransitionerProxy.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
       [ "ShipHealth", "classShipHealth.html", null ],
       [ "ShipHole", "classShipHole.html", null ],
@@ -152,6 +156,9 @@ var hierarchy =
     ] ],
     [ "MatrixUtils.GenericDatatypes.Observer< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Observer.html", null ],
     [ "MatrixUtils.GenericDatatypes.Observer< float >", "classMatrixUtils_1_1GenericDatatypes_1_1Observer.html", null ],
+    [ "PersistentService< ISceneTransitioner >", "classPersistentService.html", [
+      [ "SceneTransitionHandler", "classSceneTransitionHandler.html", null ]
+    ] ],
     [ "PersistentSingleton< SoundManager >", "classPersistentSingleton.html", [
       [ "MatrixUtils.AudioSystem.SoundManager", "classMatrixUtils_1_1AudioSystem_1_1SoundManager.html", null ]
     ] ],
