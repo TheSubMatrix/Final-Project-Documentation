@@ -46,6 +46,7 @@ var hierarchy =
     ] ],
     [ "IInteractable", "interfaceIInteractable.html", [
       [ "CoalManager", "classCoalManager.html", null ],
+      [ "CookFish", "classCookFish.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classRoutineQueue.html":[1,0,61],
 "classRoutineQueue.html#a55560ec7f20b8c1446e9d5a83f6d6cc7":[1,0,61,0],
 "classRoutineQueue.html#a9d03292a6d0f05f9349cf6cdb7931405":[1,0,61,1],
 "classSO__CoalData.html":[1,0,79],

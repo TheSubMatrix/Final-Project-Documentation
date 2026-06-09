@@ -73,7 +73,7 @@ var annotated_dup =
     [ "CoalManager", "classCoalManager.html", "classCoalManager" ],
     [ "CoalUI", "classCoalUI.html", null ],
     [ "ColorVFXProperty", "classColorVFXProperty.html", null ],
-    [ "CookFish", "classCookFish.html", null ],
+    [ "CookFish", "classCookFish.html", "classCookFish" ],
     [ "DelegateExtensions", "classDelegateExtensions.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
