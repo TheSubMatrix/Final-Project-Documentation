@@ -21,7 +21,7 @@ var searchData=
   ['shipradar_18',['ShipRadar',['../classShipRadar.html',1,'']]],
   ['showifattribute_19',['ShowIfAttribute',['../classMatrixUtils_1_1Attributes_1_1ShowIfAttribute.html',1,'MatrixUtils::Attributes']]],
   ['showlogs_20',['ShowLogs',['../structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a686a24f1f91925ca4aa1c813dd05a9d7',1,'MatrixUtils::Logging::CustomLogger_SO::LogSettings']]],
-  ['simplestatmodifier_21',['SimpleStatModifier',['../classSimpleStatModifier.html',1,'']]],
+  ['simplestatmodifier_21',['SimpleStatModifier',['../classOhShip_1_1ShipCore_1_1SimpleStatModifier.html',1,'OhShip::ShipCore']]],
   ['singleton_22',['Singleton',['../classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html',1,'MatrixUtils::GenericDatatypes']]],
   ['singletoninstance_23',['SingletonInstance',['../classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html#a168bdf577cefa5cc5e96bc57545339e0',1,'MatrixUtils::GenericDatatypes::Singleton']]],
   ['skinnedmeshrenderervfxproperty_24',['SkinnedMeshRendererVFXProperty',['../classSkinnedMeshRendererVFXProperty.html',1,'']]],
