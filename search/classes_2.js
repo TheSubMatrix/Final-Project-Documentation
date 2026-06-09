@@ -5,9 +5,10 @@ var searchData=
   ['classselectorattribute_2',['ClassSelectorAttribute',['../classMatrixUtils_1_1Attributes_1_1ClassSelectorAttribute.html',1,'MatrixUtils::Attributes']]],
   ['coalmanager_3',['CoalManager',['../classCoalManager.html',1,'']]],
   ['coalui_4',['CoalUI',['../classCoalUI.html',1,'']]],
-  ['colorvfxproperty_5',['ColorVFXProperty',['../classColorVFXProperty.html',1,'']]],
-  ['cookfish_6',['CookFish',['../classCookFish.html',1,'']]],
-  ['coroutinewithdata_7',['CoroutineWithData',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html',1,'MatrixUtils::GenericDatatypes']]],
-  ['countdowntimer_8',['CountdownTimer',['../classMatrixUtils_1_1Timers_1_1CountdownTimer.html',1,'MatrixUtils::Timers']]],
-  ['customlogger_5fso_9',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
+  ['collisiondamager_5',['CollisionDamager',['../classCollisionDamager.html',1,'']]],
+  ['colorvfxproperty_6',['ColorVFXProperty',['../classColorVFXProperty.html',1,'']]],
+  ['cookfish_7',['CookFish',['../classCookFish.html',1,'']]],
+  ['coroutinewithdata_8',['CoroutineWithData',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html',1,'MatrixUtils::GenericDatatypes']]],
+  ['countdowntimer_9',['CountdownTimer',['../classMatrixUtils_1_1Timers_1_1CountdownTimer.html',1,'MatrixUtils::Timers']]],
+  ['customlogger_5fso_10',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
 ];
