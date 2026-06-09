@@ -103,6 +103,7 @@ Inheritance diagram for FishingManager:</div>
   <map id="FishingManager_map" name="FishingManager_map">
 <area href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor" alt="IInteractable" shape="rect" coords="130,0,250,24"/>
 <area href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque..." alt="IPlayerControllable" shape="rect" coords="260,0,380,24"/>
+<area href="interfaceIPromptProvider.html" title="Represents an object that can display a prompt to the user. Used for things like notifying the player..." alt="IPromptProvider" shape="rect" coords="390,0,510,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
@@ -125,6 +126,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a5c247241692a0d9f29428cc2a81426eb"><td class="mdescLeft">&#160;</td><td class="mdescRight"><dl class="section return"><dt>Returns</dt><dd>The GameObject associated with this <a class="el" href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque...">IPlayerControllable</a></dd></dl>
  <br /></td></tr>
 <tr class="separator:a5c247241692a0d9f29428cc2a81426eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abfd84c27fc7b2de36b7834bc32aabd21" id="r_abfd84c27fc7b2de36b7834bc32aabd21"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classPromptData.html">PromptData</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFishingManager.html#abfd84c27fc7b2de36b7834bc32aabd21">GetPromptData</a> ()</td></tr>
+<tr class="separator:abfd84c27fc7b2de36b7834bc32aabd21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15decce98eb3b1e62d0d714ea512760d" id="r_a15decce98eb3b1e62d0d714ea512760d"><td class="memItemLeft" align="right" valign="top">Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFishingManager.html#a15decce98eb3b1e62d0d714ea512760d">GetRequestedWorldPosition</a> ()</td></tr>
+<tr class="separator:a15decce98eb3b1e62d0d714ea512760d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
 <a id="a105ef8d38b3d0881b5ebb20b7dd4952e" name="a105ef8d38b3d0881b5ebb20b7dd4952e"></a>
@@ -197,6 +202,44 @@ Public Member Functions</h2></td></tr>
 </p>
 
 <p>Implements <a class="el" href="interfaceIPlayerControllable.html#ac58753b0231151b9e1d368196681c9db">IPlayerControllable</a>.</p>
+
+</div>
+</div>
+<a id="abfd84c27fc7b2de36b7834bc32aabd21" name="abfd84c27fc7b2de36b7834bc32aabd21"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abfd84c27fc7b2de36b7834bc32aabd21">&#9670;&#160;</a></span>GetPromptData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classPromptData.html">PromptData</a> FishingManager.GetPromptData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="interfaceIPromptProvider.html">IPromptProvider</a>.</p>
+
+</div>
+</div>
+<a id="a15decce98eb3b1e62d0d714ea512760d" name="a15decce98eb3b1e62d0d714ea512760d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a15decce98eb3b1e62d0d714ea512760d">&#9670;&#160;</a></span>GetRequestedWorldPosition()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Vector3 FishingManager.GetRequestedWorldPosition </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="interfaceIPromptProvider.html">IPromptProvider</a>.</p>
 
 </div>
 </div>

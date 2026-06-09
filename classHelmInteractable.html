@@ -103,6 +103,7 @@ Inheritance diagram for HelmInteractable:</div>
   <map id="HelmInteractable_map" name="HelmInteractable_map">
 <area href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor" alt="IInteractable" shape="rect" coords="130,0,250,24"/>
 <area href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque..." alt="IPlayerControllable" shape="rect" coords="260,0,380,24"/>
+<area href="interfaceIPromptProvider.html" title="Represents an object that can display a prompt to the user. Used for things like notifying the player..." alt="IPromptProvider" shape="rect" coords="390,0,510,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
@@ -125,6 +126,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a8e3d951147074aaf1434080dffa9a4f0"><td class="mdescLeft">&#160;</td><td class="mdescRight"><dl class="section return"><dt>Returns</dt><dd>The GameObject associated with this <a class="el" href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque...">IPlayerControllable</a></dd></dl>
  <br /></td></tr>
 <tr class="separator:a8e3d951147074aaf1434080dffa9a4f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97018051b2537bcf915f01f8b9f57e59" id="r_a97018051b2537bcf915f01f8b9f57e59"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classPromptData.html">PromptData</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classHelmInteractable.html#a97018051b2537bcf915f01f8b9f57e59">GetPromptData</a> ()</td></tr>
+<tr class="separator:a97018051b2537bcf915f01f8b9f57e59"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3915eb38d9b8c762d5b307936cf53ae3" id="r_a3915eb38d9b8c762d5b307936cf53ae3"><td class="memItemLeft" align="right" valign="top">Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classHelmInteractable.html#a3915eb38d9b8c762d5b307936cf53ae3">GetRequestedWorldPosition</a> ()</td></tr>
+<tr class="separator:a3915eb38d9b8c762d5b307936cf53ae3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
 <a id="adc8df0ee424d9fc8694bab4127b081dd" name="adc8df0ee424d9fc8694bab4127b081dd"></a>
@@ -197,6 +202,44 @@ Public Member Functions</h2></td></tr>
 </p>
 
 <p>Implements <a class="el" href="interfaceIPlayerControllable.html#ac58753b0231151b9e1d368196681c9db">IPlayerControllable</a>.</p>
+
+</div>
+</div>
+<a id="a97018051b2537bcf915f01f8b9f57e59" name="a97018051b2537bcf915f01f8b9f57e59"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a97018051b2537bcf915f01f8b9f57e59">&#9670;&#160;</a></span>GetPromptData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classPromptData.html">PromptData</a> HelmInteractable.GetPromptData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="interfaceIPromptProvider.html">IPromptProvider</a>.</p>
+
+</div>
+</div>
+<a id="a3915eb38d9b8c762d5b307936cf53ae3" name="a3915eb38d9b8c762d5b307936cf53ae3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3915eb38d9b8c762d5b307936cf53ae3">&#9670;&#160;</a></span>GetRequestedWorldPosition()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Vector3 HelmInteractable.GetRequestedWorldPosition </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="interfaceIPromptProvider.html">IPromptProvider</a>.</p>
 
 </div>
 </div>

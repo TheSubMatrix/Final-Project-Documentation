@@ -84,7 +84,11 @@ var hierarchy =
       [ "PromptDisplay", "classPromptDisplay.html", null ]
     ] ],
     [ "IPromptProvider", "interfaceIPromptProvider.html", [
-      [ "HatchInteractable", "classHatchInteractable.html", null ]
+      [ "CoalManager", "classCoalManager.html", null ],
+      [ "FishingManager", "classFishingManager.html", null ],
+      [ "HatchInteractable", "classHatchInteractable.html", null ],
+      [ "HelmInteractable", "classHelmInteractable.html", null ],
+      [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ]
     ] ],
     [ "ISceneTransitioner", "interfaceISceneTransitioner.html", [
       [ "SceneTransitionHandler", "classSceneTransitionHandler.html", null ]
