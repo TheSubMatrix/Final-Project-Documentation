@@ -27,7 +27,7 @@ var hierarchy =
     [ "IDisposable", null, [
       [ "MatrixUtils.Timers.Timer< T >", "classMatrixUtils_1_1Timers_1_1Timer.html", null ],
       [ "StatModifier", "classStatModifier.html", [
-        [ "OhShip.ShipCore.SimpleStatModifier", "classOhShip_1_1ShipCore_1_1SimpleStatModifier.html", null ]
+        [ "SimpleStatModifier", "classSimpleStatModifier.html", null ]
       ] ]
     ] ],
     [ "IEnumerable", null, [

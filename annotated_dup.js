@@ -53,11 +53,6 @@ var annotated_dup =
       [ "ClampVector2", "classMatrixUtils_1_1ClampVector2.html", "classMatrixUtils_1_1ClampVector2" ],
       [ "OffsetVector2", "classMatrixUtils_1_1OffsetVector2.html", "classMatrixUtils_1_1OffsetVector2" ]
     ] ],
-    [ "OhShip", "namespaceOhShip.html", [
-      [ "ShipCore", "namespaceOhShip_1_1ShipCore.html", [
-        [ "SimpleStatModifier", "classOhShip_1_1ShipCore_1_1SimpleStatModifier.html", "classOhShip_1_1ShipCore_1_1SimpleStatModifier" ]
-      ] ]
-    ] ],
     [ "ShaderGraphExtension", "namespaceShaderGraphExtension.html", [
       [ "ShaderGraphStencilInjector", "classShaderGraphExtension_1_1ShaderGraphStencilInjector.html", null ],
       [ "StencilShaderGUI", "classShaderGraphExtension_1_1StencilShaderGUI.html", null ]
@@ -143,6 +138,7 @@ var annotated_dup =
     [ "ShipHole", "classShipHole.html", "classShipHole" ],
     [ "ShipMovement", "classShipMovement.html", null ],
     [ "ShipRadar", "classShipRadar.html", null ],
+    [ "SimpleStatModifier", "classSimpleStatModifier.html", "classSimpleStatModifier" ],
     [ "SkinnedMeshRendererVFXProperty", "classSkinnedMeshRendererVFXProperty.html", null ],
     [ "SO_CoalData", "classSO__CoalData.html", null ],
     [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],

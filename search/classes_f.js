@@ -19,7 +19,7 @@ var searchData=
   ['shipmovement_16',['ShipMovement',['../classShipMovement.html',1,'']]],
   ['shipradar_17',['ShipRadar',['../classShipRadar.html',1,'']]],
   ['showifattribute_18',['ShowIfAttribute',['../classMatrixUtils_1_1Attributes_1_1ShowIfAttribute.html',1,'MatrixUtils::Attributes']]],
-  ['simplestatmodifier_19',['SimpleStatModifier',['../classOhShip_1_1ShipCore_1_1SimpleStatModifier.html',1,'OhShip::ShipCore']]],
+  ['simplestatmodifier_19',['SimpleStatModifier',['../classSimpleStatModifier.html',1,'']]],
   ['singleton_20',['Singleton',['../classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html',1,'MatrixUtils::GenericDatatypes']]],
   ['skinnedmeshrenderervfxproperty_21',['SkinnedMeshRendererVFXProperty',['../classSkinnedMeshRendererVFXProperty.html',1,'']]],
   ['so_5fcoaldata_22',['SO_CoalData',['../classSO__CoalData.html',1,'']]],
