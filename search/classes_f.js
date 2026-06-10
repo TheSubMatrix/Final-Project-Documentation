@@ -33,5 +33,6 @@ var searchData=
   ['steampressurevalveinteractable_30',['SteamPressureValveInteractable',['../classSteamPressureValveInteractable.html',1,'']]],
   ['stencilshadergui_31',['StencilShaderGUI',['../classShaderGraphExtension_1_1StencilShaderGUI.html',1,'ShaderGraphExtension']]],
   ['stopwatchtimer_32',['StopwatchTimer',['../classMatrixUtils_1_1Timers_1_1StopwatchTimer.html',1,'MatrixUtils::Timers']]],
-  ['stoveinteractable_33',['StoveInteractable',['../classStoveInteractable.html',1,'']]]
+  ['storageinteractable_33',['StorageInteractable',['../classStorageInteractable.html',1,'']]],
+  ['stoveinteractable_34',['StoveInteractable',['../classStoveInteractable.html',1,'']]]
 ];

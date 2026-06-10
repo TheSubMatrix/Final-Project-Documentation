@@ -151,6 +151,7 @@ var annotated_dup =
     [ "StatusBarManager", "classStatusBarManager.html", null ],
     [ "SteamPressureSystem", "classSteamPressureSystem.html", null ],
     [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", "classSteamPressureValveInteractable" ],
+    [ "StorageInteractable", "classStorageInteractable.html", "classStorageInteractable" ],
     [ "StoveInteractable", "classStoveInteractable.html", "classStoveInteractable" ],
     [ "TerrainCleanup", "classTerrainCleanup.html", null ],
     [ "TerrainEnvironmentSwaper", "classTerrainEnvironmentSwaper.html", null ],
