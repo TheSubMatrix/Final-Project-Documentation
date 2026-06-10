@@ -85,6 +85,7 @@ var hierarchy =
       [ "FishingManager", "classFishingManager.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
+      [ "ShipHole", "classShipHole.html", null ],
       [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ],
       [ "StoveInteractable", "classStoveInteractable.html", null ]
     ] ],
