@@ -146,6 +146,7 @@ var hierarchy =
       [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
       [ "PlayerStatManager", "classPlayerStatManager.html", null ],
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
+      [ "PoliceBoatManager", "classPoliceBoatManager.html", null ],
       [ "PromptDisplay", "classPromptDisplay.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "SceneTransitionerProxy", "classSceneTransitionerProxy.html", null ],

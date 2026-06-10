@@ -247,7 +247,7 @@ var NAVTREEINDEX0 =
 "classPlayerSpawnManager.html":[1,0,56],
 "classPlayerStatManager.html":[1,0,57],
 "classPlayerTransitionHider.html":[1,0,58],
-"classPromptData.html":[1,0,59],
-"classPromptData.html#aac2cf225b26d7a91394c8981b7beed28":[1,0,59,0],
-"classPromptDisplay.html":[1,0,60]
+"classPoliceBoatManager.html":[1,0,59],
+"classPromptData.html":[1,0,60],
+"classPromptData.html#aac2cf225b26d7a91394c8981b7beed28":[1,0,60,0]
 };
