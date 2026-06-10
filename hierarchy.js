@@ -25,17 +25,13 @@ var hierarchy =
       [ "SerializableDictionary< TKey, TValue >", "classSerializableDictionary.html", null ]
     ] ],
     [ "IDisposable", null, [
-      [ "MatrixUtils.Timers.Timer< T >", "classMatrixUtils_1_1Timers_1_1Timer.html", null ],
-      [ "StatModifier", "classStatModifier.html", [
-        [ "SimpleStatModifier", "classSimpleStatModifier.html", null ]
-      ] ]
+      [ "MatrixUtils.Timers.Timer< T >", "classMatrixUtils_1_1Timers_1_1Timer.html", null ]
     ] ],
     [ "IEnumerable", null, [
       [ "Optional< T >", "structOptional.html", null ]
     ] ],
     [ "IEquatable", null, [
-      [ "SerializableGuid", "structSerializableGuid.html", null ],
-      [ "StatData", "classStatData.html", null ]
+      [ "SerializableGuid", "structSerializableGuid.html", null ]
     ] ],
     [ "MatrixUtils.EventBus.IEvent", "interfaceMatrixUtils_1_1EventBus_1_1IEvent.html", null ],
     [ "MatrixUtils.EventBus.IEventBinding< T >", "interfaceMatrixUtils_1_1EventBus_1_1IEventBinding.html", [
@@ -192,8 +188,7 @@ var hierarchy =
       [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ],
       [ "SO_CoalData", "classSO__CoalData.html", null ],
       [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],
-      [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ],
-      [ "StatData", "classStatData.html", null ]
+      [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ]
     ] ],
     [ "SerializableDictionary< string, GameObject >", "classSerializableDictionary.html", null ],
     [ "SerializableDictionary< VisualEffectAsset, MatrixUtils.VFXSystem.VFXManager.VFXPoolData >", "classSerializableDictionary.html", null ],
@@ -203,8 +198,6 @@ var hierarchy =
     ] ],
     [ "MatrixUtils.AudioSystem.SoundBuilder", "classMatrixUtils_1_1AudioSystem_1_1SoundBuilder.html", null ],
     [ "MatrixUtils.AudioSystem.SoundData", "classMatrixUtils_1_1AudioSystem_1_1SoundData.html", null ],
-    [ "StatBroker", "classStatBroker.html", null ],
-    [ "StatQuery", "classStatQuery.html", null ],
     [ "TerrainEnvironmentSwaper", "classTerrainEnvironmentSwaper.html", null ],
     [ "TerrainOptions", "classTerrainOptions.html", null ],
     [ "TerrainSelector", "classTerrainSelector.html", null ],
