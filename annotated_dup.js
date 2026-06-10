@@ -117,6 +117,7 @@ var annotated_dup =
     [ "PlayerLookRaycaster", "classPlayerLookRaycaster.html", null ],
     [ "PlayerMovement", "classPlayerMovement.html", null ],
     [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
+    [ "PlayerStatManager", "classPlayerStatManager.html", null ],
     [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
     [ "PromptData", "classPromptData.html", "classPromptData" ],
     [ "PromptDisplay", "classPromptDisplay.html", null ],

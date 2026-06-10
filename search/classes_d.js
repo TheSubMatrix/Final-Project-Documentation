@@ -12,8 +12,9 @@ var searchData=
   ['playerlookraycaster_9',['PlayerLookRaycaster',['../classPlayerLookRaycaster.html',1,'']]],
   ['playermovement_10',['PlayerMovement',['../classPlayerMovement.html',1,'']]],
   ['playerspawnmanager_11',['PlayerSpawnManager',['../classPlayerSpawnManager.html',1,'']]],
-  ['playertransitionhider_12',['PlayerTransitionHider',['../classPlayerTransitionHider.html',1,'']]],
-  ['promptdata_13',['PromptData',['../classPromptData.html',1,'']]],
-  ['promptdisplay_14',['PromptDisplay',['../classPromptDisplay.html',1,'']]],
-  ['provideattribute_15',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
+  ['playerstatmanager_12',['PlayerStatManager',['../classPlayerStatManager.html',1,'']]],
+  ['playertransitionhider_13',['PlayerTransitionHider',['../classPlayerTransitionHider.html',1,'']]],
+  ['promptdata_14',['PromptData',['../classPromptData.html',1,'']]],
+  ['promptdisplay_15',['PromptDisplay',['../classPromptDisplay.html',1,'']]],
+  ['provideattribute_16',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
 ];

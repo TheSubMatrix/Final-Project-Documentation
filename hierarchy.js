@@ -143,6 +143,7 @@ var hierarchy =
       [ "PlayerLookRaycaster", "classPlayerLookRaycaster.html", null ],
       [ "PlayerMovement", "classPlayerMovement.html", null ],
       [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
+      [ "PlayerStatManager", "classPlayerStatManager.html", null ],
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
       [ "PromptDisplay", "classPromptDisplay.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
