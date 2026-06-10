@@ -127,6 +127,7 @@ var hierarchy =
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "HungerAndThirst", "classHungerAndThirst.html", null ],
       [ "LevelManager", "classLevelManager.html", null ],
+      [ "LightingManager", "classLightingManager.html", null ],
       [ "MatrixUtils.AudioSystem.SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
       [ "MatrixUtils.GenericDatatypes.Singleton< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html", null ],
@@ -185,6 +186,7 @@ var hierarchy =
     [ "RandomBag< Transform >", "structRandomBag.html", null ],
     [ "RoutineQueue", "classRoutineQueue.html", null ],
     [ "ScriptableObject", null, [
+      [ "LightingPreset", "classLightingPreset.html", null ],
       [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ],
       [ "SO_CoalData", "classSO__CoalData.html", null ],
       [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],

@@ -106,6 +106,8 @@ var annotated_dup =
     [ "ISpawner", "interfaceISpawner.html", null ],
     [ "ITransitionHider", "interfaceITransitionHider.html", null ],
     [ "LevelManager", "classLevelManager.html", null ],
+    [ "LightingManager", "classLightingManager.html", null ],
+    [ "LightingPreset", "classLightingPreset.html", null ],
     [ "Matrix4x4VFXProperty", "classMatrix4x4VFXProperty.html", null ],
     [ "MeshVFXProperty", "classMeshVFXProperty.html", null ],
     [ "Optional", "structOptional.html", null ],
