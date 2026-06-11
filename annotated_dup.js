@@ -145,6 +145,7 @@ var annotated_dup =
     [ "ShipHole", "classShipHole.html", "classShipHole" ],
     [ "ShipMovement", "classShipMovement.html", null ],
     [ "ShipRadar", "classShipRadar.html", null ],
+    [ "ShipSinkCheck", "classShipSinkCheck.html", null ],
     [ "SkinnedMeshRendererVFXProperty", "classSkinnedMeshRendererVFXProperty.html", null ],
     [ "SO_CoalData", "classSO__CoalData.html", null ],
     [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],
