@@ -147,6 +147,7 @@ var hierarchy =
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
       [ "PoliceBoatManager", "classPoliceBoatManager.html", null ],
       [ "PromptDisplay", "classPromptDisplay.html", null ],
+      [ "QuitButton", "classQuitButton.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "SceneTransitionerProxy", "classSceneTransitionerProxy.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],

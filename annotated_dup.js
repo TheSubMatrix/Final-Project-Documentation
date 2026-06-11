@@ -125,6 +125,7 @@ var annotated_dup =
     [ "PoliceBoatManager", "classPoliceBoatManager.html", null ],
     [ "PromptData", "classPromptData.html", "classPromptData" ],
     [ "PromptDisplay", "classPromptDisplay.html", null ],
+    [ "QuitButton", "classQuitButton.html", null ],
     [ "RandomBag", "structRandomBag.html", null ],
     [ "RegulatorSingleton", "classRegulatorSingleton.html", "classRegulatorSingleton" ],
     [ "RequireInterfaceAttribute", "classRequireInterfaceAttribute.html", null ],
