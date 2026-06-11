@@ -78,6 +78,7 @@ var annotated_dup =
     [ "DelegateExtensions", "classDelegateExtensions.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
+    [ "EndGame", "classEndGame.html", null ],
     [ "FishingManager", "classFishingManager.html", "classFishingManager" ],
     [ "FishingMiniGame", "classFishingMiniGame.html", null ],
     [ "FishingMiniGameData", "classFishingMiniGameData.html", null ],
