@@ -147,6 +147,7 @@ var hierarchy =
       [ "PlayerInteractions", "classPlayerInteractions.html", null ],
       [ "PlayerInteractor", "classPlayerInteractor.html", null ],
       [ "PlayerLookRaycaster", "classPlayerLookRaycaster.html", null ],
+      [ "PlayerMainMenuSpawner", "classPlayerMainMenuSpawner.html", null ],
       [ "PlayerMovement", "classPlayerMovement.html", null ],
       [ "PlayerSelectionCard", "classPlayerSelectionCard.html", null ],
       [ "PlayerSelectionHandler", "classPlayerSelectionHandler.html", null ],

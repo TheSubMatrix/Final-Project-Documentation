@@ -120,6 +120,7 @@ var annotated_dup =
     [ "PlayerInteractions", "classPlayerInteractions.html", null ],
     [ "PlayerInteractor", "classPlayerInteractor.html", "classPlayerInteractor" ],
     [ "PlayerLookRaycaster", "classPlayerLookRaycaster.html", null ],
+    [ "PlayerMainMenuSpawner", "classPlayerMainMenuSpawner.html", null ],
     [ "PlayerMovement", "classPlayerMovement.html", null ],
     [ "PlayerSelectionCard", "classPlayerSelectionCard.html", "classPlayerSelectionCard" ],
     [ "PlayerSelectionHandler", "classPlayerSelectionHandler.html", null ],
