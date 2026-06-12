@@ -171,6 +171,7 @@ var hierarchy =
       [ "StoveInteractable", "classStoveInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
       [ "TerrainSpawner", "classTerrainSpawner.html", null ],
+      [ "UnderbellyFollow", "classUnderbellyFollow.html", null ],
       [ "WaterFillController", "classWaterFillController.html", null ],
       [ "tester", "classtester.html", null ]
     ] ],
@@ -213,6 +214,7 @@ var hierarchy =
     ] ],
     [ "MatrixUtils.AudioSystem.SoundBuilder", "classMatrixUtils_1_1AudioSystem_1_1SoundBuilder.html", null ],
     [ "MatrixUtils.AudioSystem.SoundData", "classMatrixUtils_1_1AudioSystem_1_1SoundData.html", null ],
+    [ "SplineMovement", "classSplineMovement.html", null ],
     [ "TerrainEnvironmentSwaper", "classTerrainEnvironmentSwaper.html", null ],
     [ "TerrainOptions", "classTerrainOptions.html", null ],
     [ "TerrainSelector", "classTerrainSelector.html", null ],
