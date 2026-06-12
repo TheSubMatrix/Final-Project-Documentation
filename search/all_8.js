@@ -27,13 +27,14 @@ var searchData=
   ['invoke_24',['invoke',['../classSerializedMethod.html#aa6f7a9066d0a654cd648d12814349fb8',1,'SerializedMethod.Invoke()'],['../classSerializedMethod.html#aa1a25506aa327971e0082d0a932864cc',1,'SerializedMethod.Invoke(object[] parameters)']]],
   ['iplayercontrollable_25',['IPlayerControllable',['../interfaceIPlayerControllable.html',1,'']]],
   ['iplayercontroller_26',['IPlayerController',['../interfaceIPlayerController.html',1,'']]],
-  ['ipromptdisplay_27',['IPromptDisplay',['../interfaceIPromptDisplay.html',1,'']]],
-  ['ipromptprovider_28',['IPromptProvider',['../interfaceIPromptProvider.html',1,'']]],
-  ['isactive_29',['IsActive',['../classInteractionSession.html#a6d3fd4743e121a79aae444832d55cb3f',1,'InteractionSession']]],
-  ['iscenetransitioner_30',['ISceneTransitioner',['../interfaceISceneTransitioner.html',1,'']]],
-  ['isexternalinit_31',['IsExternalInit',['../classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html',1,'System::Runtime::CompilerServices']]],
-  ['isinteracting_32',['isinteracting',['../interfaceIInteractor.html#add40295f5b68f9cc154d01b688f6dbe6',1,'IInteractor.IsInteracting()'],['../classPlayerInteractor.html#a571416a0e43c59ec34c67b063eb50d79',1,'PlayerInteractor.IsInteracting()']]],
-  ['ispawner_33',['ISpawner',['../interfaceISpawner.html',1,'']]],
-  ['itimer_34',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]],
-  ['itransitionhider_35',['ITransitionHider',['../interfaceITransitionHider.html',1,'']]]
+  ['iplayerselectionhandler_27',['IPlayerSelectionHandler',['../interfaceIPlayerSelectionHandler.html',1,'']]],
+  ['ipromptdisplay_28',['IPromptDisplay',['../interfaceIPromptDisplay.html',1,'']]],
+  ['ipromptprovider_29',['IPromptProvider',['../interfaceIPromptProvider.html',1,'']]],
+  ['isactive_30',['IsActive',['../classInteractionSession.html#a6d3fd4743e121a79aae444832d55cb3f',1,'InteractionSession']]],
+  ['iscenetransitioner_31',['ISceneTransitioner',['../interfaceISceneTransitioner.html',1,'']]],
+  ['isexternalinit_32',['IsExternalInit',['../classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html',1,'System::Runtime::CompilerServices']]],
+  ['isinteracting_33',['isinteracting',['../interfaceIInteractor.html#add40295f5b68f9cc154d01b688f6dbe6',1,'IInteractor.IsInteracting()'],['../classPlayerInteractor.html#a571416a0e43c59ec34c67b063eb50d79',1,'PlayerInteractor.IsInteracting()']]],
+  ['ispawner_34',['ISpawner',['../interfaceISpawner.html',1,'']]],
+  ['itimer_35',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]],
+  ['itransitionhider_36',['ITransitionHider',['../interfaceITransitionHider.html',1,'']]]
 ];

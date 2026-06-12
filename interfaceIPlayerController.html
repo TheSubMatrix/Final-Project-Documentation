@@ -113,12 +113,12 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a289ce1ce046c4640f6dd3b425b5e275d" id="r_a289ce1ce046c4640f6dd3b425b5e275d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIPlayerController.html#a289ce1ce046c4640f6dd3b425b5e275d">ChangeControlledEntity</a> (<a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a> controllable)</td></tr>
 <tr class="memdesc:a289ce1ce046c4640f6dd3b425b5e275d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Changes the controlled <a class="el" href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque...">IPlayerControllable</a> to the one specified.  <br /></td></tr>
 <tr class="separator:a289ce1ce046c4640f6dd3b425b5e275d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4169c05d7d936a11ec6b5da8b2899379" id="r_a4169c05d7d936a11ec6b5da8b2899379"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIPlayerController.html#a4169c05d7d936a11ec6b5da8b2899379">ChangeInputActionMap</a> (string actions, out InputActionMap newMap)</td></tr>
-<tr class="memdesc:a4169c05d7d936a11ec6b5da8b2899379"><td class="mdescLeft">&#160;</td><td class="mdescRight">Changes the InputActionMap used by the controlled <a class="el" href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque...">IPlayerControllable</a> to the one specified.  <br /></td></tr>
-<tr class="separator:a4169c05d7d936a11ec6b5da8b2899379"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a79d1b713f815901680afe8fe4947de70" id="r_a79d1b713f815901680afe8fe4947de70"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIPlayerController.html#a79d1b713f815901680afe8fe4947de70">GetCurrentInputActionMap</a> (out InputActionMap currentMap)</td></tr>
-<tr class="memdesc:a79d1b713f815901680afe8fe4947de70"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the current InputActionMap used by the controlling <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a>  <br /></td></tr>
-<tr class="separator:a79d1b713f815901680afe8fe4947de70"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab0661f9edd93dbd41802ea0f13033add" id="r_ab0661f9edd93dbd41802ea0f13033add"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIPlayerController.html#ab0661f9edd93dbd41802ea0f13033add">TryChangeInputActionMap</a> (string actions, out InputActionMap newMap)</td></tr>
+<tr class="memdesc:ab0661f9edd93dbd41802ea0f13033add"><td class="mdescLeft">&#160;</td><td class="mdescRight">Changes the InputActionMap used by the controlled <a class="el" href="interfaceIPlayerControllable.html" title="An interface for objects that can be controlled by a player. Handles what happens when a player reque...">IPlayerControllable</a> to the one specified.  <br /></td></tr>
+<tr class="separator:ab0661f9edd93dbd41802ea0f13033add"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5c682da31cb0ca922237149c3e5dd9d5" id="r_a5c682da31cb0ca922237149c3e5dd9d5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIPlayerController.html#a5c682da31cb0ca922237149c3e5dd9d5">TryGetCurrentInputActionMap</a> (out InputActionMap currentMap)</td></tr>
+<tr class="memdesc:a5c682da31cb0ca922237149c3e5dd9d5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the current InputActionMap used by the controlling <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a>  <br /></td></tr>
+<tr class="separator:a5c682da31cb0ca922237149c3e5dd9d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af328adcae1ad90feaf06ebb9b06c6819" id="r_af328adcae1ad90feaf06ebb9b06c6819"><td class="memItemLeft" align="right" valign="top">GameObject&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceIPlayerController.html#af328adcae1ad90feaf06ebb9b06c6819">GetAssociatedGameObject</a> ()</td></tr>
 <tr class="memdesc:af328adcae1ad90feaf06ebb9b06c6819"><td class="mdescLeft">&#160;</td><td class="mdescRight"><dl class="section return"><dt>Returns</dt><dd>The GameObject associated with this <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a></dd></dl>
  <br /></td></tr>
@@ -155,14 +155,36 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a4169c05d7d936a11ec6b5da8b2899379" name="a4169c05d7d936a11ec6b5da8b2899379"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4169c05d7d936a11ec6b5da8b2899379">&#9670;&#160;</a></span>ChangeInputActionMap()</h2>
+<a id="af328adcae1ad90feaf06ebb9b06c6819" name="af328adcae1ad90feaf06ebb9b06c6819"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af328adcae1ad90feaf06ebb9b06c6819">&#9670;&#160;</a></span>GetAssociatedGameObject()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool IPlayerController.ChangeInputActionMap </td>
+          <td class="memname">GameObject IPlayerController.GetAssociatedGameObject </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p><dl class="section return"><dt>Returns</dt><dd>The GameObject associated with this <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a></dd></dl>
+</p>
+
+<p>Implemented in <a class="el" href="classPlayerController.html#ae68a6275935a9dc58c7ec231ee3c329c">PlayerController</a>.</p>
+
+</div>
+</div>
+<a id="ab0661f9edd93dbd41802ea0f13033add" name="ab0661f9edd93dbd41802ea0f13033add"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab0661f9edd93dbd41802ea0f13033add">&#9670;&#160;</a></span>TryChangeInputActionMap()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool IPlayerController.TryChangeInputActionMap </td>
           <td>(</td>
           <td class="paramtype">string&#160;</td>
           <td class="paramname"><em>actions</em>, </td>
@@ -191,40 +213,18 @@ Public Member Functions</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>Whether the action map change was successful</dd></dl>
 
-<p>Implemented in <a class="el" href="classPlayerController.html#a6ad0f4c70e031fbab4ae2302942b3bff">PlayerController</a>.</p>
+<p>Implemented in <a class="el" href="classPlayerController.html#ae76b0f3891644395977406c1fe101cd2">PlayerController</a>.</p>
 
 </div>
 </div>
-<a id="af328adcae1ad90feaf06ebb9b06c6819" name="af328adcae1ad90feaf06ebb9b06c6819"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af328adcae1ad90feaf06ebb9b06c6819">&#9670;&#160;</a></span>GetAssociatedGameObject()</h2>
+<a id="a5c682da31cb0ca922237149c3e5dd9d5" name="a5c682da31cb0ca922237149c3e5dd9d5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5c682da31cb0ca922237149c3e5dd9d5">&#9670;&#160;</a></span>TryGetCurrentInputActionMap()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">GameObject IPlayerController.GetAssociatedGameObject </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p><dl class="section return"><dt>Returns</dt><dd>The GameObject associated with this <a class="el" href="interfaceIPlayerController.html" title="Represents a player&#39;s control of an object. Allows the player to request control of an object and to ...">IPlayerController</a></dd></dl>
-</p>
-
-<p>Implemented in <a class="el" href="classPlayerController.html#ae68a6275935a9dc58c7ec231ee3c329c">PlayerController</a>.</p>
-
-</div>
-</div>
-<a id="a79d1b713f815901680afe8fe4947de70" name="a79d1b713f815901680afe8fe4947de70"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a79d1b713f815901680afe8fe4947de70">&#9670;&#160;</a></span>GetCurrentInputActionMap()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool IPlayerController.GetCurrentInputActionMap </td>
+          <td class="memname">bool IPlayerController.TryGetCurrentInputActionMap </td>
           <td>(</td>
           <td class="paramtype">out InputActionMap&#160;</td>
           <td class="paramname"><em>currentMap</em></td><td>)</td>
@@ -242,7 +242,7 @@ Public Member Functions</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>Whether the result is valid</dd></dl>
 
-<p>Implemented in <a class="el" href="classPlayerController.html#a1908c8481a17cb24076e0b84e7d5698b">PlayerController</a>.</p>
+<p>Implemented in <a class="el" href="classPlayerController.html#a8829fa68cbf340bf95779f120616cd25">PlayerController</a>.</p>
 
 </div>
 </div>
