@@ -21,6 +21,9 @@ var hierarchy =
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ]
     ] ],
+    [ "IDeselectHandler", null, [
+      [ "ColoredSelectionOutline", "classColoredSelectionOutline.html", null ]
+    ] ],
     [ "IDictionary", null, [
       [ "SerializableDictionary< TKey, TValue >", "classSerializableDictionary.html", null ]
     ] ],
@@ -93,6 +96,9 @@ var hierarchy =
     [ "ISceneTransitioner", "interfaceISceneTransitioner.html", [
       [ "SceneTransitionHandler", "classSceneTransitionHandler.html", null ]
     ] ],
+    [ "ISelectHandler", null, [
+      [ "ColoredSelectionOutline", "classColoredSelectionOutline.html", null ]
+    ] ],
     [ "ISerializationCallbackReceiver", null, [
       [ "MatrixUtils.GenericDatatypes.SerializableHashSet< T >", "classMatrixUtils_1_1GenericDatatypes_1_1SerializableHashSet.html", null ],
       [ "SerializableDictionary< TKey, TValue >", "classSerializableDictionary.html", null ],
@@ -120,6 +126,7 @@ var hierarchy =
       [ "CoalManager", "classCoalManager.html", null ],
       [ "CoalUI", "classCoalUI.html", null ],
       [ "CollisionDamager", "classCollisionDamager.html", null ],
+      [ "ColoredSelectionOutline", "classColoredSelectionOutline.html", null ],
       [ "CookFish", "classCookFish.html", null ],
       [ "DelegateExtensions", "classDelegateExtensions.html", null ],
       [ "EndGame", "classEndGame.html", null ],
@@ -129,7 +136,6 @@ var hierarchy =
       [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "HungerAndThirst", "classHungerAndThirst.html", null ],
-      [ "LevelManager", "classLevelManager.html", null ],
       [ "LightingManager", "classLightingManager.html", null ],
       [ "MatrixUtils.AudioSystem.SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
@@ -139,12 +145,13 @@ var hierarchy =
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
       [ "PlayerControlRouter", "classPlayerControlRouter.html", null ],
       [ "PlayerController", "classPlayerController.html", null ],
+      [ "PlayerControllerDataStore", "classPlayerControllerDataStore.html", null ],
       [ "PlayerInteractions", "classPlayerInteractions.html", null ],
       [ "PlayerInteractor", "classPlayerInteractor.html", null ],
       [ "PlayerLookRaycaster", "classPlayerLookRaycaster.html", null ],
       [ "PlayerMovement", "classPlayerMovement.html", null ],
+      [ "PlayerSelectionSetup", "classPlayerSelectionSetup.html", null ],
       [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
-      [ "PlayerStatManager", "classPlayerStatManager.html", null ],
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
       [ "PoliceBoatManager", "classPoliceBoatManager.html", null ],
       [ "PromptDisplay", "classPromptDisplay.html", null ],
@@ -194,6 +201,7 @@ var hierarchy =
     [ "ScriptableObject", null, [
       [ "LightingPreset", "classLightingPreset.html", null ],
       [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ],
+      [ "PlayerColors", "classPlayerColors.html", null ],
       [ "SO_CoalData", "classSO__CoalData.html", null ],
       [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],
       [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ]
