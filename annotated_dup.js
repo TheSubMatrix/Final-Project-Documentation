@@ -157,6 +157,7 @@ var annotated_dup =
     [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ],
     [ "SplineMovement", "classSplineMovement.html", null ],
     [ "StatusBarManager", "classStatusBarManager.html", null ],
+    [ "SteamPressureDisplay", "classSteamPressureDisplay.html", null ],
     [ "SteamPressureSystem", "classSteamPressureSystem.html", null ],
     [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", "classSteamPressureValveInteractable" ],
     [ "StorageInteractable", "classStorageInteractable.html", "classStorageInteractable" ],

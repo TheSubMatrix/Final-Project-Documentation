@@ -166,6 +166,7 @@ var hierarchy =
       [ "ShipRadar", "classShipRadar.html", null ],
       [ "ShipSinkCheck", "classShipSinkCheck.html", null ],
       [ "StatusBarManager", "classStatusBarManager.html", null ],
+      [ "SteamPressureDisplay", "classSteamPressureDisplay.html", null ],
       [ "SteamPressureSystem", "classSteamPressureSystem.html", null ],
       [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ],
       [ "StorageInteractable", "classStorageInteractable.html", null ],
