@@ -80,6 +80,10 @@ var hierarchy =
     [ "IPlayerController", "interfaceIPlayerController.html", [
       [ "PlayerController", "classPlayerController.html", null ]
     ] ],
+    [ "IPlayerSelection", "interfaceIPlayerSelection.html", [
+      [ "CharacterSelection", "classCharacterSelection.html", null ],
+      [ "NeutralSelection", "classNeutralSelection.html", null ]
+    ] ],
     [ "IPlayerSelectionHandler", "interfaceIPlayerSelectionHandler.html", [
       [ "PlayerSelectionHandler", "classPlayerSelectionHandler.html", null ]
     ] ],

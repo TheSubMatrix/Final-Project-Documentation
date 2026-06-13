@@ -90,7 +90,6 @@ $(document).ready(function(){initNavTree('classPlayerSelectionHandler.html','');
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="classPlayerSelectionHandler-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">PlayerSelectionHandler Class Reference</div></div>
@@ -109,25 +108,36 @@ Inheritance diagram for PlayerSelectionHandler:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:adebcc73677985d152b6e253748959e6c" id="r_adebcc73677985d152b6e253748959e6c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerSelectionHandler.html#adebcc73677985d152b6e253748959e6c">TrySelect</a> (<a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a> controllable, Transform playerSelection)</td></tr>
-<tr class="separator:adebcc73677985d152b6e253748959e6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a381430d022b97357a78dcfbd81310c3d" id="r_a381430d022b97357a78dcfbd81310c3d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerSelectionHandler.html#a381430d022b97357a78dcfbd81310c3d">TryGetNextAvailableSelection</a> (Transform currentSelection, Vector2 direction, out Transform nextSelection)</td></tr>
-<tr class="separator:a381430d022b97357a78dcfbd81310c3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a19e985bcfea3a5cc72e0a30e1a3053fc" id="r_a19e985bcfea3a5cc72e0a30e1a3053fc"><td class="memItemLeft" align="right" valign="top">Vector2&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerSelectionHandler.html#a19e985bcfea3a5cc72e0a30e1a3053fc">GetNewSelectableLocation</a> ()</td></tr>
-<tr class="separator:a19e985bcfea3a5cc72e0a30e1a3053fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3aa8b6aceb61e4e6b352583c61babff7" id="r_a3aa8b6aceb61e4e6b352583c61babff7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerSelectionHandler.html#a3aa8b6aceb61e4e6b352583c61babff7">TryConfirmSelection</a> (<a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a> selector, <a class="el" href="interfaceIPlayerSelection.html">IPlayerSelection</a> target)</td></tr>
+<tr class="separator:a3aa8b6aceb61e4e6b352583c61babff7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43c744e68515550994290296cfc13972" id="r_a43c744e68515550994290296cfc13972"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerSelectionHandler.html#a43c744e68515550994290296cfc13972">TryCancelSelection</a> (<a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a> selector, <a class="el" href="interfaceIPlayerSelection.html">IPlayerSelection</a> current)</td></tr>
+<tr class="separator:a43c744e68515550994290296cfc13972"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06af04b3a09b996e24cf86cd6e5145c9" id="r_a06af04b3a09b996e24cf86cd6e5145c9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerSelectionHandler.html#a06af04b3a09b996e24cf86cd6e5145c9">TryGetNextAvailableSelection</a> (<a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a> selector, <a class="el" href="interfaceIPlayerSelection.html">IPlayerSelection</a> currentSelection, Vector2 direction, out <a class="el" href="interfaceIPlayerSelection.html">IPlayerSelection</a> nextSelection)</td></tr>
+<tr class="separator:a06af04b3a09b996e24cf86cd6e5145c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a19e985bcfea3a5cc72e0a30e1a3053fc" name="a19e985bcfea3a5cc72e0a30e1a3053fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19e985bcfea3a5cc72e0a30e1a3053fc">&#9670;&#160;</a></span>GetNewSelectableLocation()</h2>
+<a id="a43c744e68515550994290296cfc13972" name="a43c744e68515550994290296cfc13972"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a43c744e68515550994290296cfc13972">&#9670;&#160;</a></span>TryCancelSelection()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">Vector2 PlayerSelectionHandler.GetNewSelectableLocation </td>
+          <td class="memname">bool PlayerSelectionHandler.TryCancelSelection </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a>&#160;</td>
+          <td class="paramname"><em>selector</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="interfaceIPlayerSelection.html">IPlayerSelection</a>&#160;</td>
+          <td class="paramname"><em>current</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -136,8 +146,38 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a381430d022b97357a78dcfbd81310c3d" name="a381430d022b97357a78dcfbd81310c3d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a381430d022b97357a78dcfbd81310c3d">&#9670;&#160;</a></span>TryGetNextAvailableSelection()</h2>
+<a id="a3aa8b6aceb61e4e6b352583c61babff7" name="a3aa8b6aceb61e4e6b352583c61babff7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3aa8b6aceb61e4e6b352583c61babff7">&#9670;&#160;</a></span>TryConfirmSelection()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PlayerSelectionHandler.TryConfirmSelection </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a>&#160;</td>
+          <td class="paramname"><em>selector</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="interfaceIPlayerSelection.html">IPlayerSelection</a>&#160;</td>
+          <td class="paramname"><em>target</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="interfaceIPlayerSelectionHandler.html">IPlayerSelectionHandler</a>.</p>
+
+</div>
+</div>
+<a id="a06af04b3a09b996e24cf86cd6e5145c9" name="a06af04b3a09b996e24cf86cd6e5145c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a06af04b3a09b996e24cf86cd6e5145c9">&#9670;&#160;</a></span>TryGetNextAvailableSelection()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -145,7 +185,13 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">bool PlayerSelectionHandler.TryGetNextAvailableSelection </td>
           <td>(</td>
-          <td class="paramtype">Transform&#160;</td>
+          <td class="paramtype"><a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a>&#160;</td>
+          <td class="paramname"><em>selector</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="interfaceIPlayerSelection.html">IPlayerSelection</a>&#160;</td>
           <td class="paramname"><em>currentSelection</em>, </td>
         </tr>
         <tr>
@@ -157,7 +203,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">out Transform&#160;</td>
+          <td class="paramtype">out <a class="el" href="interfaceIPlayerSelection.html">IPlayerSelection</a>&#160;</td>
           <td class="paramname"><em>nextSelection</em>&#160;</td>
         </tr>
         <tr>
@@ -172,38 +218,8 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="adebcc73677985d152b6e253748959e6c" name="adebcc73677985d152b6e253748959e6c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adebcc73677985d152b6e253748959e6c">&#9670;&#160;</a></span>TrySelect()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool PlayerSelectionHandler.TrySelect </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a>&#160;</td>
-          <td class="paramname"><em>controllable</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Transform&#160;</td>
-          <td class="paramname"><em>playerSelection</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implements <a class="el" href="interfaceIPlayerSelectionHandler.html">IPlayerSelectionHandler</a>.</p>
-
-</div>
-</div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>Assets/Scripts/Oh Ship Core/UI/<b>PlayerSelectionHandler.cs</b></li>
+<li>Assets/Scripts/Oh Ship Core/UI/Player Selection/<b>PlayerSelectionHandler.cs</b></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
