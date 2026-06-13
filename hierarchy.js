@@ -22,6 +22,7 @@ var hierarchy =
     ] ],
     [ "MatrixUtils.DependencyInjection.IDependencyProvider", "interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html", [
       [ "CharacterSelectionHandler", "classCharacterSelectionHandler.html", null ],
+      [ "MainMenuHandler", "classMainMenuHandler.html", null ],
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ]
     ] ],
@@ -59,7 +60,8 @@ var hierarchy =
       [ "PlayerInteractor", "classPlayerInteractor.html", null ]
     ] ],
     [ "IMenuHandler", "interfaceIMenuHandler.html", [
-      [ "CharacterSelectionHandler", "classCharacterSelectionHandler.html", null ]
+      [ "CharacterSelectionHandler", "classCharacterSelectionHandler.html", null ],
+      [ "MainMenuHandler", "classMainMenuHandler.html", null ]
     ] ],
     [ "InputData", "classInputData.html", null ],
     [ "InputProcessor", null, [
@@ -88,6 +90,7 @@ var hierarchy =
     ] ],
     [ "IPlayerSelection", "interfaceIPlayerSelection.html", [
       [ "CharacterSelection", "classCharacterSelection.html", null ],
+      [ "MenuButtonSelection", "classMenuButtonSelection.html", null ],
       [ "NeutralSelection", "classNeutralSelection.html", null ]
     ] ],
     [ "IPromptDisplay", "interfaceIPromptDisplay.html", [
@@ -143,6 +146,7 @@ var hierarchy =
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "HungerAndThirst", "classHungerAndThirst.html", null ],
       [ "LightingManager", "classLightingManager.html", null ],
+      [ "MainMenuHandler", "classMainMenuHandler.html", null ],
       [ "MatrixUtils.AudioSystem.SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
       [ "MatrixUtils.GenericDatatypes.Singleton< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html", null ],
