@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Final Project: MatrixUtils.DependencyInjection.IDependencyProvider Interface Reference</title>
+<title>Final Project: IMenuHandler Interface Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -63,7 +63,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html',''); initResizable(); });
+$(document).ready(function(){initNavTree('interfaceIMenuHandler.html',''); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -89,29 +89,46 @@ $(document).ready(function(){initNavTree('interfaceMatrixUtils_1_1DependencyInje
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">MatrixUtils.DependencyInjection.IDependencyProvider Interface Reference</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="interfaceIMenuHandler-members.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">IMenuHandler Interface Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="dynheader">
-Inheritance diagram for MatrixUtils.DependencyInjection.IDependencyProvider:</div>
+Inheritance diagram for IMenuHandler:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.png" usemap="#MatrixUtils.DependencyInjection.IDependencyProvider_map" alt=""/>
-  <map id="MatrixUtils.DependencyInjection.IDependencyProvider_map" name="MatrixUtils.DependencyInjection.IDependencyProvider_map">
-<area href="classCharacterSelectionHandler.html" alt="CharacterSelectionHandler" shape="rect" coords="0,56,321,80"/>
-<area href="classMatrixUtils_1_1DependencyInjection_1_1Injector.html" alt="MatrixUtils.DependencyInjection.Injector" shape="rect" coords="331,56,652,80"/>
-<area href="classPersistentService.html" title="Base class for services that persist across scenes and integrate with dependency injection...." alt="PersistentService&lt; TInterface &gt;" shape="rect" coords="662,56,983,80"/>
+  <img src="interfaceIMenuHandler.png" usemap="#IMenuHandler_map" alt=""/>
+  <map id="IMenuHandler_map" name="IMenuHandler_map">
+<area href="classCharacterSelectionHandler.html" alt="CharacterSelectionHandler" shape="rect" coords="0,56,166,80"/>
   </map>
 </div></div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:ae66e2dfaa565fe046c1f52215b040472" id="r_ae66e2dfaa565fe046c1f52215b040472"><td class="memItemLeft" align="right" valign="top"><a id="ae66e2dfaa565fe046c1f52215b040472" name="ae66e2dfaa565fe046c1f52215b040472"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TryConfirmSelection</b> (<a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a> controllable, <a class="el" href="interfaceIPlayerSelection.html">IPlayerSelection</a> playerSelection)</td></tr>
+<tr class="separator:ae66e2dfaa565fe046c1f52215b040472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26921974d9508be6cf10122dd5b2e4f1" id="r_a26921974d9508be6cf10122dd5b2e4f1"><td class="memItemLeft" align="right" valign="top"><a id="a26921974d9508be6cf10122dd5b2e4f1" name="a26921974d9508be6cf10122dd5b2e4f1"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TryCancelSelection</b> (<a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a> controllable, <a class="el" href="interfaceIPlayerSelection.html">IPlayerSelection</a> playerSelection)</td></tr>
+<tr class="separator:a26921974d9508be6cf10122dd5b2e4f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af3b260829b4393fbd083ad69fa97ef0c" id="r_af3b260829b4393fbd083ad69fa97ef0c"><td class="memItemLeft" align="right" valign="top"><a id="af3b260829b4393fbd083ad69fa97ef0c" name="af3b260829b4393fbd083ad69fa97ef0c"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TryGetNextAvailableSelection</b> (<a class="el" href="interfaceIPlayerControllable.html">IPlayerControllable</a> selector, <a class="el" href="interfaceIPlayerSelection.html">IPlayerSelection</a> currentSelection, Vector2 direction, out <a class="el" href="interfaceIPlayerSelection.html">IPlayerSelection</a> nextSelection)</td></tr>
+<tr class="separator:af3b260829b4393fbd083ad69fa97ef0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa30dc7f78dea0f6f025c83d446544c29" id="r_aa30dc7f78dea0f6f025c83d446544c29"><td class="memItemLeft" align="right" valign="top"><a id="aa30dc7f78dea0f6f025c83d446544c29" name="aa30dc7f78dea0f6f025c83d446544c29"></a>
+<a class="el" href="interfaceIPlayerSelection.html">IPlayerSelection</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GetDefaultSelectionZone</b> ()</td></tr>
+<tr class="separator:aa30dc7f78dea0f6f025c83d446544c29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
 <hr/>The documentation for this interface was generated from the following file:<ul>
-<li>Assets/Scripts/Matrix Utils/Dependency Injection/<b>IDependencyProvider.cs</b></li>
+<li>Assets/Scripts/Oh Ship Core/UI/Player Selection/<b>IMenuHandler.cs</b></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="namespaceMatrixUtils.html">MatrixUtils</a></li><li class="navelem"><a class="el" href="namespaceMatrixUtils_1_1DependencyInjection.html">DependencyInjection</a></li><li class="navelem"><a class="el" href="interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html">IDependencyProvider</a></li>
+    <li class="navelem"><a class="el" href="interfaceIMenuHandler.html">IMenuHandler</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>

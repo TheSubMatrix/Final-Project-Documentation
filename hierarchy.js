@@ -18,9 +18,9 @@ var hierarchy =
       [ "ShipHealth", "classShipHealth.html", null ]
     ] ],
     [ "MatrixUtils.DependencyInjection.IDependencyProvider", "interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html", [
+      [ "CharacterSelectionHandler", "classCharacterSelectionHandler.html", null ],
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
-      [ "PersistentService< TInterface >", "classPersistentService.html", null ],
-      [ "PlayerSelectionHandler", "classPlayerSelectionHandler.html", null ]
+      [ "PersistentService< TInterface >", "classPersistentService.html", null ]
     ] ],
     [ "IDictionary", null, [
       [ "SerializableDictionary< TKey, TValue >", "classSerializableDictionary.html", null ]
@@ -55,6 +55,9 @@ var hierarchy =
     [ "IInteractor", "interfaceIInteractor.html", [
       [ "PlayerInteractor", "classPlayerInteractor.html", null ]
     ] ],
+    [ "IMenuHandler", "interfaceIMenuHandler.html", [
+      [ "CharacterSelectionHandler", "classCharacterSelectionHandler.html", null ]
+    ] ],
     [ "InputData", "classInputData.html", null ],
     [ "InputProcessor", null, [
       [ "MatrixUtils.ClampVector2", "classMatrixUtils_1_1ClampVector2.html", null ],
@@ -73,8 +76,8 @@ var hierarchy =
       [ "CoalManager", "classCoalManager.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
+      [ "MenuNavigator", "classMenuNavigator.html", null ],
       [ "PlayerControlRouter", "classPlayerControlRouter.html", null ],
-      [ "PlayerSelectionCard", "classPlayerSelectionCard.html", null ],
       [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ]
     ] ],
     [ "IPlayerController", "interfaceIPlayerController.html", [
@@ -83,9 +86,6 @@ var hierarchy =
     [ "IPlayerSelection", "interfaceIPlayerSelection.html", [
       [ "CharacterSelection", "classCharacterSelection.html", null ],
       [ "NeutralSelection", "classNeutralSelection.html", null ]
-    ] ],
-    [ "IPlayerSelectionHandler", "interfaceIPlayerSelectionHandler.html", [
-      [ "PlayerSelectionHandler", "classPlayerSelectionHandler.html", null ]
     ] ],
     [ "IPromptDisplay", "interfaceIPromptDisplay.html", [
       [ "PromptDisplay", "classPromptDisplay.html", null ]
@@ -126,6 +126,7 @@ var hierarchy =
     [ "MonoBehaviour", null, [
       [ "BoatCoordinate", "classBoatCoordinate.html", null ],
       [ "BuoyantBody", "classBuoyantBody.html", null ],
+      [ "CharacterSelectionHandler", "classCharacterSelectionHandler.html", null ],
       [ "CoalManager", "classCoalManager.html", null ],
       [ "CoalUI", "classCoalUI.html", null ],
       [ "CollisionDamager", "classCollisionDamager.html", null ],
@@ -143,6 +144,8 @@ var hierarchy =
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
       [ "MatrixUtils.GenericDatatypes.Singleton< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html", null ],
       [ "MatrixUtils.VFXSystem.VFXEmitter", "classMatrixUtils_1_1VFXSystem_1_1VFXEmitter.html", null ],
+      [ "MenuNavigator", "classMenuNavigator.html", null ],
+      [ "MenuNavigatorSetup", "classMenuNavigatorSetup.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
       [ "PlayerControlRouter", "classPlayerControlRouter.html", null ],
@@ -153,9 +156,6 @@ var hierarchy =
       [ "PlayerLookRaycaster", "classPlayerLookRaycaster.html", null ],
       [ "PlayerMainMenuSpawner", "classPlayerMainMenuSpawner.html", null ],
       [ "PlayerMovement", "classPlayerMovement.html", null ],
-      [ "PlayerSelectionCard", "classPlayerSelectionCard.html", null ],
-      [ "PlayerSelectionHandler", "classPlayerSelectionHandler.html", null ],
-      [ "PlayerSelectionSetup", "classPlayerSelectionSetup.html", null ],
       [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
       [ "PoliceBoatManager", "classPoliceBoatManager.html", null ],

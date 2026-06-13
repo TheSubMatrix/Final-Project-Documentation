@@ -13,13 +13,10 @@ var searchData=
   ['playerlookraycaster_10',['PlayerLookRaycaster',['../classPlayerLookRaycaster.html',1,'']]],
   ['playermainmenuspawner_11',['PlayerMainMenuSpawner',['../classPlayerMainMenuSpawner.html',1,'']]],
   ['playermovement_12',['PlayerMovement',['../classPlayerMovement.html',1,'']]],
-  ['playerselectioncard_13',['PlayerSelectionCard',['../classPlayerSelectionCard.html',1,'']]],
-  ['playerselectionhandler_14',['PlayerSelectionHandler',['../classPlayerSelectionHandler.html',1,'']]],
-  ['playerselectionsetup_15',['PlayerSelectionSetup',['../classPlayerSelectionSetup.html',1,'']]],
-  ['playerspawnmanager_16',['PlayerSpawnManager',['../classPlayerSpawnManager.html',1,'']]],
-  ['playertransitionhider_17',['PlayerTransitionHider',['../classPlayerTransitionHider.html',1,'']]],
-  ['policeboatmanager_18',['PoliceBoatManager',['../classPoliceBoatManager.html',1,'']]],
-  ['promptdata_19',['PromptData',['../classPromptData.html',1,'']]],
-  ['promptdisplay_20',['PromptDisplay',['../classPromptDisplay.html',1,'']]],
-  ['provideattribute_21',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
+  ['playerspawnmanager_13',['PlayerSpawnManager',['../classPlayerSpawnManager.html',1,'']]],
+  ['playertransitionhider_14',['PlayerTransitionHider',['../classPlayerTransitionHider.html',1,'']]],
+  ['policeboatmanager_15',['PoliceBoatManager',['../classPoliceBoatManager.html',1,'']]],
+  ['promptdata_16',['PromptData',['../classPromptData.html',1,'']]],
+  ['promptdisplay_17',['PromptDisplay',['../classPromptDisplay.html',1,'']]],
+  ['provideattribute_18',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
 ];
