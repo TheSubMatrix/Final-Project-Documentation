@@ -14,6 +14,9 @@ var hierarchy =
     ] ],
     [ "FishingMiniGame", "classFishingMiniGame.html", null ],
     [ "FishingMiniGameData", "classFishingMiniGameData.html", null ],
+    [ "ICharacterSelectionReference", "interfaceICharacterSelectionReference.html", [
+      [ "CharacterSelectionReference", "classCharacterSelectionReference.html", null ]
+    ] ],
     [ "IDamageable", "interfaceIDamageable.html", [
       [ "ShipHealth", "classShipHealth.html", null ]
     ] ],
@@ -183,6 +186,9 @@ var hierarchy =
     ] ],
     [ "MatrixUtils.GenericDatatypes.Observer< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Observer.html", null ],
     [ "MatrixUtils.GenericDatatypes.Observer< float >", "classMatrixUtils_1_1GenericDatatypes_1_1Observer.html", null ],
+    [ "PersistentService< ICharacterSelectionReference >", "classPersistentService.html", [
+      [ "CharacterSelectionReference", "classCharacterSelectionReference.html", null ]
+    ] ],
     [ "PersistentService< ISceneTransitioner >", "classPersistentService.html", [
       [ "SceneTransitionHandler", "classSceneTransitionHandler.html", null ]
     ] ],
@@ -208,6 +214,7 @@ var hierarchy =
     [ "ScriptableObject", null, [
       [ "LightingPreset", "classLightingPreset.html", null ],
       [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ],
+      [ "SO_CharacterSelectionData", "classSO__CharacterSelectionData.html", null ],
       [ "SO_CoalData", "classSO__CoalData.html", null ],
       [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],
       [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ]
