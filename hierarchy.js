@@ -93,6 +93,9 @@ var hierarchy =
       [ "MenuButtonSelection", "classMenuButtonSelection.html", null ],
       [ "NeutralSelection", "classNeutralSelection.html", null ]
     ] ],
+    [ "IProgressRepairProvider", "interfaceIProgressRepairProvider.html", [
+      [ "ShipHole", "classShipHole.html", null ]
+    ] ],
     [ "IPromptDisplay", "interfaceIPromptDisplay.html", [
       [ "PromptDisplay", "classPromptDisplay.html", null ]
     ] ],
@@ -173,6 +176,7 @@ var hierarchy =
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
       [ "ShipHealth", "classShipHealth.html", null ],
       [ "ShipHole", "classShipHole.html", null ],
+      [ "ShipHoleVisual", "classShipHoleVisual.html", null ],
       [ "ShipMovement", "classShipMovement.html", null ],
       [ "ShipRadar", "classShipRadar.html", null ],
       [ "ShipSinkCheck", "classShipSinkCheck.html", null ],
