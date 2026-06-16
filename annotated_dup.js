@@ -93,6 +93,7 @@ var annotated_dup =
     [ "HatchInteractable", "classHatchInteractable.html", "classHatchInteractable" ],
     [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
     [ "HelmInteractable", "classHelmInteractable.html", "classHelmInteractable" ],
+    [ "HighResScreenshot", "classHighResScreenshot.html", null ],
     [ "HungerAndThirst", "classHungerAndThirst.html", null ],
     [ "ICharacterSelectionReference", "interfaceICharacterSelectionReference.html", null ],
     [ "IDamageable", "interfaceIDamageable.html", "interfaceIDamageable" ],

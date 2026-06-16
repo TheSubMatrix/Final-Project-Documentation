@@ -151,6 +151,7 @@ var hierarchy =
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
+      [ "HighResScreenshot", "classHighResScreenshot.html", null ],
       [ "HungerAndThirst", "classHungerAndThirst.html", null ],
       [ "LightingManager", "classLightingManager.html", null ],
       [ "MainMenuHandler", "classMainMenuHandler.html", null ],
