@@ -70,6 +70,7 @@ var annotated_dup =
     [ "BoolVFXProperty", "classBoolVFXProperty.html", null ],
     [ "BuoyantBody", "classBuoyantBody.html", null ],
     [ "CalculateObjectVelocity", "classCalculateObjectVelocity.html", "classCalculateObjectVelocity" ],
+    [ "ChangeFillState", "classChangeFillState.html", "classChangeFillState" ],
     [ "CharacterSelection", "classCharacterSelection.html", null ],
     [ "CharacterSelectionHandler", "classCharacterSelectionHandler.html", null ],
     [ "CharacterSelectionReference", "classCharacterSelectionReference.html", null ],
@@ -95,6 +96,7 @@ var annotated_dup =
     [ "HungerAndThirst", "classHungerAndThirst.html", null ],
     [ "ICharacterSelectionReference", "interfaceICharacterSelectionReference.html", null ],
     [ "IDamageable", "interfaceIDamageable.html", "interfaceIDamageable" ],
+    [ "IFillState", "interfaceIFillState.html", "interfaceIFillState" ],
     [ "IInjector", "interfaceIInjector.html", null ],
     [ "IInteractable", "interfaceIInteractable.html", "interfaceIInteractable" ],
     [ "IInteractor", "interfaceIInteractor.html", "interfaceIInteractor" ],
@@ -121,6 +123,7 @@ var annotated_dup =
     [ "MenuNavigator", "classMenuNavigator.html", "classMenuNavigator" ],
     [ "MenuNavigatorSetup", "classMenuNavigatorSetup.html", null ],
     [ "MeshVFXProperty", "classMeshVFXProperty.html", null ],
+    [ "NeutralFillState", "classNeutralFillState.html", "classNeutralFillState" ],
     [ "NeutralSelection", "classNeutralSelection.html", null ],
     [ "Optional", "structOptional.html", null ],
     [ "PersistentService", "classPersistentService.html", "classPersistentService" ],
@@ -168,7 +171,6 @@ var annotated_dup =
     [ "SplineMovement", "classSplineMovement.html", null ],
     [ "StatusBarManager", "classStatusBarManager.html", null ],
     [ "SteamPressureDisplay", "classSteamPressureDisplay.html", null ],
-    [ "SteamPressureSystem", "classSteamPressureSystem.html", null ],
     [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", "classSteamPressureValveInteractable" ],
     [ "StorageInteractable", "classStorageInteractable.html", "classStorageInteractable" ],
     [ "StoveInteractable", "classStoveInteractable.html", "classStoveInteractable" ],
@@ -187,5 +189,6 @@ var annotated_dup =
     [ "Vector3VFXProperty", "classVector3VFXProperty.html", null ],
     [ "Vector4VFXProperty", "classVector4VFXProperty.html", null ],
     [ "VFXProperty", "classVFXProperty.html", null ],
+    [ "WaterController", "classWaterController.html", "classWaterController" ],
     [ "WaterFillController", "classWaterFillController.html", null ]
 ];
