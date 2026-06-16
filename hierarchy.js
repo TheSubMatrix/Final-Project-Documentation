@@ -151,7 +151,6 @@ var hierarchy =
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
-      [ "HighResScreenshot", "classHighResScreenshot.html", null ],
       [ "HungerAndThirst", "classHungerAndThirst.html", null ],
       [ "LightingManager", "classLightingManager.html", null ],
       [ "MainMenuHandler", "classMainMenuHandler.html", null ],
@@ -224,6 +223,7 @@ var hierarchy =
     [ "RandomBag< T >", "structRandomBag.html", null ],
     [ "RandomBag< Transform >", "structRandomBag.html", null ],
     [ "RoutineQueue", "classRoutineQueue.html", null ],
+    [ "SceneViewScreenshot", "classSceneViewScreenshot.html", null ],
     [ "ScriptableObject", null, [
       [ "LightingPreset", "classLightingPreset.html", null ],
       [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ],

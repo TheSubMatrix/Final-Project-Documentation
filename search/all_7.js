@@ -5,6 +5,5 @@ var searchData=
   ['hatchinteractable_2',['HatchInteractable',['../classHatchInteractable.html',1,'']]],
   ['heldobjectlocation_3',['HeldObjectLocation',['../classHeldObjectLocation.html',1,'']]],
   ['helminteractable_4',['HelmInteractable',['../classHelmInteractable.html',1,'']]],
-  ['highresscreenshot_5',['HighResScreenshot',['../classHighResScreenshot.html',1,'']]],
-  ['hungerandthirst_6',['HungerAndThirst',['../classHungerAndThirst.html',1,'']]]
+  ['hungerandthirst_5',['HungerAndThirst',['../classHungerAndThirst.html',1,'']]]
 ];
