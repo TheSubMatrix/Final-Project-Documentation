@@ -56,9 +56,9 @@ var hierarchy =
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "ShipHole", "classShipHole.html", null ],
-      [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ],
       [ "StorageInteractable", "classStorageInteractable.html", null ],
-      [ "StoveInteractable", "classStoveInteractable.html", null ]
+      [ "StoveInteractable", "classStoveInteractable.html", null ],
+      [ "WaterValveInteractable", "classWaterValveInteractable.html", null ]
     ] ],
     [ "IInteractor", "interfaceIInteractor.html", [
       [ "PlayerInteractor", "classPlayerInteractor.html", null ]
@@ -87,7 +87,7 @@ var hierarchy =
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "MenuNavigator", "classMenuNavigator.html", null ],
       [ "PlayerControlRouter", "classPlayerControlRouter.html", null ],
-      [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ]
+      [ "WaterValveInteractable", "classWaterValveInteractable.html", null ]
     ] ],
     [ "IPlayerController", "interfaceIPlayerController.html", [
       [ "PlayerController", "classPlayerController.html", null ]
@@ -109,8 +109,8 @@ var hierarchy =
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "ShipHole", "classShipHole.html", null ],
-      [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ],
-      [ "StoveInteractable", "classStoveInteractable.html", null ]
+      [ "StoveInteractable", "classStoveInteractable.html", null ],
+      [ "WaterValveInteractable", "classWaterValveInteractable.html", null ]
     ] ],
     [ "ISceneTransitioner", "interfaceISceneTransitioner.html", [
       [ "SceneTransitionHandler", "classSceneTransitionHandler.html", null ]
@@ -185,8 +185,6 @@ var hierarchy =
       [ "ShipRadar", "classShipRadar.html", null ],
       [ "ShipSinkCheck", "classShipSinkCheck.html", null ],
       [ "StatusBarManager", "classStatusBarManager.html", null ],
-      [ "SteamPressureDisplay", "classSteamPressureDisplay.html", null ],
-      [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", null ],
       [ "StorageInteractable", "classStorageInteractable.html", null ],
       [ "StoveInteractable", "classStoveInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
@@ -194,6 +192,7 @@ var hierarchy =
       [ "UnderbellyFollow", "classUnderbellyFollow.html", null ],
       [ "WaterController", "classWaterController.html", null ],
       [ "WaterFillController", "classWaterFillController.html", null ],
+      [ "WaterValveInteractable", "classWaterValveInteractable.html", null ],
       [ "tester", "classtester.html", null ]
     ] ],
     [ "MatrixUtils.GenericDatatypes.Observer< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Observer.html", null ],

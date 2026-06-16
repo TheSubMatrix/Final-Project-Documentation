@@ -171,8 +171,6 @@ var annotated_dup =
     [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ],
     [ "SplineMovement", "classSplineMovement.html", null ],
     [ "StatusBarManager", "classStatusBarManager.html", null ],
-    [ "SteamPressureDisplay", "classSteamPressureDisplay.html", null ],
-    [ "SteamPressureValveInteractable", "classSteamPressureValveInteractable.html", "classSteamPressureValveInteractable" ],
     [ "StorageInteractable", "classStorageInteractable.html", "classStorageInteractable" ],
     [ "StoveInteractable", "classStoveInteractable.html", "classStoveInteractable" ],
     [ "TerrainCleanup", "classTerrainCleanup.html", null ],
@@ -191,5 +189,6 @@ var annotated_dup =
     [ "Vector4VFXProperty", "classVector4VFXProperty.html", null ],
     [ "VFXProperty", "classVFXProperty.html", null ],
     [ "WaterController", "classWaterController.html", "classWaterController" ],
-    [ "WaterFillController", "classWaterFillController.html", null ]
+    [ "WaterFillController", "classWaterFillController.html", null ],
+    [ "WaterValveInteractable", "classWaterValveInteractable.html", "classWaterValveInteractable" ]
 ];
