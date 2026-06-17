@@ -153,6 +153,7 @@ var annotated_dup =
     [ "SceneTransitionHandler", "classSceneTransitionHandler.html", null ],
     [ "SceneViewScreenshot", "classSceneViewScreenshot.html", null ],
     [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
+    [ "SelectStartingObject", "classSelectStartingObject.html", null ],
     [ "SerializableDictionary", "classSerializableDictionary.html", null ],
     [ "SerializableGrid", "classSerializableGrid.html", null ],
     [ "SerializableGuid", "structSerializableGuid.html", null ],

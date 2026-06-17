@@ -186,6 +186,7 @@ var hierarchy =
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "SceneTransitionerProxy", "classSceneTransitionerProxy.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
+      [ "SelectStartingObject", "classSelectStartingObject.html", null ],
       [ "ShipHealth", "classShipHealth.html", null ],
       [ "ShipHole", "classShipHole.html", null ],
       [ "ShipHoleVisual", "classShipHoleVisual.html", null ],
