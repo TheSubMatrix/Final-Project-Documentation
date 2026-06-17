@@ -166,6 +166,7 @@ var hierarchy =
       [ "MatrixUtils.VFXSystem.VFXEmitter", "classMatrixUtils_1_1VFXSystem_1_1VFXEmitter.html", null ],
       [ "MenuNavigator", "classMenuNavigator.html", null ],
       [ "MenuNavigatorSetup", "classMenuNavigatorSetup.html", null ],
+      [ "PassOutScript", "classPassOutScript.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
       [ "PlayerControlRouter", "classPlayerControlRouter.html", null ],

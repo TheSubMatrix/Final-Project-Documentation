@@ -128,6 +128,7 @@ var annotated_dup =
     [ "NeutralFillState", "classNeutralFillState.html", "classNeutralFillState" ],
     [ "NeutralSelection", "classNeutralSelection.html", null ],
     [ "Optional", "structOptional.html", null ],
+    [ "PassOutScript", "classPassOutScript.html", null ],
     [ "PersistentService", "classPersistentService.html", "classPersistentService" ],
     [ "PersistentSingleton", "classPersistentSingleton.html", "classPersistentSingleton" ],
     [ "PlayerController", "classPlayerController.html", "classPlayerController" ],
