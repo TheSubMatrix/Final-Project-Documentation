@@ -91,6 +91,7 @@ $(document).ready(function(){initNavTree('classPassOutScript.html',''); initResi
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="classPassOutScript-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">PassOutScript Class Reference</div></div>
 </div><!--header-->
@@ -99,15 +100,63 @@ $(document).ready(function(){initNavTree('classPassOutScript.html',''); initResi
 Inheritance diagram for PassOutScript:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="classPassOutScript.png" alt=""/>
- </div></div>
+  <img src="classPassOutScript.png" usemap="#PassOutScript_map" alt=""/>
+  <map id="PassOutScript_map" name="PassOutScript_map">
+<area href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor" alt="IInteractable" shape="rect" coords="112,0,214,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:ac504b3fda1fb70b1d43092f046b2be55" id="r_ac504b3fda1fb70b1d43092f046b2be55"><td class="memItemLeft" align="right" valign="top"><a id="ac504b3fda1fb70b1d43092f046b2be55" name="ac504b3fda1fb70b1d43092f046b2be55"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>PassOut</b> ()</td></tr>
 <tr class="separator:ac504b3fda1fb70b1d43092f046b2be55"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae104cd73c18f740d21cfb2ed05d4ccb4" id="r_ae104cd73c18f740d21cfb2ed05d4ccb4"><td class="memItemLeft" align="right" valign="top"><a id="ae104cd73c18f740d21cfb2ed05d4ccb4" name="ae104cd73c18f740d21cfb2ed05d4ccb4"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>SlowDown</b> ()</td></tr>
+<tr class="separator:ae104cd73c18f740d21cfb2ed05d4ccb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d86d7adfe2a94446d9b8a6ab1059b33" id="r_a1d86d7adfe2a94446d9b8a6ab1059b33"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classInteractionSession.html">InteractionSession</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPassOutScript.html#a1d86d7adfe2a94446d9b8a6ab1059b33">BeginInteraction</a> (<a class="el" href="interfaceIInteractor.html">IInteractor</a> interactor)</td></tr>
+<tr class="memdesc:a1d86d7adfe2a94446d9b8a6ab1059b33"><td class="mdescLeft">&#160;</td><td class="mdescRight">Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>  <br /></td></tr>
+<tr class="separator:a1d86d7adfe2a94446d9b8a6ab1059b33"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ae01718b95b0a6b46cedfc85b48ea2d09" id="r_ae01718b95b0a6b46cedfc85b48ea2d09"><td class="memItemLeft" align="right" valign="top"><a id="ae01718b95b0a6b46cedfc85b48ea2d09" name="ae01718b95b0a6b46cedfc85b48ea2d09"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>isPassedOut</b> = false</td></tr>
+<tr class="separator:ae01718b95b0a6b46cedfc85b48ea2d09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8fbb9bcc08df8d37efa897867183ce07" id="r_a8fbb9bcc08df8d37efa897867183ce07"><td class="memItemLeft" align="right" valign="top"><a id="a8fbb9bcc08df8d37efa897867183ce07" name="a8fbb9bcc08df8d37efa897867183ce07"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>wokeUp</b> = false</td></tr>
+<tr class="separator:a8fbb9bcc08df8d37efa897867183ce07"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a1d86d7adfe2a94446d9b8a6ab1059b33" name="a1d86d7adfe2a94446d9b8a6ab1059b33"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d86d7adfe2a94446d9b8a6ab1059b33">&#9670;&#160;</a></span>BeginInteraction()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classInteractionSession.html">InteractionSession</a> PassOutScript.BeginInteraction </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="interfaceIInteractor.html">IInteractor</a>&#160;</td>
+          <td class="paramname"><em>interactor</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">interactor</td><td>The <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> to begin the interaction with</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>An <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> representing the current state of the interaction</dd></dl>
+
+<p>Implements <a class="el" href="interfaceIInteractable.html#a2f376f4157a8320c8d644b34c941a3a4">IInteractable</a>.</p>
+
+</div>
+</div>
 <hr/>The documentation for this class was generated from the following file:<ul>
 <li>Assets/Scripts/Oh Ship Core/Players/<b>PassOutScript.cs</b></li>
 </ul>

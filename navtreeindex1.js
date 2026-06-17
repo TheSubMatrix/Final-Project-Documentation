@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classPersistentSingleton.html#a39e87a3123ebb10eb13a5494e81537ee":[1,0,69,0],
 "classPlayerControlRouter.html":[1,0,72],
 "classPlayerControlRouter.html#a20a960a5745c314d9d57fab4b35c246f":[1,0,72,0],
 "classPlayerControlRouter.html#a2fc0fb58825edc78a2ecf3dd8cc98434":[1,0,72,3],
@@ -150,12 +151,12 @@ var NAVTREEINDEX1 =
 "interfaceISceneTransitioner.html":[1,0,53],
 "interfaceISpawner.html":[1,0,54],
 "interfaceITransitionHider.html":[1,0,55],
-"interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html":[1,0,0,2,0],
 "interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html":[0,0,0,2,0],
+"interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html":[1,0,0,2,0],
 "interfaceMatrixUtils_1_1EventBus_1_1IEvent.html":[1,0,0,3,1],
 "interfaceMatrixUtils_1_1EventBus_1_1IEvent.html":[0,0,0,3,1],
-"interfaceMatrixUtils_1_1EventBus_1_1IEventBinding.html":[1,0,0,3,2],
 "interfaceMatrixUtils_1_1EventBus_1_1IEventBinding.html":[0,0,0,3,2],
+"interfaceMatrixUtils_1_1EventBus_1_1IEventBinding.html":[1,0,0,3,2],
 "interfaceMatrixUtils_1_1Timers_1_1ITimer.html":[1,0,0,7,3],
 "interfaceMatrixUtils_1_1Timers_1_1ITimer.html":[0,0,0,9,3],
 "namespaceMatrixUtils.html":[0,0,0],
