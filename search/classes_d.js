@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['passoutscript_0',['PassOutScript',['../classPassOutScript.html',1,'']]],
+  ['passoutinteractable_0',['PassOutInteractable',['../classPassOutInteractable.html',1,'']]],
   ['persistentservice_1',['PersistentService',['../classPersistentService.html',1,'']]],
   ['persistentservice_3c_20icharacterselectionreference_20_3e_2',['PersistentService&lt; ICharacterSelectionReference &gt;',['../classPersistentService.html',1,'']]],
   ['persistentservice_3c_20iscenetransitioner_20_3e_3',['PersistentService&lt; ISceneTransitioner &gt;',['../classPersistentService.html',1,'']]],
