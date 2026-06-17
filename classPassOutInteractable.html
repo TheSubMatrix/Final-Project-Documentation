@@ -102,6 +102,7 @@ Inheritance diagram for PassOutInteractable:</div>
   <img src="classPassOutInteractable.png" usemap="#PassOutInteractable_map" alt=""/>
   <map id="PassOutInteractable_map" name="PassOutInteractable_map">
 <area href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor" alt="IInteractable" shape="rect" coords="135,0,260,24"/>
+<area href="interfaceIPromptProvider.html" title="Represents an object that can display a prompt to the user. Used for things like notifying the player..." alt="IPromptProvider" shape="rect" coords="270,0,395,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
@@ -110,11 +111,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:af0884ba2386953d1315e7f8ebc092be0" id="r_af0884ba2386953d1315e7f8ebc092be0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classInteractionSession.html">InteractionSession</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPassOutInteractable.html#af0884ba2386953d1315e7f8ebc092be0">BeginInteraction</a> (<a class="el" href="interfaceIInteractor.html">IInteractor</a> interactor)</td></tr>
 <tr class="memdesc:af0884ba2386953d1315e7f8ebc092be0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>  <br /></td></tr>
 <tr class="separator:af0884ba2386953d1315e7f8ebc092be0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4c50f8fac1fdbee9d47f2e4af85abdf1" id="r_a4c50f8fac1fdbee9d47f2e4af85abdf1"><td class="memItemLeft" align="right" valign="top"><a id="a4c50f8fac1fdbee9d47f2e4af85abdf1" name="a4c50f8fac1fdbee9d47f2e4af85abdf1"></a>
-<a class="el" href="classPromptData.html">PromptData</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GetPromptData</b> ()</td></tr>
+<tr class="memitem:a4c50f8fac1fdbee9d47f2e4af85abdf1" id="r_a4c50f8fac1fdbee9d47f2e4af85abdf1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classPromptData.html">PromptData</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPassOutInteractable.html#a4c50f8fac1fdbee9d47f2e4af85abdf1">GetPromptData</a> ()</td></tr>
 <tr class="separator:a4c50f8fac1fdbee9d47f2e4af85abdf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9882d95fee011693b007a99e6c53cf57" id="r_a9882d95fee011693b007a99e6c53cf57"><td class="memItemLeft" align="right" valign="top"><a id="a9882d95fee011693b007a99e6c53cf57" name="a9882d95fee011693b007a99e6c53cf57"></a>
-Vector3&#160;</td><td class="memItemRight" valign="bottom"><b>GetWidgetWorldPosition</b> ()</td></tr>
+<tr class="memitem:a9882d95fee011693b007a99e6c53cf57" id="r_a9882d95fee011693b007a99e6c53cf57"><td class="memItemLeft" align="right" valign="top">Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPassOutInteractable.html#a9882d95fee011693b007a99e6c53cf57">GetWidgetWorldPosition</a> ()</td></tr>
 <tr class="separator:a9882d95fee011693b007a99e6c53cf57"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
@@ -144,6 +143,44 @@ Vector3&#160;</td><td class="memItemRight" valign="bottom"><b>GetWidgetWorldPosi
 <dl class="section return"><dt>Returns</dt><dd>An <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> representing the current state of the interaction</dd></dl>
 
 <p>Implements <a class="el" href="interfaceIInteractable.html#a2f376f4157a8320c8d644b34c941a3a4">IInteractable</a>.</p>
+
+</div>
+</div>
+<a id="a4c50f8fac1fdbee9d47f2e4af85abdf1" name="a4c50f8fac1fdbee9d47f2e4af85abdf1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4c50f8fac1fdbee9d47f2e4af85abdf1">&#9670;&#160;</a></span>GetPromptData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classPromptData.html">PromptData</a> PassOutInteractable.GetPromptData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="interfaceIPromptProvider.html">IPromptProvider</a>.</p>
+
+</div>
+</div>
+<a id="a9882d95fee011693b007a99e6c53cf57" name="a9882d95fee011693b007a99e6c53cf57"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9882d95fee011693b007a99e6c53cf57">&#9670;&#160;</a></span>GetWidgetWorldPosition()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Vector3 PassOutInteractable.GetWidgetWorldPosition </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="interfaceIPromptProvider.html">IPromptProvider</a>.</p>
 
 </div>
 </div>
