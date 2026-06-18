@@ -151,7 +151,6 @@ var annotated_dup =
     [ "RoutineQueue", "classRoutineQueue.html", "classRoutineQueue" ],
     [ "SceneTransitionerProxy", "classSceneTransitionerProxy.html", null ],
     [ "SceneTransitionHandler", "classSceneTransitionHandler.html", null ],
-    [ "SceneViewScreenshot", "classSceneViewScreenshot.html", null ],
     [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
     [ "SelectStartingObject", "classSelectStartingObject.html", null ],
     [ "SerializableDictionary", "classSerializableDictionary.html", null ],

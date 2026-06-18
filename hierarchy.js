@@ -232,7 +232,6 @@ var hierarchy =
     [ "RandomBag< T >", "structRandomBag.html", null ],
     [ "RandomBag< Transform >", "structRandomBag.html", null ],
     [ "RoutineQueue", "classRoutineQueue.html", null ],
-    [ "SceneViewScreenshot", "classSceneViewScreenshot.html", null ],
     [ "ScriptableObject", null, [
       [ "LightingPreset", "classLightingPreset.html", null ],
       [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ],
