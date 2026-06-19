@@ -174,6 +174,7 @@ var hierarchy =
       [ "PlayerControlRouter", "classPlayerControlRouter.html", null ],
       [ "PlayerController", "classPlayerController.html", null ],
       [ "PlayerControllerDataStore", "classPlayerControllerDataStore.html", null ],
+      [ "PlayerInteractionState", "classPlayerInteractionState.html", null ],
       [ "PlayerInteractions", "classPlayerInteractions.html", null ],
       [ "PlayerInteractor", "classPlayerInteractor.html", null ],
       [ "PlayerLookRaycaster", "classPlayerLookRaycaster.html", null ],

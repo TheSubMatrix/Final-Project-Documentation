@@ -135,6 +135,7 @@ var annotated_dup =
     [ "PlayerControllerDataStore", "classPlayerControllerDataStore.html", null ],
     [ "PlayerControlRouter", "classPlayerControlRouter.html", "classPlayerControlRouter" ],
     [ "PlayerInteractions", "classPlayerInteractions.html", null ],
+    [ "PlayerInteractionState", "classPlayerInteractionState.html", null ],
     [ "PlayerInteractor", "classPlayerInteractor.html", "classPlayerInteractor" ],
     [ "PlayerLookRaycaster", "classPlayerLookRaycaster.html", null ],
     [ "PlayerMainMenuSpawner", "classPlayerMainMenuSpawner.html", null ],
