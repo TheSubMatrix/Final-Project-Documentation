@@ -147,6 +147,7 @@ var annotated_dup =
     [ "PromptDisplay", "classPromptDisplay.html", null ],
     [ "QuitButton", "classQuitButton.html", null ],
     [ "RandomBag", "structRandomBag.html", null ],
+    [ "RandomSoundPlayer", "classRandomSoundPlayer.html", null ],
     [ "RegulatorSingleton", "classRegulatorSingleton.html", "classRegulatorSingleton" ],
     [ "RequireInterfaceAttribute", "classRequireInterfaceAttribute.html", null ],
     [ "RoutineQueue", "classRoutineQueue.html", "classRoutineQueue" ],
