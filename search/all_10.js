@@ -28,7 +28,7 @@ var searchData=
   ['singleton_25',['Singleton',['../classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html',1,'MatrixUtils::GenericDatatypes']]],
   ['singletoninstance_26',['SingletonInstance',['../classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html#a168bdf577cefa5cc5e96bc57545339e0',1,'MatrixUtils::GenericDatatypes::Singleton']]],
   ['skinnedmeshrenderervfxproperty_27',['SkinnedMeshRendererVFXProperty',['../classSkinnedMeshRendererVFXProperty.html',1,'']]],
-  ['so_5fcharacterselectiondata_28',['SO_CharacterSelectionData',['../classSO__CharacterSelectionData.html',1,'']]],
+  ['so_5fcharacterspecificdata_28',['SO_CharacterSpecificData',['../classSO__CharacterSpecificData.html',1,'']]],
   ['so_5fcoaldata_29',['SO_CoalData',['../classSO__CoalData.html',1,'']]],
   ['so_5fcookablefooddata_30',['SO_CookableFoodData',['../classSO__CookableFoodData.html',1,'']]],
   ['so_5fusableterrain_31',['SO_UsableTerrain',['../classSO__UsableTerrain.html',1,'']]],
@@ -38,12 +38,11 @@ var searchData=
   ['soundemitter_35',['SoundEmitter',['../classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html',1,'MatrixUtils::AudioSystem']]],
   ['soundmanager_36',['SoundManager',['../classMatrixUtils_1_1AudioSystem_1_1SoundManager.html',1,'MatrixUtils::AudioSystem']]],
   ['splinemovement_37',['SplineMovement',['../classSplineMovement.html',1,'']]],
-  ['statusbarmanager_38',['StatusBarManager',['../classStatusBarManager.html',1,'']]],
-  ['stencilshadergui_39',['StencilShaderGUI',['../classShaderGraphExtension_1_1StencilShaderGUI.html',1,'ShaderGraphExtension']]],
-  ['stopwatchtimer_40',['StopwatchTimer',['../classMatrixUtils_1_1Timers_1_1StopwatchTimer.html',1,'MatrixUtils::Timers']]],
-  ['storageinteractable_41',['StorageInteractable',['../classStorageInteractable.html',1,'']]],
-  ['subscribe_3c_20t_20_3e_42',['Subscribe&lt; T &gt;',['../classInteractionSession.html#ae308a4f43cf01ee9d515ff6fff294c65',1,'InteractionSession']]],
-  ['system_43',['System',['../namespaceSystem.html',1,'']]],
-  ['system_3a_3aruntime_44',['Runtime',['../namespaceSystem_1_1Runtime.html',1,'System']]],
-  ['system_3a_3aruntime_3a_3acompilerservices_45',['CompilerServices',['../namespaceSystem_1_1Runtime_1_1CompilerServices.html',1,'System::Runtime']]]
+  ['stencilshadergui_38',['StencilShaderGUI',['../classShaderGraphExtension_1_1StencilShaderGUI.html',1,'ShaderGraphExtension']]],
+  ['stopwatchtimer_39',['StopwatchTimer',['../classMatrixUtils_1_1Timers_1_1StopwatchTimer.html',1,'MatrixUtils::Timers']]],
+  ['storageinteractable_40',['StorageInteractable',['../classStorageInteractable.html',1,'']]],
+  ['subscribe_3c_20t_20_3e_41',['Subscribe&lt; T &gt;',['../classInteractionSession.html#ae308a4f43cf01ee9d515ff6fff294c65',1,'InteractionSession']]],
+  ['system_42',['System',['../namespaceSystem.html',1,'']]],
+  ['system_3a_3aruntime_43',['Runtime',['../namespaceSystem_1_1Runtime.html',1,'System']]],
+  ['system_3a_3aruntime_3a_3acompilerservices_44',['CompilerServices',['../namespaceSystem_1_1Runtime_1_1CompilerServices.html',1,'System::Runtime']]]
 ];

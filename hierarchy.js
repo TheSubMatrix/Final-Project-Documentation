@@ -17,8 +17,8 @@ var hierarchy =
     ] ],
     [ "FishingMiniGame", "classFishingMiniGame.html", null ],
     [ "FishingMiniGameData", "classFishingMiniGameData.html", null ],
-    [ "ICharacterSelectionReference", "interfaceICharacterSelectionReference.html", [
-      [ "CharacterSelectionReference", "classCharacterSelectionReference.html", null ]
+    [ "ICharacterSpecificDataProvider", "interfaceICharacterSpecificDataProvider.html", [
+      [ "CharacterSpecificDataProvider", "classCharacterSpecificDataProvider.html", null ]
     ] ],
     [ "IDamageable", "interfaceIDamageable.html", [
       [ "ShipHealth", "classShipHealth.html", null ]
@@ -171,6 +171,7 @@ var hierarchy =
       [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "HungerAndThirst", "classHungerAndThirst.html", null ],
+      [ "HungerAndThirstVisualManager", "classHungerAndThirstVisualManager.html", null ],
       [ "LightingManager", "classLightingManager.html", null ],
       [ "MainMenuHandler", "classMainMenuHandler.html", null ],
       [ "MatrixUtils.AudioSystem.SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],
@@ -207,7 +208,6 @@ var hierarchy =
       [ "ShipMovement", "classShipMovement.html", null ],
       [ "ShipRadar", "classShipRadar.html", null ],
       [ "ShipSinkCheck", "classShipSinkCheck.html", null ],
-      [ "StatusBarManager", "classStatusBarManager.html", null ],
       [ "StorageInteractable", "classStorageInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
       [ "TerrainSpawner", "classTerrainSpawner.html", null ],
@@ -221,8 +221,8 @@ var hierarchy =
     ] ],
     [ "MatrixUtils.GenericDatatypes.Observer< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Observer.html", null ],
     [ "MatrixUtils.GenericDatatypes.Observer< float >", "classMatrixUtils_1_1GenericDatatypes_1_1Observer.html", null ],
-    [ "PersistentService< ICharacterSelectionReference >", "classPersistentService.html", [
-      [ "CharacterSelectionReference", "classCharacterSelectionReference.html", null ]
+    [ "PersistentService< ICharacterSpecificDataProvider >", "classPersistentService.html", [
+      [ "CharacterSpecificDataProvider", "classCharacterSpecificDataProvider.html", null ]
     ] ],
     [ "PersistentService< ISceneTransitioner >", "classPersistentService.html", [
       [ "SceneTransitionHandler", "classSceneTransitionHandler.html", null ]
@@ -249,7 +249,7 @@ var hierarchy =
     [ "ScriptableObject", null, [
       [ "LightingPreset", "classLightingPreset.html", null ],
       [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ],
-      [ "SO_CharacterSelectionData", "classSO__CharacterSelectionData.html", null ],
+      [ "SO_CharacterSpecificData", "classSO__CharacterSpecificData.html", null ],
       [ "SO_CoalData", "classSO__CoalData.html", null ],
       [ "SO_CookableFoodData", "classSO__CookableFoodData.html", null ],
       [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],

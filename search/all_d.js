@@ -3,7 +3,7 @@ var searchData=
   ['parameters_0',['Parameters',['../classSerializedMethod.html#a97a7c3b2273f8d2d919e3a96981e62a6',1,'SerializedMethod']]],
   ['passoutinteractable_1',['PassOutInteractable',['../classPassOutInteractable.html',1,'']]],
   ['persistentservice_2',['PersistentService',['../classPersistentService.html',1,'']]],
-  ['persistentservice_3c_20icharacterselectionreference_20_3e_3',['PersistentService&lt; ICharacterSelectionReference &gt;',['../classPersistentService.html',1,'']]],
+  ['persistentservice_3c_20icharacterspecificdataprovider_20_3e_3',['PersistentService&lt; ICharacterSpecificDataProvider &gt;',['../classPersistentService.html',1,'']]],
   ['persistentservice_3c_20iscenetransitioner_20_3e_4',['PersistentService&lt; ISceneTransitioner &gt;',['../classPersistentService.html',1,'']]],
   ['persistentsingleton_5',['PersistentSingleton',['../classPersistentSingleton.html',1,'']]],
   ['persistentsingleton_3c_20soundmanager_20_3e_6',['PersistentSingleton&lt; SoundManager &gt;',['../classPersistentSingleton.html',1,'']]],

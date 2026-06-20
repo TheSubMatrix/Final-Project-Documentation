@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['icharacterselectionreference_0',['ICharacterSelectionReference',['../interfaceICharacterSelectionReference.html',1,'']]],
+  ['icharacterspecificdataprovider_0',['ICharacterSpecificDataProvider',['../interfaceICharacterSpecificDataProvider.html',1,'']]],
   ['idamageable_1',['IDamageable',['../interfaceIDamageable.html',1,'']]],
   ['idependencyprovider_2',['IDependencyProvider',['../interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html',1,'MatrixUtils::DependencyInjection']]],
   ['ievent_3',['IEvent',['../interfaceMatrixUtils_1_1EventBus_1_1IEvent.html',1,'MatrixUtils::EventBus']]],

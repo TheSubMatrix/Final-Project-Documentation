@@ -4,7 +4,7 @@ var searchData=
   ['changefillstate_1',['ChangeFillState',['../classChangeFillState.html',1,'']]],
   ['characterselection_2',['CharacterSelection',['../classCharacterSelection.html',1,'']]],
   ['characterselectionhandler_3',['CharacterSelectionHandler',['../classCharacterSelectionHandler.html',1,'']]],
-  ['characterselectionreference_4',['CharacterSelectionReference',['../classCharacterSelectionReference.html',1,'']]],
+  ['characterspecificdataprovider_4',['CharacterSpecificDataProvider',['../classCharacterSpecificDataProvider.html',1,'']]],
   ['clampvector2_5',['ClampVector2',['../classMatrixUtils_1_1ClampVector2.html',1,'MatrixUtils']]],
   ['classselectorattribute_6',['ClassSelectorAttribute',['../classMatrixUtils_1_1Attributes_1_1ClassSelectorAttribute.html',1,'MatrixUtils::Attributes']]],
   ['coalmanager_7',['CoalManager',['../classCoalManager.html',1,'']]],

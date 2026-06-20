@@ -2,7 +2,7 @@ var searchData=
 [
   ['passoutinteractable_0',['PassOutInteractable',['../classPassOutInteractable.html',1,'']]],
   ['persistentservice_1',['PersistentService',['../classPersistentService.html',1,'']]],
-  ['persistentservice_3c_20icharacterselectionreference_20_3e_2',['PersistentService&lt; ICharacterSelectionReference &gt;',['../classPersistentService.html',1,'']]],
+  ['persistentservice_3c_20icharacterspecificdataprovider_20_3e_2',['PersistentService&lt; ICharacterSpecificDataProvider &gt;',['../classPersistentService.html',1,'']]],
   ['persistentservice_3c_20iscenetransitioner_20_3e_3',['PersistentService&lt; ISceneTransitioner &gt;',['../classPersistentService.html',1,'']]],
   ['persistentsingleton_4',['PersistentSingleton',['../classPersistentSingleton.html',1,'']]],
   ['persistentsingleton_3c_20soundmanager_20_3e_5',['PersistentSingleton&lt; SoundManager &gt;',['../classPersistentSingleton.html',1,'']]],

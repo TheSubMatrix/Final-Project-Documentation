@@ -6,7 +6,7 @@ var searchData=
   ['changefillstate_3',['ChangeFillState',['../classChangeFillState.html',1,'']]],
   ['characterselection_4',['CharacterSelection',['../classCharacterSelection.html',1,'']]],
   ['characterselectionhandler_5',['CharacterSelectionHandler',['../classCharacterSelectionHandler.html',1,'']]],
-  ['characterselectionreference_6',['CharacterSelectionReference',['../classCharacterSelectionReference.html',1,'']]],
+  ['characterspecificdataprovider_6',['CharacterSpecificDataProvider',['../classCharacterSpecificDataProvider.html',1,'']]],
   ['clampvector2_7',['ClampVector2',['../classMatrixUtils_1_1ClampVector2.html',1,'MatrixUtils']]],
   ['classselectorattribute_8',['ClassSelectorAttribute',['../classMatrixUtils_1_1Attributes_1_1ClassSelectorAttribute.html',1,'MatrixUtils::Attributes']]],
   ['coalmanager_9',['CoalManager',['../classCoalManager.html',1,'']]],

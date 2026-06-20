@@ -3,5 +3,6 @@ var searchData=
   ['hatchinteractable_0',['HatchInteractable',['../classHatchInteractable.html',1,'']]],
   ['heldobjectlocation_1',['HeldObjectLocation',['../classHeldObjectLocation.html',1,'']]],
   ['helminteractable_2',['HelmInteractable',['../classHelmInteractable.html',1,'']]],
-  ['hungerandthirst_3',['HungerAndThirst',['../classHungerAndThirst.html',1,'']]]
+  ['hungerandthirst_3',['HungerAndThirst',['../classHungerAndThirst.html',1,'']]],
+  ['hungerandthirstvisualmanager_4',['HungerAndThirstVisualManager',['../classHungerAndThirstVisualManager.html',1,'']]]
 ];

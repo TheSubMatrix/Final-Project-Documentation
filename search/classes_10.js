@@ -25,7 +25,7 @@ var searchData=
   ['showifattribute_22',['ShowIfAttribute',['../classMatrixUtils_1_1Attributes_1_1ShowIfAttribute.html',1,'MatrixUtils::Attributes']]],
   ['singleton_23',['Singleton',['../classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html',1,'MatrixUtils::GenericDatatypes']]],
   ['skinnedmeshrenderervfxproperty_24',['SkinnedMeshRendererVFXProperty',['../classSkinnedMeshRendererVFXProperty.html',1,'']]],
-  ['so_5fcharacterselectiondata_25',['SO_CharacterSelectionData',['../classSO__CharacterSelectionData.html',1,'']]],
+  ['so_5fcharacterspecificdata_25',['SO_CharacterSpecificData',['../classSO__CharacterSpecificData.html',1,'']]],
   ['so_5fcoaldata_26',['SO_CoalData',['../classSO__CoalData.html',1,'']]],
   ['so_5fcookablefooddata_27',['SO_CookableFoodData',['../classSO__CookableFoodData.html',1,'']]],
   ['so_5fusableterrain_28',['SO_UsableTerrain',['../classSO__UsableTerrain.html',1,'']]],
@@ -35,8 +35,7 @@ var searchData=
   ['soundemitter_32',['SoundEmitter',['../classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html',1,'MatrixUtils::AudioSystem']]],
   ['soundmanager_33',['SoundManager',['../classMatrixUtils_1_1AudioSystem_1_1SoundManager.html',1,'MatrixUtils::AudioSystem']]],
   ['splinemovement_34',['SplineMovement',['../classSplineMovement.html',1,'']]],
-  ['statusbarmanager_35',['StatusBarManager',['../classStatusBarManager.html',1,'']]],
-  ['stencilshadergui_36',['StencilShaderGUI',['../classShaderGraphExtension_1_1StencilShaderGUI.html',1,'ShaderGraphExtension']]],
-  ['stopwatchtimer_37',['StopwatchTimer',['../classMatrixUtils_1_1Timers_1_1StopwatchTimer.html',1,'MatrixUtils::Timers']]],
-  ['storageinteractable_38',['StorageInteractable',['../classStorageInteractable.html',1,'']]]
+  ['stencilshadergui_35',['StencilShaderGUI',['../classShaderGraphExtension_1_1StencilShaderGUI.html',1,'ShaderGraphExtension']]],
+  ['stopwatchtimer_36',['StopwatchTimer',['../classMatrixUtils_1_1Timers_1_1StopwatchTimer.html',1,'MatrixUtils::Timers']]],
+  ['storageinteractable_37',['StorageInteractable',['../classStorageInteractable.html',1,'']]]
 ];
