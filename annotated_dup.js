@@ -123,6 +123,7 @@ var annotated_dup =
     [ "ISceneTransitioner", "interfaceISceneTransitioner.html", null ],
     [ "ISpawner", "interfaceISpawner.html", null ],
     [ "ITransitionHider", "interfaceITransitionHider.html", null ],
+    [ "IUsableItem", "interfaceIUsableItem.html", null ],
     [ "LightingManager", "classLightingManager.html", null ],
     [ "LightingPreset", "classLightingPreset.html", null ],
     [ "MainMenuHandler", "classMainMenuHandler.html", null ],

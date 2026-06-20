@@ -43,5 +43,6 @@ var searchData=
   ['isinteracting_40',['isinteracting',['../interfaceIInteractor.html#add40295f5b68f9cc154d01b688f6dbe6',1,'IInteractor.IsInteracting()'],['../classPlayerInteractor.html#a571416a0e43c59ec34c67b063eb50d79',1,'PlayerInteractor.IsInteracting()']]],
   ['ispawner_41',['ISpawner',['../interfaceISpawner.html',1,'']]],
   ['itimer_42',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]],
-  ['itransitionhider_43',['ITransitionHider',['../interfaceITransitionHider.html',1,'']]]
+  ['itransitionhider_43',['ITransitionHider',['../interfaceITransitionHider.html',1,'']]],
+  ['iusableitem_44',['IUsableItem',['../interfaceIUsableItem.html',1,'']]]
 ];

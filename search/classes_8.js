@@ -35,5 +35,6 @@ var searchData=
   ['isexternalinit_32',['IsExternalInit',['../classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html',1,'System::Runtime::CompilerServices']]],
   ['ispawner_33',['ISpawner',['../interfaceISpawner.html',1,'']]],
   ['itimer_34',['ITimer',['../interfaceMatrixUtils_1_1Timers_1_1ITimer.html',1,'MatrixUtils::Timers']]],
-  ['itransitionhider_35',['ITransitionHider',['../interfaceITransitionHider.html',1,'']]]
+  ['itransitionhider_35',['ITransitionHider',['../interfaceITransitionHider.html',1,'']]],
+  ['iusableitem_36',['IUsableItem',['../interfaceIUsableItem.html',1,'']]]
 ];

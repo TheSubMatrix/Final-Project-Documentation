@@ -149,6 +149,11 @@ var hierarchy =
     [ "ITransitionHider", "interfaceITransitionHider.html", [
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ]
     ] ],
+    [ "IUsableItem", "interfaceIUsableItem.html", [
+      [ "FoodClass", "classFoodClass.html", [
+        [ "Fish", "classFish.html", null ]
+      ] ]
+    ] ],
     [ "MatrixUtils.Logging.CustomLogger_SO.LogSettings", "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html", null ],
     [ "MonoBehaviour", null, [
       [ "BoatCoordinate", "classBoatCoordinate.html", null ],
@@ -163,9 +168,7 @@ var hierarchy =
       [ "EndGame", "classEndGame.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "FishingUI", "classFishingUI.html", null ],
-      [ "FoodClass", "classFoodClass.html", [
-        [ "Fish", "classFish.html", null ]
-      ] ],
+      [ "FoodClass", "classFoodClass.html", null ],
       [ "GramophoneInteractable", "classGramophoneInteractable.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
