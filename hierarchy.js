@@ -162,6 +162,7 @@ var hierarchy =
       [ "EndGame", "classEndGame.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "FishingUI", "classFishingUI.html", null ],
+      [ "FoodClass", "classFoodClass.html", null ],
       [ "GramophoneInteractable", "classGramophoneInteractable.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
@@ -248,6 +249,7 @@ var hierarchy =
       [ "MatrixUtils.Logging.CustomLogger_SO", "classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html", null ],
       [ "SO_CharacterSelectionData", "classSO__CharacterSelectionData.html", null ],
       [ "SO_CoalData", "classSO__CoalData.html", null ],
+      [ "SO_CookableFoodData", "classSO__CookableFoodData.html", null ],
       [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],
       [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ]
     ] ],
