@@ -90,6 +90,7 @@ var annotated_dup =
     [ "FishingUI", "classFishingUI.html", null ],
     [ "FloatVFXProperty", "classFloatVFXProperty.html", null ],
     [ "GradientVFXProperty", "classGradientVFXProperty.html", null ],
+    [ "GramophoneInteractable", "classGramophoneInteractable.html", "classGramophoneInteractable" ],
     [ "GraphicsBufferVFXProperty", "classGraphicsBufferVFXProperty.html", null ],
     [ "HatchInteractable", "classHatchInteractable.html", "classHatchInteractable" ],
     [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],

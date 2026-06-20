@@ -60,6 +60,7 @@ var hierarchy =
       [ "CoalManager", "classCoalManager.html", null ],
       [ "CookFish", "classCookFish.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
+      [ "GramophoneInteractable", "classGramophoneInteractable.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "PassOutInteractable", "classPassOutInteractable.html", null ],
@@ -117,6 +118,7 @@ var hierarchy =
     [ "IPromptProvider", "interfaceIPromptProvider.html", [
       [ "CoalManager", "classCoalManager.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
+      [ "GramophoneInteractable", "classGramophoneInteractable.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "PassOutInteractable", "classPassOutInteractable.html", null ],
@@ -160,6 +162,7 @@ var hierarchy =
       [ "EndGame", "classEndGame.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "FishingUI", "classFishingUI.html", null ],
+      [ "GramophoneInteractable", "classGramophoneInteractable.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
