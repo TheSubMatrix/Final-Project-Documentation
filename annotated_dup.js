@@ -103,6 +103,7 @@ var annotated_dup =
     [ "IInteractable", "interfaceIInteractable.html", "interfaceIInteractable" ],
     [ "IInteractor", "interfaceIInteractor.html", "interfaceIInteractor" ],
     [ "IMenuHandler", "interfaceIMenuHandler.html", null ],
+    [ "INotificationMessenger", "interfaceINotificationMessenger.html", null ],
     [ "InputData", "classInputData.html", null ],
     [ "InteractionSession", "classInteractionSession.html", "classInteractionSession" ],
     [ "InterfaceArgs", "structInterfaceArgs.html", null ],
@@ -193,6 +194,8 @@ var annotated_dup =
     [ "Vector3VFXProperty", "classVector3VFXProperty.html", null ],
     [ "Vector4VFXProperty", "classVector4VFXProperty.html", null ],
     [ "VFXProperty", "classVFXProperty.html", null ],
+    [ "WarningIconMessageListener", "classWarningIconMessageListener.html", null ],
+    [ "WarningIconMessenger", "classWarningIconMessenger.html", null ],
     [ "WaterController", "classWaterController.html", "classWaterController" ],
     [ "WaterFillController", "classWaterFillController.html", null ],
     [ "WaterValveInteractable", "classWaterValveInteractable.html", "classWaterValveInteractable" ]

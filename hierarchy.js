@@ -27,7 +27,8 @@ var hierarchy =
       [ "CharacterSelectionHandler", "classCharacterSelectionHandler.html", null ],
       [ "MainMenuHandler", "classMainMenuHandler.html", null ],
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
-      [ "PersistentService< TInterface >", "classPersistentService.html", null ]
+      [ "PersistentService< TInterface >", "classPersistentService.html", null ],
+      [ "WarningIconMessenger", "classWarningIconMessenger.html", null ]
     ] ],
     [ "IDictionary", null, [
       [ "SerializableDictionary< TKey, TValue >", "classSerializableDictionary.html", null ]
@@ -73,6 +74,9 @@ var hierarchy =
     [ "IMenuHandler", "interfaceIMenuHandler.html", [
       [ "CharacterSelectionHandler", "classCharacterSelectionHandler.html", null ],
       [ "MainMenuHandler", "classMainMenuHandler.html", null ]
+    ] ],
+    [ "INotificationMessenger", "interfaceINotificationMessenger.html", [
+      [ "WarningIconMessenger", "classWarningIconMessenger.html", null ]
     ] ],
     [ "InputData", "classInputData.html", null ],
     [ "InputProcessor", null, [
@@ -202,6 +206,8 @@ var hierarchy =
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
       [ "TerrainSpawner", "classTerrainSpawner.html", null ],
       [ "UnderbellyFollow", "classUnderbellyFollow.html", null ],
+      [ "WarningIconMessageListener", "classWarningIconMessageListener.html", null ],
+      [ "WarningIconMessenger", "classWarningIconMessenger.html", null ],
       [ "WaterController", "classWaterController.html", null ],
       [ "WaterFillController", "classWaterFillController.html", null ],
       [ "WaterValveInteractable", "classWaterValveInteractable.html", null ],
