@@ -38,6 +38,5 @@ var searchData=
   ['statusbarmanager_35',['StatusBarManager',['../classStatusBarManager.html',1,'']]],
   ['stencilshadergui_36',['StencilShaderGUI',['../classShaderGraphExtension_1_1StencilShaderGUI.html',1,'ShaderGraphExtension']]],
   ['stopwatchtimer_37',['StopwatchTimer',['../classMatrixUtils_1_1Timers_1_1StopwatchTimer.html',1,'MatrixUtils::Timers']]],
-  ['storageinteractable_38',['StorageInteractable',['../classStorageInteractable.html',1,'']]],
-  ['stoveinteractable_39',['StoveInteractable',['../classStoveInteractable.html',1,'']]]
+  ['storageinteractable_38',['StorageInteractable',['../classStorageInteractable.html',1,'']]]
 ];

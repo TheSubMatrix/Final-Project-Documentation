@@ -42,9 +42,8 @@ var searchData=
   ['stencilshadergui_39',['StencilShaderGUI',['../classShaderGraphExtension_1_1StencilShaderGUI.html',1,'ShaderGraphExtension']]],
   ['stopwatchtimer_40',['StopwatchTimer',['../classMatrixUtils_1_1Timers_1_1StopwatchTimer.html',1,'MatrixUtils::Timers']]],
   ['storageinteractable_41',['StorageInteractable',['../classStorageInteractable.html',1,'']]],
-  ['stoveinteractable_42',['StoveInteractable',['../classStoveInteractable.html',1,'']]],
-  ['subscribe_3c_20t_20_3e_43',['Subscribe&lt; T &gt;',['../classInteractionSession.html#ae308a4f43cf01ee9d515ff6fff294c65',1,'InteractionSession']]],
-  ['system_44',['System',['../namespaceSystem.html',1,'']]],
-  ['system_3a_3aruntime_45',['Runtime',['../namespaceSystem_1_1Runtime.html',1,'System']]],
-  ['system_3a_3aruntime_3a_3acompilerservices_46',['CompilerServices',['../namespaceSystem_1_1Runtime_1_1CompilerServices.html',1,'System::Runtime']]]
+  ['subscribe_3c_20t_20_3e_42',['Subscribe&lt; T &gt;',['../classInteractionSession.html#ae308a4f43cf01ee9d515ff6fff294c65',1,'InteractionSession']]],
+  ['system_43',['System',['../namespaceSystem.html',1,'']]],
+  ['system_3a_3aruntime_44',['Runtime',['../namespaceSystem_1_1Runtime.html',1,'System']]],
+  ['system_3a_3aruntime_3a_3acompilerservices_45',['CompilerServices',['../namespaceSystem_1_1Runtime_1_1CompilerServices.html',1,'System::Runtime']]]
 ];

@@ -12,7 +12,8 @@ var searchData=
   ['collisiondamager_9',['CollisionDamager',['../classCollisionDamager.html',1,'']]],
   ['colorvfxproperty_10',['ColorVFXProperty',['../classColorVFXProperty.html',1,'']]],
   ['cookfish_11',['CookFish',['../classCookFish.html',1,'']]],
-  ['coroutinewithdata_12',['CoroutineWithData',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html',1,'MatrixUtils::GenericDatatypes']]],
-  ['countdowntimer_13',['CountdownTimer',['../classMatrixUtils_1_1Timers_1_1CountdownTimer.html',1,'MatrixUtils::Timers']]],
-  ['customlogger_5fso_14',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
+  ['cookinginteractable_12',['CookingInteractable',['../classCookingInteractable.html',1,'']]],
+  ['coroutinewithdata_13',['CoroutineWithData',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html',1,'MatrixUtils::GenericDatatypes']]],
+  ['countdowntimer_14',['CountdownTimer',['../classMatrixUtils_1_1Timers_1_1CountdownTimer.html',1,'MatrixUtils::Timers']]],
+  ['customlogger_5fso_15',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
 ];

@@ -59,6 +59,7 @@ var hierarchy =
     [ "IInteractable", "interfaceIInteractable.html", [
       [ "CoalManager", "classCoalManager.html", null ],
       [ "CookFish", "classCookFish.html", null ],
+      [ "CookingInteractable", "classCookingInteractable.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "GramophoneInteractable", "classGramophoneInteractable.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
@@ -66,7 +67,6 @@ var hierarchy =
       [ "PassOutInteractable", "classPassOutInteractable.html", null ],
       [ "ShipHole", "classShipHole.html", null ],
       [ "StorageInteractable", "classStorageInteractable.html", null ],
-      [ "StoveInteractable", "classStoveInteractable.html", null ],
       [ "WaterValveInteractable", "classWaterValveInteractable.html", null ]
     ] ],
     [ "IInteractor", "interfaceIInteractor.html", [
@@ -117,13 +117,13 @@ var hierarchy =
     ] ],
     [ "IPromptProvider", "interfaceIPromptProvider.html", [
       [ "CoalManager", "classCoalManager.html", null ],
+      [ "CookingInteractable", "classCookingInteractable.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "GramophoneInteractable", "classGramophoneInteractable.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "PassOutInteractable", "classPassOutInteractable.html", null ],
       [ "ShipHole", "classShipHole.html", null ],
-      [ "StoveInteractable", "classStoveInteractable.html", null ],
       [ "WaterValveInteractable", "classWaterValveInteractable.html", null ]
     ] ],
     [ "ISceneTransitioner", "interfaceISceneTransitioner.html", [
@@ -158,11 +158,14 @@ var hierarchy =
       [ "CoalUI", "classCoalUI.html", null ],
       [ "CollisionDamager", "classCollisionDamager.html", null ],
       [ "CookFish", "classCookFish.html", null ],
+      [ "CookingInteractable", "classCookingInteractable.html", null ],
       [ "DelegateExtensions", "classDelegateExtensions.html", null ],
       [ "EndGame", "classEndGame.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "FishingUI", "classFishingUI.html", null ],
-      [ "FoodClass", "classFoodClass.html", null ],
+      [ "FoodClass", "classFoodClass.html", [
+        [ "Fish", "classFish.html", null ]
+      ] ],
       [ "GramophoneInteractable", "classGramophoneInteractable.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
@@ -206,7 +209,6 @@ var hierarchy =
       [ "ShipSinkCheck", "classShipSinkCheck.html", null ],
       [ "StatusBarManager", "classStatusBarManager.html", null ],
       [ "StorageInteractable", "classStorageInteractable.html", null ],
-      [ "StoveInteractable", "classStoveInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
       [ "TerrainSpawner", "classTerrainSpawner.html", null ],
       [ "UnderbellyFollow", "classUnderbellyFollow.html", null ],
