@@ -214,6 +214,7 @@ var hierarchy =
       [ "StorageInteractable", "classStorageInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
       [ "TerrainSpawner", "classTerrainSpawner.html", null ],
+      [ "TutorialOrchestrator", "classTutorialOrchestrator.html", null ],
       [ "UnderbellyFollow", "classUnderbellyFollow.html", null ],
       [ "WarningIconMessageListener", "classWarningIconMessageListener.html", null ],
       [ "WarningIconMessenger", "classWarningIconMessenger.html", null ],
@@ -283,6 +284,7 @@ var hierarchy =
     [ "MatrixUtils.Timers.Timer< StopwatchTimer >", "classMatrixUtils_1_1Timers_1_1Timer.html", [
       [ "MatrixUtils.Timers.StopwatchTimer", "classMatrixUtils_1_1Timers_1_1StopwatchTimer.html", null ]
     ] ],
+    [ "TutorialStep", "classTutorialStep.html", null ],
     [ "UnityEventFromInputAction", "classUnityEventFromInputAction.html", null ],
     [ "AspectRatioElement.UxmlFactory", "classAspectRatioElement_1_1UxmlFactory.html", null ],
     [ "VisualElement.UxmlTraits", null, [
