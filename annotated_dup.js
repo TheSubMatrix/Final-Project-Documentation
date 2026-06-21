@@ -132,6 +132,7 @@ var annotated_dup =
     [ "MenuNavigator", "classMenuNavigator.html", "classMenuNavigator" ],
     [ "MenuNavigatorSetup", "classMenuNavigatorSetup.html", null ],
     [ "MeshVFXProperty", "classMeshVFXProperty.html", null ],
+    [ "MovementTutorialStep", "classMovementTutorialStep.html", null ],
     [ "NeutralFillState", "classNeutralFillState.html", "classNeutralFillState" ],
     [ "NeutralSelection", "classNeutralSelection.html", null ],
     [ "Optional", "structOptional.html", null ],

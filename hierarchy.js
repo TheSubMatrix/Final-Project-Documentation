@@ -284,7 +284,9 @@ var hierarchy =
     [ "MatrixUtils.Timers.Timer< StopwatchTimer >", "classMatrixUtils_1_1Timers_1_1Timer.html", [
       [ "MatrixUtils.Timers.StopwatchTimer", "classMatrixUtils_1_1Timers_1_1StopwatchTimer.html", null ]
     ] ],
-    [ "TutorialStep", "classTutorialStep.html", null ],
+    [ "TutorialStep", "classTutorialStep.html", [
+      [ "MovementTutorialStep", "classMovementTutorialStep.html", null ]
+    ] ],
     [ "UnityEventFromInputAction", "classUnityEventFromInputAction.html", null ],
     [ "AspectRatioElement.UxmlFactory", "classAspectRatioElement_1_1UxmlFactory.html", null ],
     [ "VisualElement.UxmlTraits", null, [
