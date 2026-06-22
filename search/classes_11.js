@@ -13,7 +13,8 @@ var searchData=
   ['timer_3c_20intervaltimer_20_3e_10',['Timer&lt; IntervalTimer &gt;',['../classMatrixUtils_1_1Timers_1_1Timer.html',1,'MatrixUtils::Timers']]],
   ['timer_3c_20stopwatchtimer_20_3e_11',['Timer&lt; StopwatchTimer &gt;',['../classMatrixUtils_1_1Timers_1_1Timer.html',1,'MatrixUtils::Timers']]],
   ['tutorialcontext_12',['TutorialContext',['../structTutorialContext.html',1,'']]],
-  ['tutorialorchestrator_13',['TutorialOrchestrator',['../classTutorialOrchestrator.html',1,'']]],
-  ['tutorialstep_14',['TutorialStep',['../classTutorialStep.html',1,'']]],
-  ['typefilterattribute_15',['TypeFilterAttribute',['../classTypeFilterAttribute.html',1,'']]]
+  ['tutorialmessagedisplay_13',['TutorialMessageDisplay',['../classTutorialMessageDisplay.html',1,'']]],
+  ['tutorialorchestrator_14',['TutorialOrchestrator',['../classTutorialOrchestrator.html',1,'']]],
+  ['tutorialstep_15',['TutorialStep',['../classTutorialStep.html',1,'']]],
+  ['typefilterattribute_16',['TypeFilterAttribute',['../classTypeFilterAttribute.html',1,'']]]
 ];

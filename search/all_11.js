@@ -23,7 +23,8 @@ var searchData=
   ['tryremovecompleteevent_20',['TryRemoveCompleteEvent',['../classTutorialStep.html#a05d8a4198eb2954f3ed1a20bcac823fc',1,'TutorialStep']]],
   ['tryremovestartevent_21',['TryRemoveStartEvent',['../classTutorialStep.html#a9baccfc0b960c83ec224982493d0de36',1,'TutorialStep']]],
   ['tutorialcontext_22',['TutorialContext',['../structTutorialContext.html',1,'']]],
-  ['tutorialorchestrator_23',['TutorialOrchestrator',['../classTutorialOrchestrator.html',1,'']]],
-  ['tutorialstep_24',['TutorialStep',['../classTutorialStep.html',1,'']]],
-  ['typefilterattribute_25',['TypeFilterAttribute',['../classTypeFilterAttribute.html',1,'']]]
+  ['tutorialmessagedisplay_23',['TutorialMessageDisplay',['../classTutorialMessageDisplay.html',1,'']]],
+  ['tutorialorchestrator_24',['TutorialOrchestrator',['../classTutorialOrchestrator.html',1,'']]],
+  ['tutorialstep_25',['TutorialStep',['../classTutorialStep.html',1,'']]],
+  ['typefilterattribute_26',['TypeFilterAttribute',['../classTypeFilterAttribute.html',1,'']]]
 ];

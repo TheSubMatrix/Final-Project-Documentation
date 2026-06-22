@@ -76,6 +76,9 @@ var hierarchy =
       [ "CharacterSelectionHandler", "classCharacterSelectionHandler.html", null ],
       [ "MainMenuHandler", "classMainMenuHandler.html", null ]
     ] ],
+    [ "IMessageDisplay", "interfaceIMessageDisplay.html", [
+      [ "TutorialMessageDisplay", "classTutorialMessageDisplay.html", null ]
+    ] ],
     [ "INotificationMessenger", "interfaceINotificationMessenger.html", [
       [ "WarningIconMessenger", "classWarningIconMessenger.html", null ]
     ] ],
@@ -87,6 +90,7 @@ var hierarchy =
     [ "CalculateObjectVelocity.InputProperties", "classCalculateObjectVelocity_1_1InputProperties.html", null ],
     [ "InteractionSession", "classInteractionSession.html", null ],
     [ "InterfaceArgs", "structInterfaceArgs.html", null ],
+    [ "InterfaceReference< IMessageDisplay >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< IPlayerControllable >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< IPlayerControllable, MonoBehaviour >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< IPlayerController >", "classInterfaceReference.html", null ],
@@ -215,6 +219,7 @@ var hierarchy =
       [ "StorageInteractable", "classStorageInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
       [ "TerrainSpawner", "classTerrainSpawner.html", null ],
+      [ "TutorialMessageDisplay", "classTutorialMessageDisplay.html", null ],
       [ "TutorialOrchestrator", "classTutorialOrchestrator.html", null ],
       [ "UnderbellyFollow", "classUnderbellyFollow.html", null ],
       [ "WarningIconMessageListener", "classWarningIconMessageListener.html", null ],
