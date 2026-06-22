@@ -123,6 +123,7 @@ var hierarchy =
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "PassOutInteractable", "classPassOutInteractable.html", null ],
       [ "ShipHole", "classShipHole.html", null ],
+      [ "StorageInteractable", "classStorageInteractable.html", null ],
       [ "WaterValveInteractable", "classWaterValveInteractable.html", null ]
     ] ],
     [ "ISceneTransitioner", "interfaceISceneTransitioner.html", [

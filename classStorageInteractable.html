@@ -91,7 +91,6 @@ $(document).ready(function(){initNavTree('classStorageInteractable.html',''); in
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="classStorageInteractable-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">StorageInteractable Class Reference</div></div>
 </div><!--header-->
@@ -103,6 +102,7 @@ Inheritance diagram for StorageInteractable:</div>
   <img src="classStorageInteractable.png" usemap="#StorageInteractable_map" alt=""/>
   <map id="StorageInteractable_map" name="StorageInteractable_map">
 <area href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor" alt="IInteractable" shape="rect" coords="132,0,254,24"/>
+<area href="interfaceIPromptProvider.html" title="Represents an object that can display a prompt to the user. Used for things like notifying the player..." alt="IPromptProvider" shape="rect" coords="264,0,386,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
@@ -111,18 +111,16 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a97d1e3e45aece9437e91454c44ee6bfb" id="r_a97d1e3e45aece9437e91454c44ee6bfb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classInteractionSession.html">InteractionSession</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classStorageInteractable.html#a97d1e3e45aece9437e91454c44ee6bfb">BeginInteraction</a> (<a class="el" href="interfaceIInteractor.html">IInteractor</a> interactor)</td></tr>
 <tr class="memdesc:a97d1e3e45aece9437e91454c44ee6bfb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>  <br /></td></tr>
 <tr class="separator:a97d1e3e45aece9437e91454c44ee6bfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a943f31e0e4419a09ceab283b5ab09c52" id="r_a943f31e0e4419a09ceab283b5ab09c52"><td class="memItemLeft" align="right" valign="top"><a id="a943f31e0e4419a09ceab283b5ab09c52" name="a943f31e0e4419a09ceab283b5ab09c52"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>AddFishToStorage</b> ()</td></tr>
-<tr class="separator:a943f31e0e4419a09ceab283b5ab09c52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab9e09444b4b360ffcf7659ddec07be90" id="r_ab9e09444b4b360ffcf7659ddec07be90"><td class="memItemLeft" align="right" valign="top"><a id="ab9e09444b4b360ffcf7659ddec07be90" name="ab9e09444b4b360ffcf7659ddec07be90"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>RemoveFishFromStorage</b> (GameObject fishRef)</td></tr>
-<tr class="separator:ab9e09444b4b360ffcf7659ddec07be90"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a0358b963f6fa3cbcf644df740d13e106" id="r_a0358b963f6fa3cbcf644df740d13e106"><td class="memItemLeft" align="right" valign="top"><a id="a0358b963f6fa3cbcf644df740d13e106" name="a0358b963f6fa3cbcf644df740d13e106"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>_storedFish</b> = 0</td></tr>
-<tr class="separator:a0358b963f6fa3cbcf644df740d13e106"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ee473ab98251c446afeb8029b2d4f1a" id="r_a2ee473ab98251c446afeb8029b2d4f1a"><td class="memItemLeft" align="right" valign="top"><a id="a2ee473ab98251c446afeb8029b2d4f1a" name="a2ee473ab98251c446afeb8029b2d4f1a"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>AddFishToStorage</b> (<a class="el" href="classSO__CookableFoodData.html">SO_CookableFoodData</a> foodData)</td></tr>
+<tr class="separator:a2ee473ab98251c446afeb8029b2d4f1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a458adaf069b1097be6a4718dbe72afba" id="r_a458adaf069b1097be6a4718dbe72afba"><td class="memItemLeft" align="right" valign="top"><a id="a458adaf069b1097be6a4718dbe72afba" name="a458adaf069b1097be6a4718dbe72afba"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>RemoveFishFromStorage</b> (<a class="el" href="classSO__CookableFoodData.html">SO_CookableFoodData</a> foodData)</td></tr>
+<tr class="separator:a458adaf069b1097be6a4718dbe72afba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af556c7f9a41426adf38ed42f45a3efd0" id="r_af556c7f9a41426adf38ed42f45a3efd0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classPromptData.html">PromptData</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classStorageInteractable.html#af556c7f9a41426adf38ed42f45a3efd0">GetPromptData</a> ()</td></tr>
+<tr class="separator:af556c7f9a41426adf38ed42f45a3efd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4d4ab23f8862b08c604409a7dee175a" id="r_af4d4ab23f8862b08c604409a7dee175a"><td class="memItemLeft" align="right" valign="top">Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classStorageInteractable.html#af4d4ab23f8862b08c604409a7dee175a">GetWidgetWorldPosition</a> ()</td></tr>
+<tr class="separator:af4d4ab23f8862b08c604409a7dee175a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
 <a id="a97d1e3e45aece9437e91454c44ee6bfb" name="a97d1e3e45aece9437e91454c44ee6bfb"></a>
@@ -151,6 +149,44 @@ int&#160;</td><td class="memItemRight" valign="bottom"><b>_storedFish</b> = 0</t
 <dl class="section return"><dt>Returns</dt><dd>An <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> representing the current state of the interaction</dd></dl>
 
 <p>Implements <a class="el" href="interfaceIInteractable.html#a2f376f4157a8320c8d644b34c941a3a4">IInteractable</a>.</p>
+
+</div>
+</div>
+<a id="af556c7f9a41426adf38ed42f45a3efd0" name="af556c7f9a41426adf38ed42f45a3efd0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af556c7f9a41426adf38ed42f45a3efd0">&#9670;&#160;</a></span>GetPromptData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classPromptData.html">PromptData</a> StorageInteractable.GetPromptData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="interfaceIPromptProvider.html">IPromptProvider</a>.</p>
+
+</div>
+</div>
+<a id="af4d4ab23f8862b08c604409a7dee175a" name="af4d4ab23f8862b08c604409a7dee175a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af4d4ab23f8862b08c604409a7dee175a">&#9670;&#160;</a></span>GetWidgetWorldPosition()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Vector3 StorageInteractable.GetWidgetWorldPosition </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="interfaceIPromptProvider.html">IPromptProvider</a>.</p>
 
 </div>
 </div>
