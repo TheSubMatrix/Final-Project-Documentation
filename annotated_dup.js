@@ -192,6 +192,7 @@ var annotated_dup =
     [ "TerrainSpawner", "classTerrainSpawner.html", null ],
     [ "tester", "classtester.html", null ],
     [ "TextureVFXProperty", "classTextureVFXProperty.html", null ],
+    [ "TutorialContext", "structTutorialContext.html", null ],
     [ "TutorialOrchestrator", "classTutorialOrchestrator.html", null ],
     [ "TutorialStep", "classTutorialStep.html", "classTutorialStep" ],
     [ "TypeFilterAttribute", "classTypeFilterAttribute.html", null ],

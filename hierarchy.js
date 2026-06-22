@@ -89,6 +89,7 @@ var hierarchy =
     [ "InterfaceArgs", "structInterfaceArgs.html", null ],
     [ "InterfaceReference< IPlayerControllable >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< IPlayerControllable, MonoBehaviour >", "classInterfaceReference.html", null ],
+    [ "InterfaceReference< IPlayerController >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< IPromptDisplay >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< TInterface, Object >", "classInterfaceReference.html", [
       [ "InterfaceReference< TInterface >", "classInterfaceReference.html", null ]
@@ -284,6 +285,7 @@ var hierarchy =
     [ "MatrixUtils.Timers.Timer< StopwatchTimer >", "classMatrixUtils_1_1Timers_1_1Timer.html", [
       [ "MatrixUtils.Timers.StopwatchTimer", "classMatrixUtils_1_1Timers_1_1StopwatchTimer.html", null ]
     ] ],
+    [ "TutorialContext", "structTutorialContext.html", null ],
     [ "TutorialStep", "classTutorialStep.html", [
       [ "MovementTutorialStep", "classMovementTutorialStep.html", null ]
     ] ],

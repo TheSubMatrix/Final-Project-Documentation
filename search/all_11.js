@@ -21,7 +21,8 @@ var searchData=
   ['trygetcurrentinputactionmap_18',['trygetcurrentinputactionmap',['../interfaceIPlayerController.html#a5c682da31cb0ca922237149c3e5dd9d5',1,'IPlayerController.TryGetCurrentInputActionMap()'],['../classPlayerController.html#a8829fa68cbf340bf95779f120616cd25',1,'PlayerController.TryGetCurrentInputActionMap()']]],
   ['tryremovecompleteevent_19',['TryRemoveCompleteEvent',['../classTutorialStep.html#a05d8a4198eb2954f3ed1a20bcac823fc',1,'TutorialStep']]],
   ['tryremovestartevent_20',['TryRemoveStartEvent',['../classTutorialStep.html#a9baccfc0b960c83ec224982493d0de36',1,'TutorialStep']]],
-  ['tutorialorchestrator_21',['TutorialOrchestrator',['../classTutorialOrchestrator.html',1,'']]],
-  ['tutorialstep_22',['TutorialStep',['../classTutorialStep.html',1,'']]],
-  ['typefilterattribute_23',['TypeFilterAttribute',['../classTypeFilterAttribute.html',1,'']]]
+  ['tutorialcontext_21',['TutorialContext',['../structTutorialContext.html',1,'']]],
+  ['tutorialorchestrator_22',['TutorialOrchestrator',['../classTutorialOrchestrator.html',1,'']]],
+  ['tutorialstep_23',['TutorialStep',['../classTutorialStep.html',1,'']]],
+  ['typefilterattribute_24',['TypeFilterAttribute',['../classTypeFilterAttribute.html',1,'']]]
 ];
