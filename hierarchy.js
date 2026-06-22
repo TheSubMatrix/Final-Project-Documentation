@@ -259,6 +259,7 @@ var hierarchy =
       [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ]
     ] ],
     [ "SerializableDictionary< CookState, float >", "classSerializableDictionary.html", null ],
+    [ "SerializableDictionary< InteractionTag, float >", "classSerializableDictionary.html", null ],
     [ "SerializableDictionary< string, GameObject >", "classSerializableDictionary.html", null ],
     [ "SerializableDictionary< VisualEffectAsset, MatrixUtils.VFXSystem.VFXManager.VFXPoolData >", "classSerializableDictionary.html", null ],
     [ "SerializableKeyValuePair< TKey, TValue >", "structSerializableKeyValuePair.html", null ],
