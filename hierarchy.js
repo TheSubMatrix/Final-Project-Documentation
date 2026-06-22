@@ -6,9 +6,6 @@ var hierarchy =
     [ "BaseMeshEffect", null, [
       [ "MatrixUtils.ShaderHelpers.NormalizedPositionAsUV0ZW", "classMatrixUtils_1_1ShaderHelpers_1_1NormalizedPositionAsUV0ZW.html", null ]
     ] ],
-    [ "Button", null, [
-      [ "ExclusiveButton", "classExclusiveButton.html", null ]
-    ] ],
     [ "MatrixUtils.GenericDatatypes.CoroutineWithData< T >", "classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
@@ -45,9 +42,6 @@ var hierarchy =
     [ "MatrixUtils.EventBus.IEvent", "interfaceMatrixUtils_1_1EventBus_1_1IEvent.html", null ],
     [ "MatrixUtils.EventBus.IEventBinding< T >", "interfaceMatrixUtils_1_1EventBus_1_1IEventBinding.html", [
       [ "MatrixUtils.EventBus.EventBinding< T >", "classMatrixUtils_1_1EventBus_1_1EventBinding.html", null ]
-    ] ],
-    [ "IExclusiveSelectable", "interfaceIExclusiveSelectable.html", [
-      [ "ExclusiveButton", "classExclusiveButton.html", null ]
     ] ],
     [ "IFillState", "interfaceIFillState.html", [
       [ "ChangeFillState", "classChangeFillState.html", null ],
@@ -209,7 +203,6 @@ var hierarchy =
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
       [ "SceneTransitionerProxy", "classSceneTransitionerProxy.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
-      [ "SelectStartingObject", "classSelectStartingObject.html", null ],
       [ "ShipHealth", "classShipHealth.html", null ],
       [ "ShipHole", "classShipHole.html", null ],
       [ "ShipHoleVisual", "classShipHoleVisual.html", null ],
