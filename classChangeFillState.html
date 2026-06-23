@@ -112,9 +112,9 @@ Inheritance diagram for ChangeFillState:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:adc51c696b06fa87640ec793fe10abb28" id="r_adc51c696b06fa87640ec793fe10abb28"><td class="memItemLeft" align="right" valign="top"><a id="adc51c696b06fa87640ec793fe10abb28" name="adc51c696b06fa87640ec793fe10abb28"></a>
-&#160;</td><td class="memItemRight" valign="bottom"><b>ChangeFillState</b> (Action&lt; <a class="el" href="interfaceIFillState.html">IFillState</a> &gt; requestTransitionAction, float targetFill, float fillRate)</td></tr>
-<tr class="separator:adc51c696b06fa87640ec793fe10abb28"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a20dd4a792795ee2ee1cdb65b732887ef" id="r_a20dd4a792795ee2ee1cdb65b732887ef"><td class="memItemLeft" align="right" valign="top"><a id="a20dd4a792795ee2ee1cdb65b732887ef" name="a20dd4a792795ee2ee1cdb65b732887ef"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>ChangeFillState</b> (Action&lt; <a class="el" href="interfaceIFillState.html">IFillState</a> &gt; requestTransitionAction, float targetFill, float fillRate, float warningThreshold, float failureTime)</td></tr>
+<tr class="separator:a20dd4a792795ee2ee1cdb65b732887ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aad618fc5286fe8f5ea83de44053a1e60" id="r_aad618fc5286fe8f5ea83de44053a1e60"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChangeFillState.html#aad618fc5286fe8f5ea83de44053a1e60">OnEventStarted</a> (float startingFill)</td></tr>
 <tr class="memdesc:aad618fc5286fe8f5ea83de44053a1e60"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the state is entered.<dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
@@ -148,6 +148,12 @@ Events</h2></td></tr>
 <tr class="memitem:ab17137fec9a0a8b8ac64afd0849fe0ef" id="r_ab17137fec9a0a8b8ac64afd0849fe0ef"><td class="memItemLeft" align="right" valign="top"><a id="ab17137fec9a0a8b8ac64afd0849fe0ef" name="ab17137fec9a0a8b8ac64afd0849fe0ef"></a>
 Action&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>OnFillChange</b></td></tr>
 <tr class="separator:ab17137fec9a0a8b8ac64afd0849fe0ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6489593b6d2b36366c4441aa26e4e01" id="r_ae6489593b6d2b36366c4441aa26e4e01"><td class="memItemLeft" align="right" valign="top"><a id="ae6489593b6d2b36366c4441aa26e4e01" name="ae6489593b6d2b36366c4441aa26e4e01"></a>
+Action&#160;</td><td class="memItemRight" valign="bottom"><b>OnWarningTriggered</b> = delegate {}</td></tr>
+<tr class="separator:ae6489593b6d2b36366c4441aa26e4e01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a57a57fde7b954ad70ab7c3220285a575" id="r_a57a57fde7b954ad70ab7c3220285a575"><td class="memItemLeft" align="right" valign="top"><a id="a57a57fde7b954ad70ab7c3220285a575" name="a57a57fde7b954ad70ab7c3220285a575"></a>
+Action&#160;</td><td class="memItemRight" valign="bottom"><b>OnFailureTriggered</b> = delegate {}</td></tr>
+<tr class="separator:a57a57fde7b954ad70ab7c3220285a575"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header events_interfaceIFillState"><td colspan="2" onclick="javascript:toggleInherit('events_interfaceIFillState')"><img src="closed.png" alt="-"/>&#160;Events inherited from <a class="el" href="interfaceIFillState.html">IFillState</a></td></tr>
 <tr class="memitem:a41914f28a8c58df124ec2aa6d52e8e3e inherit events_interfaceIFillState" id="r_a41914f28a8c58df124ec2aa6d52e8e3e"><td class="memItemLeft" align="right" valign="top">
 Action&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>OnFillChange</b></td></tr>
