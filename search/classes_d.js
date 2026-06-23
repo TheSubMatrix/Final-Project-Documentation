@@ -2,7 +2,7 @@ var searchData=
 [
   ['passoutinteractable_0',['PassOutInteractable',['../classPassOutInteractable.html',1,'']]],
   ['persistentservice_1',['PersistentService',['../classPersistentService.html',1,'']]],
-  ['persistentservice_3c_20icharacterspecificdataprovider_20_3e_2',['PersistentService&lt; ICharacterSpecificDataProvider &gt;',['../classPersistentService.html',1,'']]],
+  ['persistentservice_3c_20icharacterselectiondatahandler_20_3e_2',['PersistentService&lt; ICharacterSelectionDataHandler &gt;',['../classPersistentService.html',1,'']]],
   ['persistentservice_3c_20iscenetransitioner_20_3e_3',['PersistentService&lt; ISceneTransitioner &gt;',['../classPersistentService.html',1,'']]],
   ['persistentsingleton_4',['PersistentSingleton',['../classPersistentSingleton.html',1,'']]],
   ['persistentsingleton_3c_20soundmanager_20_3e_5',['PersistentSingleton&lt; SoundManager &gt;',['../classPersistentSingleton.html',1,'']]],
@@ -16,10 +16,11 @@ var searchData=
   ['playerlookraycaster_13',['PlayerLookRaycaster',['../classPlayerLookRaycaster.html',1,'']]],
   ['playermainmenuspawner_14',['PlayerMainMenuSpawner',['../classPlayerMainMenuSpawner.html',1,'']]],
   ['playermovement_15',['PlayerMovement',['../classPlayerMovement.html',1,'']]],
-  ['playerspawnmanager_16',['PlayerSpawnManager',['../classPlayerSpawnManager.html',1,'']]],
-  ['playertransitionhider_17',['PlayerTransitionHider',['../classPlayerTransitionHider.html',1,'']]],
-  ['policeboatmanager_18',['PoliceBoatManager',['../classPoliceBoatManager.html',1,'']]],
-  ['promptdata_19',['PromptData',['../classPromptData.html',1,'']]],
-  ['promptdisplay_20',['PromptDisplay',['../classPromptDisplay.html',1,'']]],
-  ['provideattribute_21',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
+  ['playerselectioncursor_16',['PlayerSelectionCursor',['../classPlayerSelectionCursor.html',1,'']]],
+  ['playerspawnmanager_17',['PlayerSpawnManager',['../classPlayerSpawnManager.html',1,'']]],
+  ['playertransitionhider_18',['PlayerTransitionHider',['../classPlayerTransitionHider.html',1,'']]],
+  ['policeboatmanager_19',['PoliceBoatManager',['../classPoliceBoatManager.html',1,'']]],
+  ['promptdata_20',['PromptData',['../classPromptData.html',1,'']]],
+  ['promptdisplay_21',['PromptDisplay',['../classPromptDisplay.html',1,'']]],
+  ['provideattribute_22',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
 ];

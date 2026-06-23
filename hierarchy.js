@@ -6,6 +6,9 @@ var hierarchy =
     [ "BaseMeshEffect", null, [
       [ "MatrixUtils.ShaderHelpers.NormalizedPositionAsUV0ZW", "classMatrixUtils_1_1ShaderHelpers_1_1NormalizedPositionAsUV0ZW.html", null ]
     ] ],
+    [ "Button", null, [
+      [ "CharacterSelectorButton", "classCharacterSelectorButton.html", null ]
+    ] ],
     [ "MatrixUtils.GenericDatatypes.CoroutineWithData< T >", "classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
@@ -14,17 +17,16 @@ var hierarchy =
     ] ],
     [ "FishingMiniGame", "classFishingMiniGame.html", null ],
     [ "FishingMiniGameData", "classFishingMiniGameData.html", null ],
-    [ "ICharacterSpecificDataProvider", "interfaceICharacterSpecificDataProvider.html", [
-      [ "CharacterSpecificDataProvider", "classCharacterSpecificDataProvider.html", null ]
+    [ "ICharacterSelectionDataHandler", "interfaceICharacterSelectionDataHandler.html", [
+      [ "CharacterSelectionDataHandler", "classCharacterSelectionDataHandler.html", null ]
     ] ],
     [ "IDamageable", "interfaceIDamageable.html", [
       [ "ShipHealth", "classShipHealth.html", null ]
     ] ],
     [ "MatrixUtils.DependencyInjection.IDependencyProvider", "interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html", [
-      [ "CharacterSelectionHandler", "classCharacterSelectionHandler.html", null ],
-      [ "MainMenuHandler", "classMainMenuHandler.html", null ],
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
+      [ "TransitionWhenReadiedUp", "classTransitionWhenReadiedUp.html", null ],
       [ "WarningIconMessenger", "classWarningIconMessenger.html", null ]
     ] ],
     [ "IDictionary", null, [
@@ -66,10 +68,6 @@ var hierarchy =
     [ "IInteractor", "interfaceIInteractor.html", [
       [ "PlayerInteractor", "classPlayerInteractor.html", null ]
     ] ],
-    [ "IMenuHandler", "interfaceIMenuHandler.html", [
-      [ "CharacterSelectionHandler", "classCharacterSelectionHandler.html", null ],
-      [ "MainMenuHandler", "classMainMenuHandler.html", null ]
-    ] ],
     [ "IMessageDisplay", "interfaceIMessageDisplay.html", [
       [ "TutorialMessageDisplay", "classTutorialMessageDisplay.html", null ]
     ] ],
@@ -96,17 +94,11 @@ var hierarchy =
       [ "CoalManager", "classCoalManager.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
-      [ "MenuNavigator", "classMenuNavigator.html", null ],
       [ "PlayerControlRouter", "classPlayerControlRouter.html", null ],
       [ "WaterValveInteractable", "classWaterValveInteractable.html", null ]
     ] ],
     [ "IPlayerController", "interfaceIPlayerController.html", [
       [ "PlayerController", "classPlayerController.html", null ]
-    ] ],
-    [ "IPlayerSelection", "interfaceIPlayerSelection.html", [
-      [ "CharacterSelection", "classCharacterSelection.html", null ],
-      [ "MenuButtonSelection", "classMenuButtonSelection.html", null ],
-      [ "NeutralSelection", "classNeutralSelection.html", null ]
     ] ],
     [ "IProgressRepairProvider", "interfaceIProgressRepairProvider.html", [
       [ "ShipHole", "classShipHole.html", null ]
@@ -158,7 +150,7 @@ var hierarchy =
     [ "MonoBehaviour", null, [
       [ "BoatCoordinate", "classBoatCoordinate.html", null ],
       [ "BuoyantBody", "classBuoyantBody.html", null ],
-      [ "CharacterSelectionHandler", "classCharacterSelectionHandler.html", null ],
+      [ "CharacterSelectionSpawnManager", "classCharacterSelectionSpawnManager.html", null ],
       [ "CoalManager", "classCoalManager.html", null ],
       [ "CoalUI", "classCoalUI.html", null ],
       [ "CollisionDamager", "classCollisionDamager.html", null ],
@@ -176,13 +168,10 @@ var hierarchy =
       [ "HungerAndThirst", "classHungerAndThirst.html", null ],
       [ "HungerAndThirstVisualManager", "classHungerAndThirstVisualManager.html", null ],
       [ "LightingManager", "classLightingManager.html", null ],
-      [ "MainMenuHandler", "classMainMenuHandler.html", null ],
       [ "MatrixUtils.AudioSystem.SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
       [ "MatrixUtils.GenericDatatypes.Singleton< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html", null ],
       [ "MatrixUtils.VFXSystem.VFXEmitter", "classMatrixUtils_1_1VFXSystem_1_1VFXEmitter.html", null ],
-      [ "MenuNavigator", "classMenuNavigator.html", null ],
-      [ "MenuNavigatorSetup", "classMenuNavigatorSetup.html", null ],
       [ "PassOutInteractable", "classPassOutInteractable.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
@@ -195,6 +184,7 @@ var hierarchy =
       [ "PlayerLookRaycaster", "classPlayerLookRaycaster.html", null ],
       [ "PlayerMainMenuSpawner", "classPlayerMainMenuSpawner.html", null ],
       [ "PlayerMovement", "classPlayerMovement.html", null ],
+      [ "PlayerSelectionCursor", "classPlayerSelectionCursor.html", null ],
       [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
       [ "PoliceBoatManager", "classPoliceBoatManager.html", null ],
@@ -213,6 +203,8 @@ var hierarchy =
       [ "StorageInteractable", "classStorageInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
       [ "TerrainSpawner", "classTerrainSpawner.html", null ],
+      [ "TransitionReadyUpProxy", "classTransitionReadyUpProxy.html", null ],
+      [ "TransitionWhenReadiedUp", "classTransitionWhenReadiedUp.html", null ],
       [ "TutorialMessageDisplay", "classTutorialMessageDisplay.html", null ],
       [ "TutorialOrchestrator", "classTutorialOrchestrator.html", null ],
       [ "UnderbellyFollow", "classUnderbellyFollow.html", null ],
@@ -225,8 +217,8 @@ var hierarchy =
     ] ],
     [ "MatrixUtils.GenericDatatypes.Observer< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Observer.html", null ],
     [ "MatrixUtils.GenericDatatypes.Observer< float >", "classMatrixUtils_1_1GenericDatatypes_1_1Observer.html", null ],
-    [ "PersistentService< ICharacterSpecificDataProvider >", "classPersistentService.html", [
-      [ "CharacterSpecificDataProvider", "classCharacterSpecificDataProvider.html", null ]
+    [ "PersistentService< ICharacterSelectionDataHandler >", "classPersistentService.html", [
+      [ "CharacterSelectionDataHandler", "classCharacterSelectionDataHandler.html", null ]
     ] ],
     [ "PersistentService< ISceneTransitioner >", "classPersistentService.html", [
       [ "SceneTransitionHandler", "classSceneTransitionHandler.html", null ]
