@@ -158,6 +158,7 @@ var hierarchy =
       [ "CookingInteractable", "classCookingInteractable.html", null ],
       [ "DelegateExtensions", "classDelegateExtensions.html", null ],
       [ "EndGame", "classEndGame.html", null ],
+      [ "EngineSoundController", "classEngineSoundController.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
       [ "FishingUI", "classFishingUI.html", null ],
       [ "FoodClass", "classFoodClass.html", null ],

@@ -84,6 +84,7 @@ var annotated_dup =
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
     [ "EndGame", "classEndGame.html", null ],
+    [ "EngineSoundController", "classEngineSoundController.html", null ],
     [ "Fish", "classFish.html", null ],
     [ "FishingManager", "classFishingManager.html", "classFishingManager" ],
     [ "FishingMiniGame", "classFishingMiniGame.html", null ],
