@@ -165,6 +165,7 @@ var hierarchy =
       [ "FishingManager", "classFishingManager.html", null ],
       [ "FishingUI", "classFishingUI.html", null ],
       [ "FoodClass", "classFoodClass.html", null ],
+      [ "FuelWarning", "classFuelWarning.html", null ],
       [ "GramophoneInteractable", "classGramophoneInteractable.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
