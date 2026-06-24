@@ -62,6 +62,7 @@ var hierarchy =
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "PassOutInteractable", "classPassOutInteractable.html", null ],
       [ "ShipHole", "classShipHole.html", null ],
+      [ "SinkInteractable", "classSinkInteractable.html", null ],
       [ "StorageInteractable", "classStorageInteractable.html", null ],
       [ "WaterValveInteractable", "classWaterValveInteractable.html", null ]
     ] ],
@@ -115,6 +116,7 @@ var hierarchy =
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "PassOutInteractable", "classPassOutInteractable.html", null ],
       [ "ShipHole", "classShipHole.html", null ],
+      [ "SinkInteractable", "classSinkInteractable.html", null ],
       [ "StorageInteractable", "classStorageInteractable.html", null ],
       [ "WaterValveInteractable", "classWaterValveInteractable.html", null ]
     ] ],
@@ -202,6 +204,7 @@ var hierarchy =
       [ "ShipMovement", "classShipMovement.html", null ],
       [ "ShipRadar", "classShipRadar.html", null ],
       [ "ShipSinkCheck", "classShipSinkCheck.html", null ],
+      [ "SinkInteractable", "classSinkInteractable.html", null ],
       [ "StorageInteractable", "classStorageInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
       [ "TerrainSpawner", "classTerrainSpawner.html", null ],

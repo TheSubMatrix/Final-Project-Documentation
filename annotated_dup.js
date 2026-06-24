@@ -171,6 +171,7 @@ var annotated_dup =
     [ "ShipMovement", "classShipMovement.html", null ],
     [ "ShipRadar", "classShipRadar.html", null ],
     [ "ShipSinkCheck", "classShipSinkCheck.html", null ],
+    [ "SinkInteractable", "classSinkInteractable.html", "classSinkInteractable" ],
     [ "SkinnedMeshRendererVFXProperty", "classSkinnedMeshRendererVFXProperty.html", null ],
     [ "SO_CharacterSpecificData", "classSO__CharacterSpecificData.html", null ],
     [ "SO_CoalData", "classSO__CoalData.html", null ],
