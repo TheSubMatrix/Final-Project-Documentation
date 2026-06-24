@@ -15,5 +15,6 @@ var searchData=
   ['cookinginteractable_12',['CookingInteractable',['../classCookingInteractable.html',1,'']]],
   ['coroutinewithdata_13',['CoroutineWithData',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html',1,'MatrixUtils::GenericDatatypes']]],
   ['countdowntimer_14',['CountdownTimer',['../classMatrixUtils_1_1Timers_1_1CountdownTimer.html',1,'MatrixUtils::Timers']]],
-  ['customlogger_5fso_15',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
+  ['crab_15',['Crab',['../classCrab.html',1,'']]],
+  ['customlogger_5fso_16',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
 ];

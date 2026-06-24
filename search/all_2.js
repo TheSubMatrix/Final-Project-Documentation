@@ -20,6 +20,7 @@ var searchData=
   ['coroutine_17',['coroutine',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html#a6be77fc672119c20c1bf5b3ac169b5ec',1,'MatrixUtils::GenericDatatypes::CoroutineWithData']]],
   ['coroutinewithdata_18',['coroutinewithdata',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html',1,'MatrixUtils.GenericDatatypes.CoroutineWithData&lt; T &gt;'],['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html#aed5ebfe89aaea210de2626d70d444124',1,'MatrixUtils.GenericDatatypes.CoroutineWithData.CoroutineWithData()']]],
   ['countdowntimer_19',['CountdownTimer',['../classMatrixUtils_1_1Timers_1_1CountdownTimer.html',1,'MatrixUtils::Timers']]],
-  ['currentinteractor_20',['CurrentInteractor',['../classInteractionSession.html#ad4ddc87f2abfb9c6eb1423480cb62962',1,'InteractionSession']]],
-  ['customlogger_5fso_21',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
+  ['crab_20',['Crab',['../classCrab.html',1,'']]],
+  ['currentinteractor_21',['CurrentInteractor',['../classInteractionSession.html#ad4ddc87f2abfb9c6eb1423480cb62962',1,'InteractionSession']]],
+  ['customlogger_5fso_22',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
 ];

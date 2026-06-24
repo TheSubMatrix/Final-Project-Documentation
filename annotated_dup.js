@@ -80,6 +80,7 @@ var annotated_dup =
     [ "ColorVFXProperty", "classColorVFXProperty.html", null ],
     [ "CookFish", "classCookFish.html", "classCookFish" ],
     [ "CookingInteractable", "classCookingInteractable.html", "classCookingInteractable" ],
+    [ "Crab", "classCrab.html", null ],
     [ "DelegateExtensions", "classDelegateExtensions.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],

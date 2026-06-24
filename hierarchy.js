@@ -143,6 +143,7 @@ var hierarchy =
     ] ],
     [ "IUsableItem", "interfaceIUsableItem.html", [
       [ "FoodClass", "classFoodClass.html", [
+        [ "Crab", "classCrab.html", null ],
         [ "Fish", "classFish.html", null ]
       ] ]
     ] ],
