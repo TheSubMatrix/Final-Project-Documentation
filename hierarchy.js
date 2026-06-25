@@ -204,7 +204,6 @@ var hierarchy =
       [ "ShipHoleVisual", "classShipHoleVisual.html", null ],
       [ "ShipMovement", "classShipMovement.html", null ],
       [ "ShipRadar", "classShipRadar.html", null ],
-      [ "ShipSinkCheck", "classShipSinkCheck.html", null ],
       [ "SinkInteractable", "classSinkInteractable.html", null ],
       [ "StorageInteractable", "classStorageInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
