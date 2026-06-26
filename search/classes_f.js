@@ -7,5 +7,7 @@ var searchData=
   ['regulatorsingleton_4',['RegulatorSingleton',['../classRegulatorSingleton.html',1,'']]],
   ['requiredfieldattribute_5',['RequiredFieldAttribute',['../classMatrixUtils_1_1Attributes_1_1RequiredFieldAttribute.html',1,'MatrixUtils::Attributes']]],
   ['requireinterfaceattribute_6',['RequireInterfaceAttribute',['../classRequireInterfaceAttribute.html',1,'']]],
-  ['routinequeue_7',['RoutineQueue',['../classRoutineQueue.html',1,'']]]
+  ['resolutiondropdown_7',['ResolutionDropdown',['../classResolutionDropdown.html',1,'']]],
+  ['rope_8',['Rope',['../classRope.html',1,'']]],
+  ['routinequeue_9',['RoutineQueue',['../classRoutineQueue.html',1,'']]]
 ];

@@ -16,5 +16,6 @@ var searchData=
   ['coroutinewithdata_13',['CoroutineWithData',['../classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html',1,'MatrixUtils::GenericDatatypes']]],
   ['countdowntimer_14',['CountdownTimer',['../classMatrixUtils_1_1Timers_1_1CountdownTimer.html',1,'MatrixUtils::Timers']]],
   ['crab_15',['Crab',['../classCrab.html',1,'']]],
-  ['customlogger_5fso_16',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
+  ['curvedefinitionpoint_16',['CurveDefinitionPoint',['../structRope_1_1SegmentedBezierCurve_1_1CurveDefinitionPoint.html',1,'Rope::SegmentedBezierCurve']]],
+  ['customlogger_5fso_17',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]]
 ];

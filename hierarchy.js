@@ -10,6 +10,7 @@ var hierarchy =
       [ "CharacterSelectorButton", "classCharacterSelectorButton.html", null ]
     ] ],
     [ "MatrixUtils.GenericDatatypes.CoroutineWithData< T >", "classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html", null ],
+    [ "Rope.SegmentedBezierCurve.CurveDefinitionPoint", "structRope_1_1SegmentedBezierCurve_1_1CurveDefinitionPoint.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
     [ "Editor", null, [
@@ -198,6 +199,8 @@ var hierarchy =
       [ "QuitButton", "classQuitButton.html", null ],
       [ "RandomSoundPlayer", "classRandomSoundPlayer.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
+      [ "ResolutionDropdown", "classResolutionDropdown.html", null ],
+      [ "Rope", "classRope.html", null ],
       [ "SceneTransitionerProxy", "classSceneTransitionerProxy.html", null ],
       [ "ScriptableObjectEventListener", "classScriptableObjectEventListener.html", null ],
       [ "ShipHealth", "classShipHealth.html", null ],
@@ -219,6 +222,7 @@ var hierarchy =
       [ "WaterController", "classWaterController.html", null ],
       [ "WaterFillController", "classWaterFillController.html", null ],
       [ "WaterValveInteractable", "classWaterValveInteractable.html", null ],
+      [ "WindowModeDropdown", "classWindowModeDropdown.html", null ],
       [ "tester", "classtester.html", null ]
     ] ],
     [ "MatrixUtils.GenericDatatypes.Observer< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Observer.html", null ],
@@ -257,6 +261,7 @@ var hierarchy =
       [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],
       [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ]
     ] ],
+    [ "Rope.SegmentedBezierCurve", "classRope_1_1SegmentedBezierCurve.html", null ],
     [ "SerializableDictionary< CookState, float >", "classSerializableDictionary.html", null ],
     [ "SerializableDictionary< InteractionTag, float >", "classSerializableDictionary.html", null ],
     [ "SerializableDictionary< string, GameObject >", "classSerializableDictionary.html", null ],

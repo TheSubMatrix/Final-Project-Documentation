@@ -155,6 +155,8 @@ var annotated_dup =
     [ "RandomSoundPlayer", "classRandomSoundPlayer.html", null ],
     [ "RegulatorSingleton", "classRegulatorSingleton.html", "classRegulatorSingleton" ],
     [ "RequireInterfaceAttribute", "classRequireInterfaceAttribute.html", null ],
+    [ "ResolutionDropdown", "classResolutionDropdown.html", null ],
+    [ "Rope", "classRope.html", "classRope" ],
     [ "RoutineQueue", "classRoutineQueue.html", "classRoutineQueue" ],
     [ "SceneTransitionerProxy", "classSceneTransitionerProxy.html", null ],
     [ "SceneTransitionHandler", "classSceneTransitionHandler.html", null ],
@@ -206,5 +208,6 @@ var annotated_dup =
     [ "WarningIconMessenger", "classWarningIconMessenger.html", null ],
     [ "WaterController", "classWaterController.html", "classWaterController" ],
     [ "WaterFillController", "classWaterFillController.html", null ],
-    [ "WaterValveInteractable", "classWaterValveInteractable.html", "classWaterValveInteractable" ]
+    [ "WaterValveInteractable", "classWaterValveInteractable.html", "classWaterValveInteractable" ],
+    [ "WindowModeDropdown", "classWindowModeDropdown.html", null ]
 ];
