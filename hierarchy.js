@@ -20,6 +20,7 @@ var hierarchy =
     ] ],
     [ "FishingMiniGame", "classFishingMiniGame.html", null ],
     [ "FishingMiniGameData", "classFishingMiniGameData.html", null ],
+    [ "HolePositionInfo", "classHolePositionInfo.html", null ],
     [ "ICharacterSelectionDataHandler", "interfaceICharacterSelectionDataHandler.html", [
       [ "CharacterSelectionDataHandler", "classCharacterSelectionDataHandler.html", null ]
     ] ],
@@ -211,6 +212,7 @@ var hierarchy =
       [ "QuitButton", "classQuitButton.html", null ],
       [ "RandomSoundPlayer", "classRandomSoundPlayer.html", null ],
       [ "RegulatorSingleton< T >", "classRegulatorSingleton.html", null ],
+      [ "RepairPlate", "classRepairPlate.html", null ],
       [ "ResolutionDropdown", "classResolutionDropdown.html", null ],
       [ "Rope", "classRope.html", null ],
       [ "SceneTransitionerProxy", "classSceneTransitionerProxy.html", null ],
@@ -262,7 +264,7 @@ var hierarchy =
       [ "TypeFilterAttribute", "classTypeFilterAttribute.html", null ]
     ] ],
     [ "RandomBag< T >", "structRandomBag.html", null ],
-    [ "RandomBag< Transform >", "structRandomBag.html", null ],
+    [ "RandomBag< HolePositionInfo >", "structRandomBag.html", null ],
     [ "RoutineQueue", "classRoutineQueue.html", null ],
     [ "ScriptableObject", null, [
       [ "LightingPreset", "classLightingPreset.html", null ],

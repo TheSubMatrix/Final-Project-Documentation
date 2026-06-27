@@ -6,6 +6,7 @@ var searchData=
   ['heldobjectlocation_3',['HeldObjectLocation',['../classHeldObjectLocation.html',1,'']]],
   ['helminteractable_4',['HelmInteractable',['../classHelmInteractable.html',1,'']]],
   ['hidemessage_5',['hidemessage',['../interfaceIMessageDisplay.html#a982ae50559608fc0acc17cd4ae6adcbb',1,'IMessageDisplay.HideMessage()'],['../classTutorialMessageDisplay.html#a9a52e9de0d04d301d011878a88bcf4f6',1,'TutorialMessageDisplay.HideMessage()']]],
-  ['hungerandthirst_6',['HungerAndThirst',['../classHungerAndThirst.html',1,'']]],
-  ['hungerandthirstvisualmanager_7',['HungerAndThirstVisualManager',['../classHungerAndThirstVisualManager.html',1,'']]]
+  ['holepositioninfo_6',['HolePositionInfo',['../classHolePositionInfo.html',1,'']]],
+  ['hungerandthirst_7',['HungerAndThirst',['../classHungerAndThirst.html',1,'']]],
+  ['hungerandthirstvisualmanager_8',['HungerAndThirstVisualManager',['../classHungerAndThirstVisualManager.html',1,'']]]
 ];
