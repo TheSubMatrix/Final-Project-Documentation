@@ -11,6 +11,8 @@ var hierarchy =
     ] ],
     [ "MatrixUtils.GenericDatatypes.CoroutineWithData< T >", "classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html", null ],
     [ "Rope.SegmentedBezierCurve.CurveDefinitionPoint", "structRope_1_1SegmentedBezierCurve_1_1CurveDefinitionPoint.html", null ],
+    [ "DataStorageBinding< T >", "classDataStorageBinding.html", null ],
+    [ "DataStorageBinding< float >", "classDataStorageBinding.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
     [ "Editor", null, [
@@ -27,6 +29,7 @@ var hierarchy =
     [ "MatrixUtils.DependencyInjection.IDependencyProvider", "interfaceMatrixUtils_1_1DependencyInjection_1_1IDependencyProvider.html", [
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
+      [ "PlayerPrefsDataStorage", "classPlayerPrefsDataStorage.html", null ],
       [ "TransitionWhenReadiedUp", "classTransitionWhenReadiedUp.html", null ],
       [ "WarningIconMessenger", "classWarningIconMessenger.html", null ]
     ] ],
@@ -91,6 +94,9 @@ var hierarchy =
     [ "InterfaceReference< IPromptDisplay >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< TInterface, Object >", "classInterfaceReference.html", [
       [ "InterfaceReference< TInterface >", "classInterfaceReference.html", null ]
+    ] ],
+    [ "IPersistentDataStorage", "interfaceIPersistentDataStorage.html", [
+      [ "PlayerPrefsDataStorage", "classPlayerPrefsDataStorage.html", null ]
     ] ],
     [ "IPlayerControllable", "interfaceIPlayerControllable.html", [
       [ "CoalManager", "classCoalManager.html", null ],
@@ -186,6 +192,7 @@ var hierarchy =
       [ "PassOutInteractable", "classPassOutInteractable.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
+      [ "PersistentSliderDataHandler", "classPersistentSliderDataHandler.html", null ],
       [ "PlayerControlRouter", "classPlayerControlRouter.html", null ],
       [ "PlayerController", "classPlayerController.html", null ],
       [ "PlayerControllerDataStore", "classPlayerControllerDataStore.html", null ],
@@ -195,6 +202,7 @@ var hierarchy =
       [ "PlayerLookRaycaster", "classPlayerLookRaycaster.html", null ],
       [ "PlayerMainMenuSpawner", "classPlayerMainMenuSpawner.html", null ],
       [ "PlayerMovement", "classPlayerMovement.html", null ],
+      [ "PlayerPrefsDataStorage", "classPlayerPrefsDataStorage.html", null ],
       [ "PlayerSelectionCursor", "classPlayerSelectionCursor.html", null ],
       [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
