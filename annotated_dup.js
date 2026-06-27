@@ -82,6 +82,7 @@ var annotated_dup =
     [ "CookingInteractable", "classCookingInteractable.html", "classCookingInteractable" ],
     [ "Crab", "classCrab.html", null ],
     [ "DelegateExtensions", "classDelegateExtensions.html", null ],
+    [ "DropdownScroller", "classDropdownScroller.html", null ],
     [ "DynamicEventBinding", "classDynamicEventBinding.html", null ],
     [ "DynamicPersistentListener", "classDynamicPersistentListener.html", null ],
     [ "EndGame", "classEndGame.html", null ],
