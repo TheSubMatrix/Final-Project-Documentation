@@ -20,7 +20,7 @@ var hierarchy =
     ] ],
     [ "FishingMiniGame", "classFishingMiniGame.html", null ],
     [ "FishingMiniGameData", "classFishingMiniGameData.html", null ],
-    [ "HolePositionInfo", "classHolePositionInfo.html", null ],
+    [ "HolePositionInfo", "structHolePositionInfo.html", null ],
     [ "ICharacterSelectionDataHandler", "interfaceICharacterSelectionDataHandler.html", [
       [ "CharacterSelectionDataHandler", "classCharacterSelectionDataHandler.html", null ]
     ] ],
