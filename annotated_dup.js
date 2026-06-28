@@ -188,6 +188,7 @@ var annotated_dup =
     [ "SO_CookableFoodData", "classSO__CookableFoodData.html", null ],
     [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],
     [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ],
+    [ "SoundSettings", "classSoundSettings.html", null ],
     [ "SplineMovement", "classSplineMovement.html", null ],
     [ "StorageInteractable", "classStorageInteractable.html", "classStorageInteractable" ],
     [ "TerrainCleanup", "classTerrainCleanup.html", null ],

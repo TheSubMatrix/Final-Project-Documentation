@@ -35,8 +35,9 @@ var searchData=
   ['sounddata_32',['SoundData',['../classMatrixUtils_1_1AudioSystem_1_1SoundData.html',1,'MatrixUtils::AudioSystem']]],
   ['soundemitter_33',['SoundEmitter',['../classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html',1,'MatrixUtils::AudioSystem']]],
   ['soundmanager_34',['SoundManager',['../classMatrixUtils_1_1AudioSystem_1_1SoundManager.html',1,'MatrixUtils::AudioSystem']]],
-  ['splinemovement_35',['SplineMovement',['../classSplineMovement.html',1,'']]],
-  ['stencilshadergui_36',['StencilShaderGUI',['../classShaderGraphExtension_1_1StencilShaderGUI.html',1,'ShaderGraphExtension']]],
-  ['stopwatchtimer_37',['StopwatchTimer',['../classMatrixUtils_1_1Timers_1_1StopwatchTimer.html',1,'MatrixUtils::Timers']]],
-  ['storageinteractable_38',['StorageInteractable',['../classStorageInteractable.html',1,'']]]
+  ['soundsettings_35',['SoundSettings',['../classSoundSettings.html',1,'']]],
+  ['splinemovement_36',['SplineMovement',['../classSplineMovement.html',1,'']]],
+  ['stencilshadergui_37',['StencilShaderGUI',['../classShaderGraphExtension_1_1StencilShaderGUI.html',1,'ShaderGraphExtension']]],
+  ['stopwatchtimer_38',['StopwatchTimer',['../classMatrixUtils_1_1Timers_1_1StopwatchTimer.html',1,'MatrixUtils::Timers']]],
+  ['storageinteractable_39',['StorageInteractable',['../classStorageInteractable.html',1,'']]]
 ];
