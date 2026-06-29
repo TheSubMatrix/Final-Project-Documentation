@@ -96,9 +96,6 @@ $(document).ready(function(){initNavTree('classWaterController.html',''); initRe
   <div class="headertitle"><div class="title">WaterController Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p>Controls the fill of the water tank using states that use the <a class="el" href="interfaceIFillState.html" title="Represents a tank state. This can be used to represent different tank behaviors like filling,...">IFillState</a> interface.  
- <a href="classWaterController.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for WaterController:</div>
 <div class="dyncontent">
@@ -108,24 +105,26 @@ Inheritance diagram for WaterController:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:af51c9687f98899db0bf74b4e9bd2d6a6" id="r_af51c9687f98899db0bf74b4e9bd2d6a6"><td class="memItemLeft" align="right" valign="top"><a id="af51c9687f98899db0bf74b4e9bd2d6a6" name="af51c9687f98899db0bf74b4e9bd2d6a6"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>IncreaseWaterFill</b> ()</td></tr>
-<tr class="memdesc:af51c9687f98899db0bf74b4e9bd2d6a6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempts to increase the fill of the water tank. <br /></td></tr>
-<tr class="separator:af51c9687f98899db0bf74b4e9bd2d6a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abc41c44b519902607618ab9392c20404" id="r_abc41c44b519902607618ab9392c20404"><td class="memItemLeft" align="right" valign="top"><a id="abc41c44b519902607618ab9392c20404" name="abc41c44b519902607618ab9392c20404"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>DecreaseWaterFill</b> ()</td></tr>
-<tr class="memdesc:abc41c44b519902607618ab9392c20404"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempts to decrease the fill of the water tank. <br /></td></tr>
-<tr class="separator:abc41c44b519902607618ab9392c20404"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0733d7c871d0bb5fe640869ca2d5728c" id="r_a0733d7c871d0bb5fe640869ca2d5728c"><td class="memItemLeft" align="right" valign="top"><a id="a0733d7c871d0bb5fe640869ca2d5728c" name="a0733d7c871d0bb5fe640869ca2d5728c"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>HandleFillInput</b> (float fillDirection)</td></tr>
+<tr class="separator:a0733d7c871d0bb5fe640869ca2d5728c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab13fd7c62b0075e71c021cbcdf0f660e" id="r_ab13fd7c62b0075e71c021cbcdf0f660e"><td class="memItemLeft" align="right" valign="top"><a id="ab13fd7c62b0075e71c021cbcdf0f660e" name="ab13fd7c62b0075e71c021cbcdf0f660e"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnUserInteractionStarted</b> ()</td></tr>
+<tr class="separator:ab13fd7c62b0075e71c021cbcdf0f660e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7be7f27960a1bdbe2d1ffe5f8ae2ef85" id="r_a7be7f27960a1bdbe2d1ffe5f8ae2ef85"><td class="memItemLeft" align="right" valign="top"><a id="a7be7f27960a1bdbe2d1ffe5f8ae2ef85" name="a7be7f27960a1bdbe2d1ffe5f8ae2ef85"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnUserInteractionEnded</b> ()</td></tr>
+<tr class="separator:a7be7f27960a1bdbe2d1ffe5f8ae2ef85"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
 Properties</h2></td></tr>
 <tr class="memitem:a78c564ae81bd5440f09d255cc23b243f" id="r_a78c564ae81bd5440f09d255cc23b243f"><td class="memItemLeft" align="right" valign="top"><a id="a78c564ae81bd5440f09d255cc23b243f" name="a78c564ae81bd5440f09d255cc23b243f"></a>
 float&#160;</td><td class="memItemRight" valign="bottom"><b>CurrentFill</b><code> [get]</code></td></tr>
 <tr class="separator:a78c564ae81bd5440f09d255cc23b243f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a267cef4babbc2104f304fa7f3efd5f1c" id="r_a267cef4babbc2104f304fa7f3efd5f1c"><td class="memItemLeft" align="right" valign="top"><a id="a267cef4babbc2104f304fa7f3efd5f1c" name="a267cef4babbc2104f304fa7f3efd5f1c"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>NormalizedFill</b><code> [get]</code></td></tr>
+<tr class="separator:a267cef4babbc2104f304fa7f3efd5f1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Controls the fill of the water tank using states that use the <a class="el" href="interfaceIFillState.html" title="Represents a tank state. This can be used to represent different tank behaviors like filling,...">IFillState</a> interface. </p>
-</div><hr/>The documentation for this class was generated from the following file:<ul>
+<hr/>The documentation for this class was generated from the following file:<ul>
 <li>Assets/Scripts/Oh Ship Core/Ship/Water Tank/<b>Water Controller.cs</b></li>
 </ul>
 </div><!-- contents -->

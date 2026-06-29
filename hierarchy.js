@@ -40,6 +40,10 @@ var hierarchy =
     [ "IDisposable", null, [
       [ "MatrixUtils.Timers.Timer< T >", "classMatrixUtils_1_1Timers_1_1Timer.html", null ]
     ] ],
+    [ "IDriftingEvent", "interfaceIDriftingEvent.html", [
+      [ "DriftEvent", "classDriftEvent.html", null ],
+      [ "NeutralDriftingEvent", "classNeutralDriftingEvent.html", null ]
+    ] ],
     [ "IEnumerable", null, [
       [ "Optional< T >", "structOptional.html", null ]
     ] ],
@@ -49,10 +53,6 @@ var hierarchy =
     [ "MatrixUtils.EventBus.IEvent", "interfaceMatrixUtils_1_1EventBus_1_1IEvent.html", null ],
     [ "MatrixUtils.EventBus.IEventBinding< T >", "interfaceMatrixUtils_1_1EventBus_1_1IEventBinding.html", [
       [ "MatrixUtils.EventBus.EventBinding< T >", "classMatrixUtils_1_1EventBus_1_1EventBinding.html", null ]
-    ] ],
-    [ "IFillState", "interfaceIFillState.html", [
-      [ "ChangeFillState", "classChangeFillState.html", null ],
-      [ "NeutralFillState", "classNeutralFillState.html", null ]
     ] ],
     [ "IInjector", "interfaceIInjector.html", [
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ]

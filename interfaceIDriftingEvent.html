@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Final Project: Member List</title>
+<title>Final Project: IDriftingEvent Interface Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -63,7 +63,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('classWaterController.html',''); initResizable(); });
+$(document).ready(function(){initNavTree('interfaceIDriftingEvent.html',''); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -89,22 +89,50 @@ $(document).ready(function(){initNavTree('classWaterController.html',''); initRe
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">WaterController Member List</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="interfaceIDriftingEvent-members.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">IDriftingEvent Interface Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p>This is the complete list of members for <a class="el" href="classWaterController.html">WaterController</a>, including all inherited members.</p>
-<table class="directory">
-  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>CurrentFill</b> (defined in <a class="el" href="classWaterController.html">WaterController</a>)</td><td class="entry"><a class="el" href="classWaterController.html">WaterController</a></td><td class="entry"></td></tr>
-  <tr bgcolor="#f0f0f0" class="odd"><td class="entry"><b>HandleFillInput</b>(float fillDirection) (defined in <a class="el" href="classWaterController.html">WaterController</a>)</td><td class="entry"><a class="el" href="classWaterController.html">WaterController</a></td><td class="entry"></td></tr>
-  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>NormalizedFill</b> (defined in <a class="el" href="classWaterController.html">WaterController</a>)</td><td class="entry"><a class="el" href="classWaterController.html">WaterController</a></td><td class="entry"></td></tr>
-  <tr bgcolor="#f0f0f0" class="odd"><td class="entry"><b>OnUserInteractionEnded</b>() (defined in <a class="el" href="classWaterController.html">WaterController</a>)</td><td class="entry"><a class="el" href="classWaterController.html">WaterController</a></td><td class="entry"></td></tr>
-  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>OnUserInteractionStarted</b>() (defined in <a class="el" href="classWaterController.html">WaterController</a>)</td><td class="entry"><a class="el" href="classWaterController.html">WaterController</a></td><td class="entry"></td></tr>
-</table></div><!-- contents -->
+<div class="dynheader">
+Inheritance diagram for IDriftingEvent:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="interfaceIDriftingEvent.png" usemap="#IDriftingEvent_map" alt=""/>
+  <map id="IDriftingEvent_map" name="IDriftingEvent_map">
+<area href="classDriftEvent.html" alt="DriftEvent" shape="rect" coords="0,56,126,80"/>
+<area href="classNeutralDriftingEvent.html" alt="NeutralDriftingEvent" shape="rect" coords="136,56,262,80"/>
+  </map>
+</div></div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a785bb0ff7b3e2e939c99db7548b05de8" id="r_a785bb0ff7b3e2e939c99db7548b05de8"><td class="memItemLeft" align="right" valign="top"><a id="a785bb0ff7b3e2e939c99db7548b05de8" name="a785bb0ff7b3e2e939c99db7548b05de8"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnEventStart</b> (float currentFill)</td></tr>
+<tr class="separator:a785bb0ff7b3e2e939c99db7548b05de8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96431099af49e4eb34919d5467d22597" id="r_a96431099af49e4eb34919d5467d22597"><td class="memItemLeft" align="right" valign="top"><a id="a96431099af49e4eb34919d5467d22597" name="a96431099af49e4eb34919d5467d22597"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnEventUpdate</b> (float currentFill)</td></tr>
+<tr class="separator:a96431099af49e4eb34919d5467d22597"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06f5e18febcbb215cf9a442463bdd72d" id="r_a06f5e18febcbb215cf9a442463bdd72d"><td class="memItemLeft" align="right" valign="top"><a id="a06f5e18febcbb215cf9a442463bdd72d" name="a06f5e18febcbb215cf9a442463bdd72d"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnEventPaused</b> (float currentFill)</td></tr>
+<tr class="separator:a06f5e18febcbb215cf9a442463bdd72d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e8c799aafe849776222c135c2d63691" id="r_a9e8c799aafe849776222c135c2d63691"><td class="memItemLeft" align="right" valign="top"><a id="a9e8c799aafe849776222c135c2d63691" name="a9e8c799aafe849776222c135c2d63691"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnEventResumed</b> (float currentFill)</td></tr>
+<tr class="separator:a9e8c799aafe849776222c135c2d63691"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9b89f566de33cfffeea79b329928a725" id="r_a9b89f566de33cfffeea79b329928a725"><td class="memItemLeft" align="right" valign="top"><a id="a9b89f566de33cfffeea79b329928a725" name="a9b89f566de33cfffeea79b329928a725"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnEventEnd</b> (float currentFill)</td></tr>
+<tr class="separator:a9b89f566de33cfffeea79b329928a725"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<hr/>The documentation for this interface was generated from the following file:<ul>
+<li>Assets/Scripts/Oh Ship Core/Ship/Water Tank/<b>IDriftingEvent.cs</b></li>
+</ul>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
+    <li class="navelem"><a class="el" href="interfaceIDriftingEvent.html">IDriftingEvent</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
