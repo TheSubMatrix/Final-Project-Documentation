@@ -162,6 +162,7 @@ var hierarchy =
     ] ],
     [ "MatrixUtils.Logging.CustomLogger_SO.LogSettings", "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html", null ],
     [ "MonoBehaviour", null, [
+      [ "AttackingObstacle", "classAttackingObstacle.html", null ],
       [ "BoatCoordinate", "classBoatCoordinate.html", null ],
       [ "BottleInteractable", "classBottleInteractable.html", null ],
       [ "BuoyantBody", "classBuoyantBody.html", null ],

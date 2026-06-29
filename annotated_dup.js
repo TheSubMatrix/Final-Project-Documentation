@@ -66,6 +66,7 @@ var annotated_dup =
     ] ],
     [ "AnimationCurveVFXProperty", "classAnimationCurveVFXProperty.html", null ],
     [ "AspectRatioElement", "classAspectRatioElement.html", "classAspectRatioElement" ],
+    [ "AttackingObstacle", "classAttackingObstacle.html", null ],
     [ "BoatCoordinate", "classBoatCoordinate.html", null ],
     [ "BoolVFXProperty", "classBoolVFXProperty.html", null ],
     [ "BottleInteractable", "classBottleInteractable.html", null ],
