@@ -68,6 +68,7 @@ var annotated_dup =
     [ "AspectRatioElement", "classAspectRatioElement.html", "classAspectRatioElement" ],
     [ "BoatCoordinate", "classBoatCoordinate.html", null ],
     [ "BoolVFXProperty", "classBoolVFXProperty.html", null ],
+    [ "BottleInteractable", "classBottleInteractable.html", null ],
     [ "BuoyantBody", "classBuoyantBody.html", null ],
     [ "CalculateObjectVelocity", "classCalculateObjectVelocity.html", "classCalculateObjectVelocity" ],
     [ "ChangeFillState", "classChangeFillState.html", "classChangeFillState" ],
