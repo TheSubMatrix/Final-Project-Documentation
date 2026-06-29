@@ -187,6 +187,7 @@ var hierarchy =
       [ "HungerAndThirst", "classHungerAndThirst.html", null ],
       [ "HungerAndThirstVisualManager", "classHungerAndThirstVisualManager.html", null ],
       [ "LightingManager", "classLightingManager.html", null ],
+      [ "LiquidWobble", "classLiquidWobble.html", null ],
       [ "MatrixUtils.AudioSystem.SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ],
       [ "MatrixUtils.GenericDatatypes.Singleton< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html", null ],

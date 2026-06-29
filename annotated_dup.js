@@ -132,6 +132,7 @@ var annotated_dup =
     [ "IUsableItem", "interfaceIUsableItem.html", null ],
     [ "LightingManager", "classLightingManager.html", null ],
     [ "LightingPreset", "classLightingPreset.html", null ],
+    [ "LiquidWobble", "classLiquidWobble.html", null ],
     [ "Matrix4x4VFXProperty", "classMatrix4x4VFXProperty.html", null ],
     [ "MeshVFXProperty", "classMeshVFXProperty.html", null ],
     [ "MovementTutorialStep", "classMovementTutorialStep.html", null ],
