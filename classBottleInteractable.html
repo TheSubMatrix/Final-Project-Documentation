@@ -90,6 +90,7 @@ $(document).ready(function(){initNavTree('classBottleInteractable.html',''); ini
 
 <div class="header">
   <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="classBottleInteractable-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">BottleInteractable Class Reference</div></div>
 </div><!--header-->
@@ -98,8 +99,91 @@ $(document).ready(function(){initNavTree('classBottleInteractable.html',''); ini
 Inheritance diagram for BottleInteractable:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="classBottleInteractable.png" alt=""/>
- </div></div>
+  <img src="classBottleInteractable.png" usemap="#BottleInteractable_map" alt=""/>
+  <map id="BottleInteractable_map" name="BottleInteractable_map">
+<area href="interfaceIInteractable.html" title="Represents an object that can be interacted with by an IInteractor" alt="IInteractable" shape="rect" coords="119,0,228,24"/>
+<area href="interfaceIPromptProvider.html" title="Represents an object that can display a prompt to the user. Used for things like notifying the player..." alt="IPromptProvider" shape="rect" coords="238,0,347,24"/>
+  </map>
+</div></div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a5124067f5b65a859c4dcb441626e497a" id="r_a5124067f5b65a859c4dcb441626e497a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classInteractionSession.html">InteractionSession</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classBottleInteractable.html#a5124067f5b65a859c4dcb441626e497a">BeginInteraction</a> (<a class="el" href="interfaceIInteractor.html">IInteractor</a> interactor)</td></tr>
+<tr class="memdesc:a5124067f5b65a859c4dcb441626e497a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a>  <br /></td></tr>
+<tr class="separator:a5124067f5b65a859c4dcb441626e497a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49f7947a0905898fbf1ee3302cb9b742" id="r_a49f7947a0905898fbf1ee3302cb9b742"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classPromptData.html">PromptData</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classBottleInteractable.html#a49f7947a0905898fbf1ee3302cb9b742">GetPromptData</a> ()</td></tr>
+<tr class="separator:a49f7947a0905898fbf1ee3302cb9b742"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22c8f7b795198787f93b7220bc99b753" id="r_a22c8f7b795198787f93b7220bc99b753"><td class="memItemLeft" align="right" valign="top">Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classBottleInteractable.html#a22c8f7b795198787f93b7220bc99b753">GetWidgetWorldPosition</a> ()</td></tr>
+<tr class="separator:a22c8f7b795198787f93b7220bc99b753"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a5124067f5b65a859c4dcb441626e497a" name="a5124067f5b65a859c4dcb441626e497a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5124067f5b65a859c4dcb441626e497a">&#9670;&#160;</a></span>BeginInteraction()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classInteractionSession.html">InteractionSession</a> BottleInteractable.BeginInteraction </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="interfaceIInteractor.html">IInteractor</a>&#160;</td>
+          <td class="paramname"><em>interactor</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Begins an interaction with the <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">interactor</td><td>The <a class="el" href="interfaceIInteractor.html" title="Represents an object that can interact with other IInteractables.">IInteractor</a> to begin the interaction with</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>An <a class="el" href="classInteractionSession.html" title="Represents an ongoing interaction between an IInteractor and an IInteractable">InteractionSession</a> representing the current state of the interaction</dd></dl>
+
+<p>Implements <a class="el" href="interfaceIInteractable.html#a2f376f4157a8320c8d644b34c941a3a4">IInteractable</a>.</p>
+
+</div>
+</div>
+<a id="a49f7947a0905898fbf1ee3302cb9b742" name="a49f7947a0905898fbf1ee3302cb9b742"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49f7947a0905898fbf1ee3302cb9b742">&#9670;&#160;</a></span>GetPromptData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classPromptData.html">PromptData</a> BottleInteractable.GetPromptData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="interfaceIPromptProvider.html">IPromptProvider</a>.</p>
+
+</div>
+</div>
+<a id="a22c8f7b795198787f93b7220bc99b753" name="a22c8f7b795198787f93b7220bc99b753"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a22c8f7b795198787f93b7220bc99b753">&#9670;&#160;</a></span>GetWidgetWorldPosition()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Vector3 BottleInteractable.GetWidgetWorldPosition </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="interfaceIPromptProvider.html">IPromptProvider</a>.</p>
+
+</div>
+</div>
 <hr/>The documentation for this class was generated from the following file:<ul>
 <li>Assets/Scripts/Oh Ship Core/Cooking/<b>BottleInteractable.cs</b></li>
 </ul>

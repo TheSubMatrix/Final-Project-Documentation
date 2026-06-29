@@ -69,7 +69,7 @@ var annotated_dup =
     [ "AttackingObstacle", "classAttackingObstacle.html", null ],
     [ "BoatCoordinate", "classBoatCoordinate.html", null ],
     [ "BoolVFXProperty", "classBoolVFXProperty.html", null ],
-    [ "BottleInteractable", "classBottleInteractable.html", null ],
+    [ "BottleInteractable", "classBottleInteractable.html", "classBottleInteractable" ],
     [ "BuoyantBody", "classBuoyantBody.html", null ],
     [ "CalculateObjectVelocity", "classCalculateObjectVelocity.html", "classCalculateObjectVelocity" ],
     [ "CharacterSelectionDataHandler", "classCharacterSelectionDataHandler.html", null ],

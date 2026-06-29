@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classPersistentSingleton.html#a39e87a3123ebb10eb13a5494e81537ee":[1,0,80,0],
 "classPersistentSliderDataHandler.html":[1,0,81],
 "classPlayerControlRouter.html":[1,0,84],
 "classPlayerControlRouter.html#a20a960a5745c314d9d57fab4b35c246f":[1,0,84,0],

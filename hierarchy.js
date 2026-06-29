@@ -58,6 +58,7 @@ var hierarchy =
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ]
     ] ],
     [ "IInteractable", "interfaceIInteractable.html", [
+      [ "BottleInteractable", "classBottleInteractable.html", null ],
       [ "CoalManager", "classCoalManager.html", null ],
       [ "CookFish", "classCookFish.html", null ],
       [ "CookingInteractable", "classCookingInteractable.html", null ],
@@ -116,6 +117,7 @@ var hierarchy =
       [ "PromptDisplay", "classPromptDisplay.html", null ]
     ] ],
     [ "IPromptProvider", "interfaceIPromptProvider.html", [
+      [ "BottleInteractable", "classBottleInteractable.html", null ],
       [ "CoalManager", "classCoalManager.html", null ],
       [ "CookingInteractable", "classCookingInteractable.html", null ],
       [ "FishingManager", "classFishingManager.html", null ],
