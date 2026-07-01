@@ -151,6 +151,9 @@ var hierarchy =
     [ "IPointerClickHandler", null, [
       [ "Unity.UI.Shaders.Sample.CustomButton", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomButton.html", null ]
     ] ],
+    [ "IPostProcessComponent", null, [
+      [ "BlurVolumeComponent", "classBlurVolumeComponent.html", null ]
+    ] ],
     [ "IProgressRepairProvider", "interfaceIProgressRepairProvider.html", [
       [ "ShipHole", "classShipHole.html", null ]
     ] ],
@@ -337,6 +340,12 @@ var hierarchy =
       [ "SO_UsableTerrain", "classSO__UsableTerrain.html", null ],
       [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ]
     ] ],
+    [ "ScriptableRendererFeature", null, [
+      [ "BlurRendererFeature", "classBlurRendererFeature.html", null ]
+    ] ],
+    [ "ScriptableRenderPass", null, [
+      [ "BlurRenderPass", "classBlurRenderPass.html", null ]
+    ] ],
     [ "Rope.SegmentedBezierCurve", "classRope_1_1SegmentedBezierCurve.html", null ],
     [ "Selectable", null, [
       [ "Unity.UI.Shaders.Sample.CustomButton", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomButton.html", null ],
@@ -415,5 +424,8 @@ var hierarchy =
     ] ],
     [ "VisualElement", null, [
       [ "AspectRatioElement", "classAspectRatioElement.html", null ]
+    ] ],
+    [ "VolumeComponent", null, [
+      [ "BlurVolumeComponent", "classBlurVolumeComponent.html", null ]
     ] ]
 ];
