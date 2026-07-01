@@ -2,5 +2,7 @@ var namespaces_dup =
 [
     [ "MatrixUtils", "namespaceMatrixUtils.html", "namespaceMatrixUtils" ],
     [ "ShaderGraphExtension", "namespaceShaderGraphExtension.html", "namespaceShaderGraphExtension" ],
-    [ "System", "namespaceSystem.html", "namespaceSystem" ]
+    [ "System", "namespaceSystem.html", "namespaceSystem" ],
+    [ "Unity", "namespaceUnity.html", "namespaceUnity" ],
+    [ "UnityEditor", "namespaceUnityEditor.html", "namespaceUnityEditor" ]
 ];

@@ -64,6 +64,38 @@ var annotated_dup =
         ] ]
       ] ]
     ] ],
+    [ "Unity", "namespaceUnity.html", [
+      [ "UI", "namespaceUnity_1_1UI.html", [
+        [ "Shaders", "namespaceUnity_1_1UI_1_1Shaders.html", [
+          [ "Sample", "namespaceUnity_1_1UI_1_1Shaders_1_1Sample.html", [
+            [ "Editor", "namespaceUnity_1_1UI_1_1Shaders_1_1Sample_1_1Editor.html", [
+              [ "CustomToggleEditor", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1Editor_1_1CustomToggleEditor.html", null ],
+              [ "MinMaxSliderDrawer", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1Editor_1_1MinMaxSliderDrawer.html", null ]
+            ] ],
+            [ "BlurredHexagonController", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1BlurredHexagonController.html", null ],
+            [ "CustomButton", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomButton.html", null ],
+            [ "CustomSlider", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomSlider.html", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomSlider" ],
+            [ "CustomToggle", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomToggle.html", null ],
+            [ "GraphicColor", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1GraphicColor.html", null ],
+            [ "Meter", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1Meter.html", null ],
+            [ "MinMaxSliderAttribute", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1MinMaxSliderAttribute.html", null ],
+            [ "RangeBar", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1RangeBar.html", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1RangeBar" ],
+            [ "RectTransformSize", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1RectTransformSize.html", null ]
+          ] ]
+        ] ]
+      ] ]
+    ] ],
+    [ "UnityEditor", "namespaceUnityEditor.html", [
+      [ "ShaderGraph", "namespaceUnityEditor_1_1ShaderGraph.html", [
+        [ "MeterValueNode", "classUnityEditor_1_1ShaderGraph_1_1MeterValueNode.html", null ],
+        [ "RangeBarNode", "classUnityEditor_1_1ShaderGraph_1_1RangeBarNode.html", null ],
+        [ "RectTransformSizeNode", "classUnityEditor_1_1ShaderGraph_1_1RectTransformSizeNode.html", null ],
+        [ "SelectableBranchNode", "classUnityEditor_1_1ShaderGraph_1_1SelectableBranchNode.html", null ],
+        [ "SelectableStateNode", "classUnityEditor_1_1ShaderGraph_1_1SelectableStateNode.html", null ],
+        [ "SliderValueNode", "classUnityEditor_1_1ShaderGraph_1_1SliderValueNode.html", null ],
+        [ "ToggleStateNode", "classUnityEditor_1_1ShaderGraph_1_1ToggleStateNode.html", null ]
+      ] ]
+    ] ],
     [ "AnimationCurveVFXProperty", "classAnimationCurveVFXProperty.html", null ],
     [ "AspectRatioElement", "classAspectRatioElement.html", "classAspectRatioElement" ],
     [ "AttackingObstacle", "classAttackingObstacle.html", null ],
@@ -164,6 +196,7 @@ var annotated_dup =
     [ "QuitButton", "classQuitButton.html", null ],
     [ "RandomBag", "structRandomBag.html", null ],
     [ "RandomSoundPlayer", "classRandomSoundPlayer.html", null ],
+    [ "RectTransformSizeDrawer", "classRectTransformSizeDrawer.html", null ],
     [ "RegulatorSingleton", "classRegulatorSingleton.html", "classRegulatorSingleton" ],
     [ "RepairPlate", "classRepairPlate.html", null ],
     [ "RequireInterfaceAttribute", "classRequireInterfaceAttribute.html", null ],
@@ -203,6 +236,7 @@ var annotated_dup =
     [ "TerrainSpawner", "classTerrainSpawner.html", null ],
     [ "tester", "classtester.html", null ],
     [ "TextureVFXProperty", "classTextureVFXProperty.html", null ],
+    [ "Timer", "classTimer.html", null ],
     [ "TransitionReadyUpProxy", "classTransitionReadyUpProxy.html", null ],
     [ "TransitionWhenReadiedUp", "classTransitionWhenReadiedUp.html", null ],
     [ "TutorialContext", "structTutorialContext.html", null ],

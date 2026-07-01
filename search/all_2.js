@@ -2,7 +2,7 @@ var searchData=
 [
   ['calculateobjectvelocity_0',['CalculateObjectVelocity',['../classCalculateObjectVelocity.html',1,'']]],
   ['category_1',['Category',['../structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a57ac8cde937052d0caae5a5abd907773',1,'MatrixUtils::Logging::CustomLogger_SO::LogSettings']]],
-  ['changecontrolledentity_2',['changecontrolledentity',['../classPlayerController.html#aae5561944cc1d4c40be9c70718f03e9b',1,'PlayerController.ChangeControlledEntity()'],['../interfaceIPlayerController.html#a289ce1ce046c4640f6dd3b425b5e275d',1,'IPlayerController.ChangeControlledEntity()']]],
+  ['changecontrolledentity_2',['changecontrolledentity',['../interfaceIPlayerController.html#a289ce1ce046c4640f6dd3b425b5e275d',1,'IPlayerController.ChangeControlledEntity()'],['../classPlayerController.html#aae5561944cc1d4c40be9c70718f03e9b',1,'PlayerController.ChangeControlledEntity()']]],
   ['characterselectiondatahandler_3',['CharacterSelectionDataHandler',['../classCharacterSelectionDataHandler.html',1,'']]],
   ['characterselectionspawnmanager_4',['CharacterSelectionSpawnManager',['../classCharacterSelectionSpawnManager.html',1,'']]],
   ['characterselectorbutton_5',['CharacterSelectorButton',['../classCharacterSelectorButton.html',1,'']]],
@@ -22,6 +22,10 @@ var searchData=
   ['crab_19',['Crab',['../classCrab.html',1,'']]],
   ['currentinteractor_20',['CurrentInteractor',['../classInteractionSession.html#ad4ddc87f2abfb9c6eb1423480cb62962',1,'InteractionSession']]],
   ['curvedefinitionpoint_21',['CurveDefinitionPoint',['../structRope_1_1SegmentedBezierCurve_1_1CurveDefinitionPoint.html',1,'Rope::SegmentedBezierCurve']]],
-  ['customlogger_5fso_22',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]],
-  ['cuttingboardinteractable_23',['CuttingBoardInteractable',['../classCuttingBoardInteractable.html',1,'']]]
+  ['custombutton_22',['CustomButton',['../classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomButton.html',1,'Unity::UI::Shaders::Sample']]],
+  ['customlogger_5fso_23',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]],
+  ['customslider_24',['CustomSlider',['../classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomSlider.html',1,'Unity::UI::Shaders::Sample']]],
+  ['customtoggle_25',['CustomToggle',['../classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomToggle.html',1,'Unity::UI::Shaders::Sample']]],
+  ['customtoggleeditor_26',['CustomToggleEditor',['../classUnity_1_1UI_1_1Shaders_1_1Sample_1_1Editor_1_1CustomToggleEditor.html',1,'Unity::UI::Shaders::Sample::Editor']]],
+  ['cuttingboardinteractable_27',['CuttingBoardInteractable',['../classCuttingBoardInteractable.html',1,'']]]
 ];

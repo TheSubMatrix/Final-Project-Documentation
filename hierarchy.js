@@ -1,5 +1,13 @@
 var hierarchy =
 [
+    [ "AbstractMaterialNode", null, [
+      [ "UnityEditor.ShaderGraph.MeterValueNode", "classUnityEditor_1_1ShaderGraph_1_1MeterValueNode.html", null ],
+      [ "UnityEditor.ShaderGraph.RangeBarNode", "classUnityEditor_1_1ShaderGraph_1_1RangeBarNode.html", null ],
+      [ "UnityEditor.ShaderGraph.RectTransformSizeNode", "classUnityEditor_1_1ShaderGraph_1_1RectTransformSizeNode.html", null ],
+      [ "UnityEditor.ShaderGraph.SelectableStateNode", "classUnityEditor_1_1ShaderGraph_1_1SelectableStateNode.html", null ],
+      [ "UnityEditor.ShaderGraph.SliderValueNode", "classUnityEditor_1_1ShaderGraph_1_1SliderValueNode.html", null ],
+      [ "UnityEditor.ShaderGraph.ToggleStateNode", "classUnityEditor_1_1ShaderGraph_1_1ToggleStateNode.html", null ]
+    ] ],
     [ "Attribute", null, [
       [ "MatrixUtils.DependencyInjection.ProvideAttribute", "classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html", null ]
     ] ],
@@ -8,6 +16,9 @@ var hierarchy =
     ] ],
     [ "Button", null, [
       [ "CharacterSelectorButton", "classCharacterSelectorButton.html", null ]
+    ] ],
+    [ "CodeFunctionNode", null, [
+      [ "UnityEditor.ShaderGraph.SelectableBranchNode", "classUnityEditor_1_1ShaderGraph_1_1SelectableBranchNode.html", null ]
     ] ],
     [ "MatrixUtils.GenericDatatypes.CoroutineWithData< T >", "classMatrixUtils_1_1GenericDatatypes_1_1CoroutineWithData.html", null ],
     [ "Rope.SegmentedBezierCurve.CurveDefinitionPoint", "structRope_1_1SegmentedBezierCurve_1_1CurveDefinitionPoint.html", null ],
@@ -40,6 +51,9 @@ var hierarchy =
     [ "IDisposable", null, [
       [ "MatrixUtils.Timers.Timer< T >", "classMatrixUtils_1_1Timers_1_1Timer.html", null ]
     ] ],
+    [ "IDragHandler", null, [
+      [ "Unity.UI.Shaders.Sample.CustomSlider", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomSlider.html", null ]
+    ] ],
     [ "IDriftingEvent", "interfaceIDriftingEvent.html", [
       [ "DriftEvent", "classDriftEvent.html", null ],
       [ "NeutralDriftingEvent", "classNeutralDriftingEvent.html", null ]
@@ -53,6 +67,20 @@ var hierarchy =
     [ "MatrixUtils.EventBus.IEvent", "interfaceMatrixUtils_1_1EventBus_1_1IEvent.html", null ],
     [ "MatrixUtils.EventBus.IEventBinding< T >", "interfaceMatrixUtils_1_1EventBus_1_1IEventBinding.html", [
       [ "MatrixUtils.EventBus.EventBinding< T >", "classMatrixUtils_1_1EventBus_1_1EventBinding.html", null ]
+    ] ],
+    [ "IGeneratesBodyCode", null, [
+      [ "UnityEditor.ShaderGraph.MeterValueNode", "classUnityEditor_1_1ShaderGraph_1_1MeterValueNode.html", null ],
+      [ "UnityEditor.ShaderGraph.RangeBarNode", "classUnityEditor_1_1ShaderGraph_1_1RangeBarNode.html", null ],
+      [ "UnityEditor.ShaderGraph.RectTransformSizeNode", "classUnityEditor_1_1ShaderGraph_1_1RectTransformSizeNode.html", null ],
+      [ "UnityEditor.ShaderGraph.SelectableStateNode", "classUnityEditor_1_1ShaderGraph_1_1SelectableStateNode.html", null ],
+      [ "UnityEditor.ShaderGraph.SliderValueNode", "classUnityEditor_1_1ShaderGraph_1_1SliderValueNode.html", null ],
+      [ "UnityEditor.ShaderGraph.ToggleStateNode", "classUnityEditor_1_1ShaderGraph_1_1ToggleStateNode.html", null ]
+    ] ],
+    [ "IGetNodePropertyDrawerPropertyData", null, [
+      [ "RectTransformSizeDrawer", "classRectTransformSizeDrawer.html", null ]
+    ] ],
+    [ "IInitializePotentialDragHandler", null, [
+      [ "Unity.UI.Shaders.Sample.CustomSlider", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomSlider.html", null ]
     ] ],
     [ "IInjector", "interfaceIInjector.html", [
       [ "MatrixUtils.DependencyInjection.Injector", "classMatrixUtils_1_1DependencyInjection_1_1Injector.html", null ]
@@ -75,6 +103,15 @@ var hierarchy =
     ] ],
     [ "IInteractor", "interfaceIInteractor.html", [
       [ "PlayerInteractor", "classPlayerInteractor.html", null ]
+    ] ],
+    [ "IMaterialModifier", null, [
+      [ "Unity.UI.Shaders.Sample.BlurredHexagonController", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1BlurredHexagonController.html", null ],
+      [ "Unity.UI.Shaders.Sample.CustomButton", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomButton.html", null ],
+      [ "Unity.UI.Shaders.Sample.CustomSlider", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomSlider.html", null ],
+      [ "Unity.UI.Shaders.Sample.CustomToggle", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomToggle.html", null ],
+      [ "Unity.UI.Shaders.Sample.Meter", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1Meter.html", null ],
+      [ "Unity.UI.Shaders.Sample.RangeBar", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1RangeBar.html", null ],
+      [ "Unity.UI.Shaders.Sample.RectTransformSize", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1RectTransformSize.html", null ]
     ] ],
     [ "IMessageDisplay", "interfaceIMessageDisplay.html", [
       [ "TutorialMessageDisplay", "classTutorialMessageDisplay.html", null ]
@@ -111,6 +148,9 @@ var hierarchy =
     [ "IPlayerController", "interfaceIPlayerController.html", [
       [ "PlayerController", "classPlayerController.html", null ]
     ] ],
+    [ "IPointerClickHandler", null, [
+      [ "Unity.UI.Shaders.Sample.CustomButton", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomButton.html", null ]
+    ] ],
     [ "IProgressRepairProvider", "interfaceIProgressRepairProvider.html", [
       [ "ShipHole", "classShipHole.html", null ]
     ] ],
@@ -132,6 +172,9 @@ var hierarchy =
       [ "StorageInteractable", "classStorageInteractable.html", null ],
       [ "WaterValveInteractable", "classWaterValveInteractable.html", null ]
     ] ],
+    [ "IPropertyDrawer", null, [
+      [ "RectTransformSizeDrawer", "classRectTransformSizeDrawer.html", null ]
+    ] ],
     [ "ISceneTransitioner", "interfaceISceneTransitioner.html", [
       [ "SceneTransitionHandler", "classSceneTransitionHandler.html", null ]
     ] ],
@@ -152,6 +195,9 @@ var hierarchy =
     ] ],
     [ "System.Runtime.CompilerServices.IsExternalInit", "classSystem_1_1Runtime_1_1CompilerServices_1_1IsExternalInit.html", null ],
     [ "ISpawner< in T >", "interfaceISpawner.html", null ],
+    [ "ISubmitHandler", null, [
+      [ "Unity.UI.Shaders.Sample.CustomButton", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomButton.html", null ]
+    ] ],
     [ "MatrixUtils.Timers.ITimer", "interfaceMatrixUtils_1_1Timers_1_1ITimer.html", [
       [ "MatrixUtils.Timers.Timer< T >", "classMatrixUtils_1_1Timers_1_1Timer.html", null ]
     ] ],
@@ -236,6 +282,7 @@ var hierarchy =
       [ "StorageInteractable", "classStorageInteractable.html", null ],
       [ "TerrainCleanup", "classTerrainCleanup.html", null ],
       [ "TerrainSpawner", "classTerrainSpawner.html", null ],
+      [ "Timer", "classTimer.html", null ],
       [ "TransitionReadyUpProxy", "classTransitionReadyUpProxy.html", null ],
       [ "TransitionWhenReadiedUp", "classTransitionWhenReadiedUp.html", null ],
       [ "TutorialMessageDisplay", "classTutorialMessageDisplay.html", null ],
@@ -271,10 +318,15 @@ var hierarchy =
       [ "MatrixUtils.Attributes.ShowIfAttribute", "classMatrixUtils_1_1Attributes_1_1ShowIfAttribute.html", null ],
       [ "MatrixUtils.DependencyInjection.InjectAttribute", "classMatrixUtils_1_1DependencyInjection_1_1InjectAttribute.html", null ],
       [ "RequireInterfaceAttribute", "classRequireInterfaceAttribute.html", null ],
-      [ "TypeFilterAttribute", "classTypeFilterAttribute.html", null ]
+      [ "TypeFilterAttribute", "classTypeFilterAttribute.html", null ],
+      [ "Unity.UI.Shaders.Sample.MinMaxSliderAttribute", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1MinMaxSliderAttribute.html", null ]
+    ] ],
+    [ "PropertyDrawer", null, [
+      [ "Unity.UI.Shaders.Sample.Editor.MinMaxSliderDrawer", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1Editor_1_1MinMaxSliderDrawer.html", null ]
     ] ],
     [ "RandomBag< T >", "structRandomBag.html", null ],
     [ "RandomBag< HolePositionInfo >", "structRandomBag.html", null ],
+    [ "Unity.UI.Shaders.Sample.RangeBar.Range", "structUnity_1_1UI_1_1Shaders_1_1Sample_1_1RangeBar_1_1Range.html", null ],
     [ "RoutineQueue", "classRoutineQueue.html", null ],
     [ "ScriptableObject", null, [
       [ "LightingPreset", "classLightingPreset.html", null ],
@@ -286,6 +338,10 @@ var hierarchy =
       [ "SO_WaterPathingTerrain", "classSO__WaterPathingTerrain.html", null ]
     ] ],
     [ "Rope.SegmentedBezierCurve", "classRope_1_1SegmentedBezierCurve.html", null ],
+    [ "Selectable", null, [
+      [ "Unity.UI.Shaders.Sample.CustomButton", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomButton.html", null ],
+      [ "Unity.UI.Shaders.Sample.CustomSlider", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomSlider.html", null ]
+    ] ],
     [ "SerializableDictionary< CookState, float >", "classSerializableDictionary.html", null ],
     [ "SerializableDictionary< InteractionTag, float >", "classSerializableDictionary.html", null ],
     [ "SerializableDictionary< string, GameObject >", "classSerializableDictionary.html", null ],
@@ -312,9 +368,22 @@ var hierarchy =
     [ "MatrixUtils.Timers.Timer< StopwatchTimer >", "classMatrixUtils_1_1Timers_1_1Timer.html", [
       [ "MatrixUtils.Timers.StopwatchTimer", "classMatrixUtils_1_1Timers_1_1StopwatchTimer.html", null ]
     ] ],
+    [ "Toggle", null, [
+      [ "Unity.UI.Shaders.Sample.CustomToggle", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomToggle.html", null ]
+    ] ],
+    [ "ToggleEditor", null, [
+      [ "Unity.UI.Shaders.Sample.Editor.CustomToggleEditor", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1Editor_1_1CustomToggleEditor.html", null ]
+    ] ],
     [ "TutorialContext", "structTutorialContext.html", null ],
     [ "TutorialStep", "classTutorialStep.html", [
       [ "MovementTutorialStep", "classMovementTutorialStep.html", null ]
+    ] ],
+    [ "UIBehaviour", null, [
+      [ "Unity.UI.Shaders.Sample.BlurredHexagonController", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1BlurredHexagonController.html", null ],
+      [ "Unity.UI.Shaders.Sample.GraphicColor", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1GraphicColor.html", null ],
+      [ "Unity.UI.Shaders.Sample.Meter", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1Meter.html", null ],
+      [ "Unity.UI.Shaders.Sample.RangeBar", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1RangeBar.html", null ],
+      [ "Unity.UI.Shaders.Sample.RectTransformSize", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1RectTransformSize.html", null ]
     ] ],
     [ "UnityEventFromInputAction", "classUnityEventFromInputAction.html", null ],
     [ "AspectRatioElement.UxmlFactory", "classAspectRatioElement_1_1UxmlFactory.html", null ],

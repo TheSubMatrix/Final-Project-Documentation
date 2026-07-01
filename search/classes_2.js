@@ -16,6 +16,10 @@ var searchData=
   ['countdowntimer_13',['CountdownTimer',['../classMatrixUtils_1_1Timers_1_1CountdownTimer.html',1,'MatrixUtils::Timers']]],
   ['crab_14',['Crab',['../classCrab.html',1,'']]],
   ['curvedefinitionpoint_15',['CurveDefinitionPoint',['../structRope_1_1SegmentedBezierCurve_1_1CurveDefinitionPoint.html',1,'Rope::SegmentedBezierCurve']]],
-  ['customlogger_5fso_16',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]],
-  ['cuttingboardinteractable_17',['CuttingBoardInteractable',['../classCuttingBoardInteractable.html',1,'']]]
+  ['custombutton_16',['CustomButton',['../classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomButton.html',1,'Unity::UI::Shaders::Sample']]],
+  ['customlogger_5fso_17',['CustomLogger_SO',['../classMatrixUtils_1_1Logging_1_1CustomLogger__SO.html',1,'MatrixUtils::Logging']]],
+  ['customslider_18',['CustomSlider',['../classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomSlider.html',1,'Unity::UI::Shaders::Sample']]],
+  ['customtoggle_19',['CustomToggle',['../classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomToggle.html',1,'Unity::UI::Shaders::Sample']]],
+  ['customtoggleeditor_20',['CustomToggleEditor',['../classUnity_1_1UI_1_1Shaders_1_1Sample_1_1Editor_1_1CustomToggleEditor.html',1,'Unity::UI::Shaders::Sample::Editor']]],
+  ['cuttingboardinteractable_21',['CuttingBoardInteractable',['../classCuttingBoardInteractable.html',1,'']]]
 ];
