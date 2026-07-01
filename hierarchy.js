@@ -196,6 +196,7 @@ var hierarchy =
       [ "MatrixUtils.GenericDatatypes.Singleton< T >", "classMatrixUtils_1_1GenericDatatypes_1_1Singleton.html", null ],
       [ "MatrixUtils.VFXSystem.VFXEmitter", "classMatrixUtils_1_1VFXSystem_1_1VFXEmitter.html", null ],
       [ "PassOutInteractable", "classPassOutInteractable.html", null ],
+      [ "PauseMenu", "classPauseMenu.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
       [ "PersistentSliderDataHandler", "classPersistentSliderDataHandler.html", null ],
