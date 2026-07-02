@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"namespaceMatrixUtils_1_1VFXSystem.html":[0,0,0,10],
 "namespaceShaderGraphExtension.html":[0,0,1],
 "namespaceSystem.html":[0,0,2],
 "namespaceSystem_1_1Runtime.html":[0,0,2,0],
@@ -13,8 +14,8 @@ var NAVTREEINDEX2 =
 "namespaceUnity_1_1UI_1_1Shaders_1_1Sample_1_1Editor.html":[0,0,3,0,0,0,0],
 "namespaces.html":[0,0],
 "pages.html":[],
-"structHolePositionInfo.html":[1,0,50],
-"structInterfaceArgs.html":[1,0,63],
+"structHolePositionInfo.html":[1,0,51],
+"structInterfaceArgs.html":[1,0,64],
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html":[0,0,0,6,0,0],
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html":[1,0,0,5,0,0],
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a57ac8cde937052d0caae5a5abd907773":[0,0,0,6,0,0,1],
@@ -23,12 +24,12 @@ var NAVTREEINDEX2 =
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a5cdbcea8ce9ac3fd258e9b0c7777a4fb":[1,0,0,5,0,0,0],
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a686a24f1f91925ca4aa1c813dd05a9d7":[0,0,0,6,0,0,2],
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a686a24f1f91925ca4aa1c813dd05a9d7":[1,0,0,5,0,0,2],
-"structOptional.html":[1,0,83],
-"structRandomBag.html":[1,0,106],
-"structRope_1_1SegmentedBezierCurve_1_1CurveDefinitionPoint.html":[1,0,113,0,0],
-"structSerializableGuid.html":[1,0,120],
-"structSerializableKeyValuePair.html":[1,0,122],
-"structTutorialContext.html":[1,0,151],
+"structOptional.html":[1,0,84],
+"structRandomBag.html":[1,0,107],
+"structRope_1_1SegmentedBezierCurve_1_1CurveDefinitionPoint.html":[1,0,114,0,0],
+"structSerializableGuid.html":[1,0,121],
+"structSerializableKeyValuePair.html":[1,0,123],
+"structTutorialContext.html":[1,0,152],
 "structUnity_1_1UI_1_1Shaders_1_1Sample_1_1RangeBar_1_1Range.html":[0,0,3,0,0,0,8,0],
 "structUnity_1_1UI_1_1Shaders_1_1Sample_1_1RangeBar_1_1Range.html":[1,0,3,0,0,0,8,0]
 };

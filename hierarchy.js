@@ -235,6 +235,7 @@ var hierarchy =
       [ "FoodClass", "classFoodClass.html", null ],
       [ "FuelWarning", "classFuelWarning.html", null ],
       [ "GameOverFirstSelected", "classGameOverFirstSelected.html", null ],
+      [ "GameOverScreen", "classGameOverScreen.html", null ],
       [ "GramophoneInteractable", "classGramophoneInteractable.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],

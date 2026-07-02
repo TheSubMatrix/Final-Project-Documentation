@@ -135,6 +135,7 @@ var annotated_dup =
     [ "FoodClass", "classFoodClass.html", null ],
     [ "FuelWarning", "classFuelWarning.html", null ],
     [ "GameOverFirstSelected", "classGameOverFirstSelected.html", null ],
+    [ "GameOverScreen", "classGameOverScreen.html", null ],
     [ "GradientVFXProperty", "classGradientVFXProperty.html", null ],
     [ "GramophoneInteractable", "classGramophoneInteractable.html", "classGramophoneInteractable" ],
     [ "GraphicsBufferVFXProperty", "classGraphicsBufferVFXProperty.html", null ],
