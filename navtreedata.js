@@ -48,7 +48,7 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "classNeutralDriftingEvent.html",
-"namespaceMatrixUtils_1_1VFXSystem.html"
+"namespaceMatrixUtils_1_1Timers.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

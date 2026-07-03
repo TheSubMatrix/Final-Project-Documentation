@@ -178,6 +178,7 @@ var annotated_dup =
     [ "Optional", "structOptional.html", null ],
     [ "PassOutInteractable", "classPassOutInteractable.html", "classPassOutInteractable" ],
     [ "PauseMenu", "classPauseMenu.html", null ],
+    [ "PauseMenuNavigation", "classPauseMenuNavigation.html", null ],
     [ "PersistentService", "classPersistentService.html", "classPersistentService" ],
     [ "PersistentSingleton", "classPersistentSingleton.html", "classPersistentSingleton" ],
     [ "PersistentSliderDataHandler", "classPersistentSliderDataHandler.html", null ],

@@ -250,6 +250,7 @@ var hierarchy =
       [ "MatrixUtils.VFXSystem.VFXEmitter", "classMatrixUtils_1_1VFXSystem_1_1VFXEmitter.html", null ],
       [ "PassOutInteractable", "classPassOutInteractable.html", null ],
       [ "PauseMenu", "classPauseMenu.html", null ],
+      [ "PauseMenuNavigation", "classPauseMenuNavigation.html", null ],
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
       [ "PersistentSliderDataHandler", "classPersistentSliderDataHandler.html", null ],
