@@ -182,6 +182,7 @@ var annotated_dup =
     [ "PersistentService", "classPersistentService.html", "classPersistentService" ],
     [ "PersistentSingleton", "classPersistentSingleton.html", "classPersistentSingleton" ],
     [ "PersistentSliderDataHandler", "classPersistentSliderDataHandler.html", null ],
+    [ "PlaceOfInterestAnimationValues", "classPlaceOfInterestAnimationValues.html", null ],
     [ "PlayerController", "classPlayerController.html", "classPlayerController" ],
     [ "PlayerControllerDataStore", "classPlayerControllerDataStore.html", null ],
     [ "PlayerControlRouter", "classPlayerControlRouter.html", "classPlayerControlRouter" ],

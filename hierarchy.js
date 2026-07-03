@@ -254,6 +254,7 @@ var hierarchy =
       [ "PersistentService< TInterface >", "classPersistentService.html", null ],
       [ "PersistentSingleton< T >", "classPersistentSingleton.html", null ],
       [ "PersistentSliderDataHandler", "classPersistentSliderDataHandler.html", null ],
+      [ "PlaceOfInterestAnimationValues", "classPlaceOfInterestAnimationValues.html", null ],
       [ "PlayerControlRouter", "classPlayerControlRouter.html", null ],
       [ "PlayerController", "classPlayerController.html", null ],
       [ "PlayerControllerDataStore", "classPlayerControllerDataStore.html", null ],
