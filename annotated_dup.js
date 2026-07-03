@@ -260,6 +260,7 @@ var annotated_dup =
     [ "VFXProperty", "classVFXProperty.html", null ],
     [ "WarningIconMessageListener", "classWarningIconMessageListener.html", null ],
     [ "WarningIconMessenger", "classWarningIconMessenger.html", null ],
+    [ "WarningSymbol", "classWarningSymbol.html", null ],
     [ "WaterController", "classWaterController.html", null ],
     [ "WaterFillController", "classWaterFillController.html", null ],
     [ "WaterValveInteractable", "classWaterValveInteractable.html", "classWaterValveInteractable" ],

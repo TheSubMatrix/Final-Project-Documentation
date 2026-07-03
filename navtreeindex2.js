@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"namespaceMatrixUtils_1_1Logging.html":[0,0,0,6],
 "namespaceMatrixUtils_1_1LowLevel.html":[0,0,0,7],
 "namespaceMatrixUtils_1_1ShaderHelpers.html":[0,0,0,8],
 "namespaceMatrixUtils_1_1Timers.html":[0,0,0,9],
