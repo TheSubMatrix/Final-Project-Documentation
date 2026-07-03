@@ -154,6 +154,7 @@ var annotated_dup =
     [ "IMessageDisplay", "interfaceIMessageDisplay.html", "interfaceIMessageDisplay" ],
     [ "INotificationMessenger", "interfaceINotificationMessenger.html", null ],
     [ "InputData", "classInputData.html", null ],
+    [ "InteractionPlayerNotification", "classInteractionPlayerNotification.html", null ],
     [ "InteractionSession", "classInteractionSession.html", "classInteractionSession" ],
     [ "InterfaceArgs", "structInterfaceArgs.html", null ],
     [ "InterfaceReference", "classInterfaceReference.html", null ],

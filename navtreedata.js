@@ -47,8 +47,8 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classNeutralDriftingEvent.html",
-"namespaceMatrixUtils_1_1ShaderHelpers.html"
+"classMovementTutorialStep.html",
+"namespaceMatrixUtils_1_1LowLevel.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

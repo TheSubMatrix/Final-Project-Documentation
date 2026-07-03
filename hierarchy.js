@@ -242,6 +242,7 @@ var hierarchy =
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "HungerAndThirst", "classHungerAndThirst.html", null ],
       [ "HungerAndThirstVisualManager", "classHungerAndThirstVisualManager.html", null ],
+      [ "InteractionPlayerNotification", "classInteractionPlayerNotification.html", null ],
       [ "LightingManager", "classLightingManager.html", null ],
       [ "LiquidWobble", "classLiquidWobble.html", null ],
       [ "MatrixUtils.AudioSystem.SoundEmitter", "classMatrixUtils_1_1AudioSystem_1_1SoundEmitter.html", null ],
