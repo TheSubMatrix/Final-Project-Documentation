@@ -187,7 +187,6 @@ var annotated_dup =
     [ "PlayerController", "classPlayerController.html", "classPlayerController" ],
     [ "PlayerControllerDataStore", "classPlayerControllerDataStore.html", null ],
     [ "PlayerControlRouter", "classPlayerControlRouter.html", "classPlayerControlRouter" ],
-    [ "PlayerInteractions", "classPlayerInteractions.html", null ],
     [ "PlayerInteractionState", "classPlayerInteractionState.html", null ],
     [ "PlayerInteractor", "classPlayerInteractor.html", "classPlayerInteractor" ],
     [ "PlayerLookRaycaster", "classPlayerLookRaycaster.html", null ],
@@ -258,11 +257,13 @@ var annotated_dup =
     [ "Vector3VFXProperty", "classVector3VFXProperty.html", null ],
     [ "Vector4VFXProperty", "classVector4VFXProperty.html", null ],
     [ "VFXProperty", "classVFXProperty.html", null ],
+    [ "WarningIcon", "structWarningIcon.html", null ],
     [ "WarningIconMessageListener", "classWarningIconMessageListener.html", null ],
     [ "WarningIconMessenger", "classWarningIconMessenger.html", null ],
     [ "WarningSymbol", "classWarningSymbol.html", null ],
     [ "WaterController", "classWaterController.html", null ],
     [ "WaterFillController", "classWaterFillController.html", null ],
     [ "WaterValveInteractable", "classWaterValveInteractable.html", "classWaterValveInteractable" ],
-    [ "WindowModeDropdown", "classWindowModeDropdown.html", null ]
+    [ "WindowModeDropdown", "classWindowModeDropdown.html", null ],
+    [ "WorldWarningIcon", "structWorldWarningIcon.html", null ]
 ];

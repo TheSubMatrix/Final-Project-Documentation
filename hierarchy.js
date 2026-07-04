@@ -260,7 +260,6 @@ var hierarchy =
       [ "PlayerController", "classPlayerController.html", null ],
       [ "PlayerControllerDataStore", "classPlayerControllerDataStore.html", null ],
       [ "PlayerInteractionState", "classPlayerInteractionState.html", null ],
-      [ "PlayerInteractions", "classPlayerInteractions.html", null ],
       [ "PlayerInteractor", "classPlayerInteractor.html", null ],
       [ "PlayerLookRaycaster", "classPlayerLookRaycaster.html", null ],
       [ "PlayerMainMenuSpawner", "classPlayerMainMenuSpawner.html", null ],
@@ -432,5 +431,7 @@ var hierarchy =
     ] ],
     [ "VolumeComponent", null, [
       [ "BlurVolumeComponent", "classBlurVolumeComponent.html", null ]
-    ] ]
+    ] ],
+    [ "WarningIcon", "structWarningIcon.html", null ],
+    [ "WorldWarningIcon", "structWorldWarningIcon.html", null ]
 ];
