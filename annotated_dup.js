@@ -107,6 +107,7 @@ var annotated_dup =
     [ "BottleInteractable", "classBottleInteractable.html", "classBottleInteractable" ],
     [ "BuoyantBody", "classBuoyantBody.html", null ],
     [ "CalculateObjectVelocity", "classCalculateObjectVelocity.html", "classCalculateObjectVelocity" ],
+    [ "CharacterSelectionConfirm", "classCharacterSelectionConfirm.html", null ],
     [ "CharacterSelectionDataHandler", "classCharacterSelectionDataHandler.html", null ],
     [ "CharacterSelectionSpawnManager", "classCharacterSelectionSpawnManager.html", null ],
     [ "CharacterSelectorButton", "classCharacterSelectorButton.html", null ],

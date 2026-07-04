@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"namespaceMatrixUtils_1_1GenericDatatypes.html":[0,0,0,5],
 "namespaceMatrixUtils_1_1Logging.html":[0,0,0,6],
 "namespaceMatrixUtils_1_1LowLevel.html":[0,0,0,7],
 "namespaceMatrixUtils_1_1ShaderHelpers.html":[0,0,0,8],
@@ -18,8 +19,8 @@ var NAVTREEINDEX2 =
 "namespaceUnity_1_1UI_1_1Shaders_1_1Sample_1_1Editor.html":[0,0,3,0,0,0,0],
 "namespaces.html":[0,0],
 "pages.html":[],
-"structHolePositionInfo.html":[1,0,51],
-"structInterfaceArgs.html":[1,0,65],
+"structHolePositionInfo.html":[1,0,52],
+"structInterfaceArgs.html":[1,0,66],
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html":[0,0,0,6,0,0],
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html":[1,0,0,5,0,0],
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a57ac8cde937052d0caae5a5abd907773":[0,0,0,6,0,0,1],
@@ -28,14 +29,14 @@ var NAVTREEINDEX2 =
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a5cdbcea8ce9ac3fd258e9b0c7777a4fb":[1,0,0,5,0,0,0],
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a686a24f1f91925ca4aa1c813dd05a9d7":[0,0,0,6,0,0,2],
 "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html#a686a24f1f91925ca4aa1c813dd05a9d7":[1,0,0,5,0,0,2],
-"structOptional.html":[1,0,85],
-"structRandomBag.html":[1,0,110],
-"structRope_1_1SegmentedBezierCurve_1_1CurveDefinitionPoint.html":[1,0,117,0,0],
-"structSerializableGuid.html":[1,0,124],
-"structSerializableKeyValuePair.html":[1,0,126],
-"structTutorialContext.html":[1,0,155],
+"structOptional.html":[1,0,86],
+"structRandomBag.html":[1,0,111],
+"structRope_1_1SegmentedBezierCurve_1_1CurveDefinitionPoint.html":[1,0,118,0,0],
+"structSerializableGuid.html":[1,0,125],
+"structSerializableKeyValuePair.html":[1,0,127],
+"structTutorialContext.html":[1,0,156],
 "structUnity_1_1UI_1_1Shaders_1_1Sample_1_1RangeBar_1_1Range.html":[0,0,3,0,0,0,8,0],
 "structUnity_1_1UI_1_1Shaders_1_1Sample_1_1RangeBar_1_1Range.html":[1,0,3,0,0,0,8,0],
-"structWarningIcon.html":[1,0,167],
-"structWorldWarningIcon.html":[1,0,175]
+"structWarningIcon.html":[1,0,168],
+"structWorldWarningIcon.html":[1,0,176]
 };

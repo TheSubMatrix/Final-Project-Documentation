@@ -219,6 +219,7 @@ var hierarchy =
       [ "BoatCoordinate", "classBoatCoordinate.html", null ],
       [ "BottleInteractable", "classBottleInteractable.html", null ],
       [ "BuoyantBody", "classBuoyantBody.html", null ],
+      [ "CharacterSelectionConfirm", "classCharacterSelectionConfirm.html", null ],
       [ "CharacterSelectionSpawnManager", "classCharacterSelectionSpawnManager.html", null ],
       [ "CoalManager", "classCoalManager.html", null ],
       [ "CoalUI", "classCoalUI.html", null ],
