@@ -197,6 +197,7 @@ var annotated_dup =
     [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
     [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
     [ "PoliceBoatManager", "classPoliceBoatManager.html", null ],
+    [ "PoliceBridge", "classPoliceBridge.html", null ],
     [ "PromptData", "classPromptData.html", "classPromptData" ],
     [ "PromptDisplay", "classPromptDisplay.html", null ],
     [ "QuitButton", "classQuitButton.html", null ],

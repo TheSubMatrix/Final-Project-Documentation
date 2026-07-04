@@ -269,6 +269,7 @@ var hierarchy =
       [ "PlayerSpawnManager", "classPlayerSpawnManager.html", null ],
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ],
       [ "PoliceBoatManager", "classPoliceBoatManager.html", null ],
+      [ "PoliceBridge", "classPoliceBridge.html", null ],
       [ "PromptDisplay", "classPromptDisplay.html", null ],
       [ "QuitButton", "classQuitButton.html", null ],
       [ "RandomSoundPlayer", "classRandomSoundPlayer.html", null ],

@@ -24,7 +24,8 @@ var searchData=
   ['playerspawnmanager_21',['PlayerSpawnManager',['../classPlayerSpawnManager.html',1,'']]],
   ['playertransitionhider_22',['PlayerTransitionHider',['../classPlayerTransitionHider.html',1,'']]],
   ['policeboatmanager_23',['PoliceBoatManager',['../classPoliceBoatManager.html',1,'']]],
-  ['promptdata_24',['PromptData',['../classPromptData.html',1,'']]],
-  ['promptdisplay_25',['PromptDisplay',['../classPromptDisplay.html',1,'']]],
-  ['provideattribute_26',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
+  ['policebridge_24',['PoliceBridge',['../classPoliceBridge.html',1,'']]],
+  ['promptdata_25',['PromptData',['../classPromptData.html',1,'']]],
+  ['promptdisplay_26',['PromptDisplay',['../classPromptDisplay.html',1,'']]],
+  ['provideattribute_27',['ProvideAttribute',['../classMatrixUtils_1_1DependencyInjection_1_1ProvideAttribute.html',1,'MatrixUtils::DependencyInjection']]]
 ];
