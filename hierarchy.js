@@ -45,6 +45,9 @@ var hierarchy =
       [ "TransitionWhenReadiedUp", "classTransitionWhenReadiedUp.html", null ],
       [ "WarningIconMessenger", "classWarningIconMessenger.html", null ]
     ] ],
+    [ "IDeselectHandler", null, [
+      [ "HelpButtonSelection", "classHelpButtonSelection.html", null ]
+    ] ],
     [ "IDictionary", null, [
       [ "SerializableDictionary< TKey, TValue >", "classSerializableDictionary.html", null ]
     ] ],
@@ -182,7 +185,8 @@ var hierarchy =
       [ "SceneTransitionHandler", "classSceneTransitionHandler.html", null ]
     ] ],
     [ "ISelectHandler", null, [
-      [ "DropdownScroller", "classDropdownScroller.html", null ]
+      [ "DropdownScroller", "classDropdownScroller.html", null ],
+      [ "HelpButtonSelection", "classHelpButtonSelection.html", null ]
     ] ],
     [ "ISerializationCallbackReceiver", null, [
       [ "MatrixUtils.GenericDatatypes.SerializableHashSet< T >", "classMatrixUtils_1_1GenericDatatypes_1_1SerializableHashSet.html", null ],
@@ -241,6 +245,8 @@ var hierarchy =
       [ "HatchInteractable", "classHatchInteractable.html", null ],
       [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
+      [ "HelpButtonSelection", "classHelpButtonSelection.html", null ],
+      [ "HelpMenuManager", "classHelpMenuManager.html", null ],
       [ "HungerAndThirst", "classHungerAndThirst.html", null ],
       [ "HungerAndThirstVisualManager", "classHungerAndThirstVisualManager.html", null ],
       [ "InteractionPlayerNotification", "classInteractionPlayerNotification.html", null ],

@@ -143,6 +143,8 @@ var annotated_dup =
     [ "HatchInteractable", "classHatchInteractable.html", "classHatchInteractable" ],
     [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
     [ "HelmInteractable", "classHelmInteractable.html", "classHelmInteractable" ],
+    [ "HelpButtonSelection", "classHelpButtonSelection.html", null ],
+    [ "HelpMenuManager", "classHelpMenuManager.html", null ],
     [ "HolePositionInfo", "structHolePositionInfo.html", null ],
     [ "HungerAndThirst", "classHungerAndThirst.html", null ],
     [ "HungerAndThirstVisualManager", "classHungerAndThirstVisualManager.html", null ],

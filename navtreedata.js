@@ -47,8 +47,8 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classMeshVFXProperty.html",
-"namespaceMatrixUtils_1_1GenericDatatypes.html"
+"classMatrixUtils_1_1VFXSystem_1_1VFXManager_1_1VFXPoolData.html",
+"namespaceMatrixUtils_1_1EventBus.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
