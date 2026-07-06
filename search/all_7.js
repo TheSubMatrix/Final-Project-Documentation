@@ -1,7 +1,7 @@
 var searchData=
 [
   ['hatchinteractable_0',['HatchInteractable',['../classHatchInteractable.html',1,'']]],
-  ['heldobjectlocation_1',['HeldObjectLocation',['../classHeldObjectLocation.html',1,'']]],
+  ['heldobjecthandler_1',['HeldObjectHandler',['../classHeldObjectHandler.html',1,'']]],
   ['helminteractable_2',['HelmInteractable',['../classHelmInteractable.html',1,'']]],
   ['helpbuttonselection_3',['HelpButtonSelection',['../classHelpButtonSelection.html',1,'']]],
   ['helpmenumanager_4',['HelpMenuManager',['../classHelpMenuManager.html',1,'']]],

@@ -103,7 +103,7 @@ Inheritance diagram for Crab:</div>
   <img src="classCrab.png" usemap="#Crab_map" alt=""/>
   <map id="Crab_map" name="Crab_map">
 <area href="classFoodClass.html" alt="FoodClass" shape="rect" coords="56,56,158,80"/>
-<area href="interfaceIUsableItem.html" alt="IUsableItem" shape="rect" coords="112,0,214,24"/>
+<area href="interfaceIHeldItem.html" alt="IHeldItem" shape="rect" coords="112,0,214,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
@@ -122,6 +122,12 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>InitializeHungerAndTh
 <tr class="separator:a3fc92232f0103ea60238e050f54c8fb8 inherit pub_methods_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a19c6790eaaf786add42d234b0a4bbc5c inherit pub_methods_classFoodClass" id="r_a19c6790eaaf786add42d234b0a4bbc5c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFoodClass.html#a19c6790eaaf786add42d234b0a4bbc5c">Use</a> ()</td></tr>
 <tr class="separator:a19c6790eaaf786add42d234b0a4bbc5c inherit pub_methods_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a966d3695f644b6fe5704f913f7b28ade inherit pub_methods_classFoodClass" id="r_a966d3695f644b6fe5704f913f7b28ade"><td class="memItemLeft" align="right" valign="top">Transform&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFoodClass.html#a966d3695f644b6fe5704f913f7b28ade">GetTransform</a> ()</td></tr>
+<tr class="separator:a966d3695f644b6fe5704f913f7b28ade inherit pub_methods_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace13a7d064979ef9ef37ccf7ce6e141d inherit pub_methods_classFoodClass" id="r_ace13a7d064979ef9ef37ccf7ce6e141d"><td class="memItemLeft" align="right" valign="top">virtual Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFoodClass.html#ace13a7d064979ef9ef37ccf7ce6e141d">GetPositionOffset</a> ()</td></tr>
+<tr class="separator:ace13a7d064979ef9ef37ccf7ce6e141d inherit pub_methods_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a10329547195024740a7aa4c9776229e4 inherit pub_methods_classFoodClass" id="r_a10329547195024740a7aa4c9776229e4"><td class="memItemLeft" align="right" valign="top">virtual Quaternion&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFoodClass.html#a10329547195024740a7aa4c9776229e4">GetRotationOffset</a> ()</td></tr>
+<tr class="separator:a10329547195024740a7aa4c9776229e4 inherit pub_methods_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a01b0fb2e6fe50a10712639b786919a92 inherit pub_methods_classFoodClass" id="r_a01b0fb2e6fe50a10712639b786919a92"><td class="memItemLeft" align="right" valign="top">
 float&#160;</td><td class="memItemRight" valign="bottom"><b>GetCookingSpeed</b> ()</td></tr>
 <tr class="separator:a01b0fb2e6fe50a10712639b786919a92 inherit pub_methods_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -139,7 +145,7 @@ override CookingProcess&#160;</td><td class="memItemRight" valign="bottom"><b>Co
 <tr class="separator:a94f05516fd48254bbe9ffefef658b2b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header properties_classFoodClass"><td colspan="2" onclick="javascript:toggleInherit('properties_classFoodClass')"><img src="closed.png" alt="-"/>&#160;Properties inherited from <a class="el" href="classFoodClass.html">FoodClass</a></td></tr>
 <tr class="memitem:a6e5bfa89742fb8ca3afe79c54b2a07e1 inherit properties_classFoodClass" id="r_a6e5bfa89742fb8ca3afe79c54b2a07e1"><td class="memItemLeft" align="right" valign="top">
-<a class="el" href="classSO__CookableFoodData.html">SO_CookableFoodData</a>&#160;</td><td class="memItemRight" valign="bottom"><b>FoodData</b><code> [get, set]</code></td></tr>
+<a class="el" href="classSO__CookableFoodData.html">SO_CookableFoodData</a>&#160;</td><td class="memItemRight" valign="bottom"><b>FoodData</b><code> [get]</code></td></tr>
 <tr class="separator:a6e5bfa89742fb8ca3afe79c54b2a07e1 inherit properties_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab8220835c0205fcc34afe3caa75563e1 inherit properties_classFoodClass" id="r_ab8220835c0205fcc34afe3caa75563e1"><td class="memItemLeft" align="right" valign="top">
 CookingProcess&#160;</td><td class="memItemRight" valign="bottom"><b>CookingProcess</b><code> [get]</code></td></tr>
@@ -151,9 +157,9 @@ CookState&#160;</td><td class="memItemRight" valign="bottom"><b>CookStateRef</b>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
 <tr class="inherit_header pro_attribs_classFoodClass"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_classFoodClass')"><img src="closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="classFoodClass.html">FoodClass</a></td></tr>
-<tr class="memitem:a271c347478a82ca373da7244c70fd5ff inherit pro_attribs_classFoodClass" id="r_a271c347478a82ca373da7244c70fd5ff"><td class="memItemLeft" align="right" valign="top">
-<a class="el" href="classSO__CookableFoodData.html">SO_CookableFoodData</a>&#160;</td><td class="memItemRight" valign="bottom"><b>foodData</b></td></tr>
-<tr class="separator:a271c347478a82ca373da7244c70fd5ff inherit pro_attribs_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41f3dde45bd71110315d61cf452895ea inherit pro_attribs_classFoodClass" id="r_a41f3dde45bd71110315d61cf452895ea"><td class="memItemLeft" align="right" valign="top">
+<a class="el" href="classSO__CookableFoodData.html">SO_CookableFoodData</a>&#160;</td><td class="memItemRight" valign="bottom"><b>m_foodData</b></td></tr>
+<tr class="separator:a41f3dde45bd71110315d61cf452895ea inherit pro_attribs_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
 <a id="a38c859b548fd896945bd10fc7b902825" name="a38c859b548fd896945bd10fc7b902825"></a>

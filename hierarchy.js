@@ -82,6 +82,12 @@ var hierarchy =
     [ "IGetNodePropertyDrawerPropertyData", null, [
       [ "RectTransformSizeDrawer", "classRectTransformSizeDrawer.html", null ]
     ] ],
+    [ "IHeldItem", "interfaceIHeldItem.html", [
+      [ "FoodClass", "classFoodClass.html", [
+        [ "Crab", "classCrab.html", null ],
+        [ "Fish", "classFish.html", null ]
+      ] ]
+    ] ],
     [ "IInitializePotentialDragHandler", null, [
       [ "Unity.UI.Shaders.Sample.CustomSlider", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomSlider.html", null ]
     ] ],
@@ -211,15 +217,8 @@ var hierarchy =
     [ "ITransitionHider", "interfaceITransitionHider.html", [
       [ "PlayerTransitionHider", "classPlayerTransitionHider.html", null ]
     ] ],
-    [ "IUsableItem", "interfaceIUsableItem.html", [
-      [ "FoodClass", "classFoodClass.html", [
-        [ "Crab", "classCrab.html", null ],
-        [ "Fish", "classFish.html", null ]
-      ] ]
-    ] ],
     [ "MatrixUtils.Logging.CustomLogger_SO.LogSettings", "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html", null ],
     [ "MonoBehaviour", null, [
-      [ "AttackingObstacle", "classAttackingObstacle.html", null ],
       [ "BoatCoordinate", "classBoatCoordinate.html", null ],
       [ "BottleInteractable", "classBottleInteractable.html", null ],
       [ "BuoyantBody", "classBuoyantBody.html", null ],
@@ -243,7 +242,7 @@ var hierarchy =
       [ "GameOverScreen", "classGameOverScreen.html", null ],
       [ "GramophoneInteractable", "classGramophoneInteractable.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
-      [ "HeldObjectLocation", "classHeldObjectLocation.html", null ],
+      [ "HeldObjectHandler", "classHeldObjectHandler.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "HelpButtonSelection", "classHelpButtonSelection.html", null ],
       [ "HelpMenuManager", "classHelpMenuManager.html", null ],
