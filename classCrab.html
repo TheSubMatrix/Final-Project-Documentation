@@ -116,6 +116,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a30a20f9ad650aa08233a7b62c51336a1" id="r_a30a20f9ad650aa08233a7b62c51336a1"><td class="memItemLeft" align="right" valign="top"><a id="a30a20f9ad650aa08233a7b62c51336a1" name="a30a20f9ad650aa08233a7b62c51336a1"></a>
 override float&#160;</td><td class="memItemRight" valign="bottom"><b>Eat</b> ()</td></tr>
 <tr class="separator:a30a20f9ad650aa08233a7b62c51336a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e02cf0aff66954d5670d863142f5466" id="r_a3e02cf0aff66954d5670d863142f5466"><td class="memItemLeft" align="right" valign="top">override Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCrab.html#a3e02cf0aff66954d5670d863142f5466">GetPositionOffset</a> ()</td></tr>
+<tr class="separator:a3e02cf0aff66954d5670d863142f5466"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae94c8b0e52e5a27a1964badd118a75bc" id="r_ae94c8b0e52e5a27a1964badd118a75bc"><td class="memItemLeft" align="right" valign="top">override Quaternion&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCrab.html#ae94c8b0e52e5a27a1964badd118a75bc">GetRotationOffset</a> ()</td></tr>
+<tr class="separator:ae94c8b0e52e5a27a1964badd118a75bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classFoodClass"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classFoodClass')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classFoodClass.html">FoodClass</a></td></tr>
 <tr class="memitem:a3fc92232f0103ea60238e050f54c8fb8 inherit pub_methods_classFoodClass" id="r_a3fc92232f0103ea60238e050f54c8fb8"><td class="memItemLeft" align="right" valign="top">
 void&#160;</td><td class="memItemRight" valign="bottom"><b>InitializeHungerAndThirst</b> (<a class="el" href="classHungerAndThirst.html">HungerAndThirst</a> hungerAndThirst)</td></tr>
@@ -124,10 +128,8 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>InitializeHungerAndTh
 <tr class="separator:a19c6790eaaf786add42d234b0a4bbc5c inherit pub_methods_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a966d3695f644b6fe5704f913f7b28ade inherit pub_methods_classFoodClass" id="r_a966d3695f644b6fe5704f913f7b28ade"><td class="memItemLeft" align="right" valign="top">Transform&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFoodClass.html#a966d3695f644b6fe5704f913f7b28ade">GetTransform</a> ()</td></tr>
 <tr class="separator:a966d3695f644b6fe5704f913f7b28ade inherit pub_methods_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ace13a7d064979ef9ef37ccf7ce6e141d inherit pub_methods_classFoodClass" id="r_ace13a7d064979ef9ef37ccf7ce6e141d"><td class="memItemLeft" align="right" valign="top">virtual Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFoodClass.html#ace13a7d064979ef9ef37ccf7ce6e141d">GetPositionOffset</a> ()</td></tr>
-<tr class="separator:ace13a7d064979ef9ef37ccf7ce6e141d inherit pub_methods_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a10329547195024740a7aa4c9776229e4 inherit pub_methods_classFoodClass" id="r_a10329547195024740a7aa4c9776229e4"><td class="memItemLeft" align="right" valign="top">virtual Quaternion&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFoodClass.html#a10329547195024740a7aa4c9776229e4">GetRotationOffset</a> ()</td></tr>
-<tr class="separator:a10329547195024740a7aa4c9776229e4 inherit pub_methods_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c35ad9b244642ffc78f0c0e51b4ba84 inherit pub_methods_classFoodClass" id="r_a7c35ad9b244642ffc78f0c0e51b4ba84"><td class="memItemLeft" align="right" valign="top">GameObject&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFoodClass.html#a7c35ad9b244642ffc78f0c0e51b4ba84">GetAssociatedGameObject</a> ()</td></tr>
+<tr class="separator:a7c35ad9b244642ffc78f0c0e51b4ba84 inherit pub_methods_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a01b0fb2e6fe50a10712639b786919a92 inherit pub_methods_classFoodClass" id="r_a01b0fb2e6fe50a10712639b786919a92"><td class="memItemLeft" align="right" valign="top">
 float&#160;</td><td class="memItemRight" valign="bottom"><b>GetCookingSpeed</b> ()</td></tr>
 <tr class="separator:a01b0fb2e6fe50a10712639b786919a92 inherit pub_methods_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -162,6 +164,60 @@ Additional Inherited Members</h2></td></tr>
 <tr class="separator:a41f3dde45bd71110315d61cf452895ea inherit pro_attribs_classFoodClass"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="a3e02cf0aff66954d5670d863142f5466" name="a3e02cf0aff66954d5670d863142f5466"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e02cf0aff66954d5670d863142f5466">&#9670;&#160;</a></span>GetPositionOffset()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">override Vector3 Crab.GetPositionOffset </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="classFoodClass.html">FoodClass</a>.</p>
+
+</div>
+</div>
+<a id="ae94c8b0e52e5a27a1964badd118a75bc" name="ae94c8b0e52e5a27a1964badd118a75bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae94c8b0e52e5a27a1964badd118a75bc">&#9670;&#160;</a></span>GetRotationOffset()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">override Quaternion Crab.GetRotationOffset </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="classFoodClass.html">FoodClass</a>.</p>
+
+</div>
+</div>
 <a id="a38c859b548fd896945bd10fc7b902825" name="a38c859b548fd896945bd10fc7b902825"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a38c859b548fd896945bd10fc7b902825">&#9670;&#160;</a></span>Reset()</h2>
 

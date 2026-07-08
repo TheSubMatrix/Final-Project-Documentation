@@ -48,7 +48,7 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "classMatrixUtils_1_1VFXSystem_1_1VFXManager_1_1VFXPoolData.html",
-"namespaceMatrixUtils_1_1Extensions.html"
+"namespaceMatrixUtils_1_1DependencyInjection.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Final Project: IHeldItem Interface Reference</title>
+<title>Final Project: IHeldItemHandler Interface Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -63,7 +63,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('interfaceIHeldItem.html',''); initResizable(); });
+$(document).ready(function(){initNavTree('interfaceIHeldItemHandler.html',''); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -91,50 +91,54 @@ $(document).ready(function(){initNavTree('interfaceIHeldItem.html',''); initResi
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="interfaceIHeldItem-members.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">IHeldItem Interface Reference</div></div>
+<a href="#properties">Properties</a> &#124;
+<a href="interfaceIHeldItemHandler-members.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">IHeldItemHandler Interface Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="dynheader">
-Inheritance diagram for IHeldItem:</div>
+Inheritance diagram for IHeldItemHandler:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="interfaceIHeldItem.png" usemap="#IHeldItem_map" alt=""/>
-  <map id="IHeldItem_map" name="IHeldItem_map">
-<area href="classBottleHeld.html" alt="BottleHeld" shape="rect" coords="0,56,72,80"/>
-<area href="classFoodClass.html" alt="FoodClass" shape="rect" coords="82,56,154,80"/>
-<area href="classCrab.html" alt="Crab" shape="rect" coords="41,112,113,136"/>
-<area href="classFish.html" alt="Fish" shape="rect" coords="123,112,195,136"/>
+  <img src="interfaceIHeldItemHandler.png" usemap="#IHeldItemHandler_map" alt=""/>
+  <map id="IHeldItemHandler_map" name="IHeldItemHandler_map">
+<area href="classHeldItemHandler.html" alt="HeldItemHandler" shape="rect" coords="0,56,108,80"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a065f81c71c055de9650672a4fcd47475" id="r_a065f81c71c055de9650672a4fcd47475"><td class="memItemLeft" align="right" valign="top"><a id="a065f81c71c055de9650672a4fcd47475" name="a065f81c71c055de9650672a4fcd47475"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>Use</b> ()</td></tr>
-<tr class="separator:a065f81c71c055de9650672a4fcd47475"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1499f82aeb8e9ef0f7143ebc99e9c52c" id="r_a1499f82aeb8e9ef0f7143ebc99e9c52c"><td class="memItemLeft" align="right" valign="top"><a id="a1499f82aeb8e9ef0f7143ebc99e9c52c" name="a1499f82aeb8e9ef0f7143ebc99e9c52c"></a>
-Transform&#160;</td><td class="memItemRight" valign="bottom"><b>GetTransform</b> ()</td></tr>
-<tr class="separator:a1499f82aeb8e9ef0f7143ebc99e9c52c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a052d1d31144c361462af86c3420d809e" id="r_a052d1d31144c361462af86c3420d809e"><td class="memItemLeft" align="right" valign="top"><a id="a052d1d31144c361462af86c3420d809e" name="a052d1d31144c361462af86c3420d809e"></a>
-Vector3&#160;</td><td class="memItemRight" valign="bottom"><b>GetPositionOffset</b> ()</td></tr>
-<tr class="separator:a052d1d31144c361462af86c3420d809e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab80930631646c7f144a488f070034090" id="r_ab80930631646c7f144a488f070034090"><td class="memItemLeft" align="right" valign="top"><a id="ab80930631646c7f144a488f070034090" name="ab80930631646c7f144a488f070034090"></a>
-Quaternion&#160;</td><td class="memItemRight" valign="bottom"><b>GetRotationOffset</b> ()</td></tr>
-<tr class="separator:ab80930631646c7f144a488f070034090"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad3fbb9ab964e02101737071a147a6518" id="r_ad3fbb9ab964e02101737071a147a6518"><td class="memItemLeft" align="right" valign="top"><a id="ad3fbb9ab964e02101737071a147a6518" name="ad3fbb9ab964e02101737071a147a6518"></a>
+<tr class="memitem:af8697e1ff8e0df16418c69eecf8bb2d8" id="r_af8697e1ff8e0df16418c69eecf8bb2d8"><td class="memItemLeft" align="right" valign="top"><a id="af8697e1ff8e0df16418c69eecf8bb2d8" name="af8697e1ff8e0df16418c69eecf8bb2d8"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TryHoldItem</b> (<a class="el" href="interfaceIHeldItem.html">IHeldItem</a> item)</td></tr>
+<tr class="separator:af8697e1ff8e0df16418c69eecf8bb2d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc8c819aa296d392c8cc77aba320ff4d" id="r_abc8c819aa296d392c8cc77aba320ff4d"><td class="memItemLeft" align="right" valign="top"><a id="abc8c819aa296d392c8cc77aba320ff4d" name="abc8c819aa296d392c8cc77aba320ff4d"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TryDropItem</b> ()</td></tr>
+<tr class="separator:abc8c819aa296d392c8cc77aba320ff4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95313b1bc32fa4a88250c120475f5909" id="r_a95313b1bc32fa4a88250c120475f5909"><td class="memItemLeft" align="right" valign="top"><a id="a95313b1bc32fa4a88250c120475f5909" name="a95313b1bc32fa4a88250c120475f5909"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TryClearHeldItem</b> ()</td></tr>
+<tr class="separator:a95313b1bc32fa4a88250c120475f5909"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8322f484390f68e84766043aed4fbeb0" id="r_a8322f484390f68e84766043aed4fbeb0"><td class="memItemLeft" align="right" valign="top"><a id="a8322f484390f68e84766043aed4fbeb0" name="a8322f484390f68e84766043aed4fbeb0"></a>
 GameObject&#160;</td><td class="memItemRight" valign="bottom"><b>GetAssociatedGameObject</b> ()</td></tr>
-<tr class="separator:ad3fbb9ab964e02101737071a147a6518"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a8322f484390f68e84766043aed4fbeb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
+Properties</h2></td></tr>
+<tr class="memitem:a91bc49bfb3ee368a52784a1408627359" id="r_a91bc49bfb3ee368a52784a1408627359"><td class="memItemLeft" align="right" valign="top"><a id="a91bc49bfb3ee368a52784a1408627359" name="a91bc49bfb3ee368a52784a1408627359"></a>
+<a class="el" href="interfaceIHeldItem.html">IHeldItem</a>&#160;</td><td class="memItemRight" valign="bottom"><b>HeldItem</b><code> [get]</code></td></tr>
+<tr class="separator:a91bc49bfb3ee368a52784a1408627359"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa1eb3b883e36971e447a89ce30837e01" id="r_aa1eb3b883e36971e447a89ce30837e01"><td class="memItemLeft" align="right" valign="top"><a id="aa1eb3b883e36971e447a89ce30837e01" name="aa1eb3b883e36971e447a89ce30837e01"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsHoldingItem</b><code> [get]</code></td></tr>
+<tr class="separator:aa1eb3b883e36971e447a89ce30837e01"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <hr/>The documentation for this interface was generated from the following file:<ul>
-<li>Assets/Scripts/Oh Ship Core/Interfaces/<b>IHeldItem.cs</b></li>
+<li>Assets/Scripts/Oh Ship Core/Interfaces/<b>IHeldItemHandler.cs</b></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="interfaceIHeldItem.html">IHeldItem</a></li>
+    <li class="navelem"><a class="el" href="interfaceIHeldItemHandler.html">IHeldItemHandler</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>

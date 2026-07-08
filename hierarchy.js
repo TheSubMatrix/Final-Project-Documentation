@@ -83,10 +83,14 @@ var hierarchy =
       [ "RectTransformSizeDrawer", "classRectTransformSizeDrawer.html", null ]
     ] ],
     [ "IHeldItem", "interfaceIHeldItem.html", [
+      [ "BottleHeld", "classBottleHeld.html", null ],
       [ "FoodClass", "classFoodClass.html", [
         [ "Crab", "classCrab.html", null ],
         [ "Fish", "classFish.html", null ]
       ] ]
+    ] ],
+    [ "IHeldItemHandler", "interfaceIHeldItemHandler.html", [
+      [ "HeldItemHandler", "classHeldItemHandler.html", null ]
     ] ],
     [ "IInitializePotentialDragHandler", null, [
       [ "Unity.UI.Shaders.Sample.CustomSlider", "classUnity_1_1UI_1_1Shaders_1_1Sample_1_1CustomSlider.html", null ]
@@ -136,6 +140,8 @@ var hierarchy =
     [ "CalculateObjectVelocity.InputProperties", "classCalculateObjectVelocity_1_1InputProperties.html", null ],
     [ "InteractionSession", "classInteractionSession.html", null ],
     [ "InterfaceArgs", "structInterfaceArgs.html", null ],
+    [ "InterfaceReference< IHeldItem >", "classInterfaceReference.html", null ],
+    [ "InterfaceReference< IHeldItemHandler >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< IMessageDisplay >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< IPlayerControllable >", "classInterfaceReference.html", null ],
     [ "InterfaceReference< IPlayerControllable, MonoBehaviour >", "classInterfaceReference.html", null ],
@@ -220,6 +226,7 @@ var hierarchy =
     [ "MatrixUtils.Logging.CustomLogger_SO.LogSettings", "structMatrixUtils_1_1Logging_1_1CustomLogger__SO_1_1LogSettings.html", null ],
     [ "MonoBehaviour", null, [
       [ "BoatCoordinate", "classBoatCoordinate.html", null ],
+      [ "BottleHeld", "classBottleHeld.html", null ],
       [ "BottleInteractable", "classBottleInteractable.html", null ],
       [ "BuoyantBody", "classBuoyantBody.html", null ],
       [ "CharacterSelectionConfirm", "classCharacterSelectionConfirm.html", null ],
@@ -242,7 +249,7 @@ var hierarchy =
       [ "GameOverScreen", "classGameOverScreen.html", null ],
       [ "GramophoneInteractable", "classGramophoneInteractable.html", null ],
       [ "HatchInteractable", "classHatchInteractable.html", null ],
-      [ "HeldObjectHandler", "classHeldObjectHandler.html", null ],
+      [ "HeldItemHandler", "classHeldItemHandler.html", null ],
       [ "HelmInteractable", "classHelmInteractable.html", null ],
       [ "HelpButtonSelection", "classHelpButtonSelection.html", null ],
       [ "HelpMenuManager", "classHelpMenuManager.html", null ],
